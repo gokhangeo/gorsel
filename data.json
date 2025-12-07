@@ -1,31 +1,25 @@
 [
   {
-    "id": 1765105205688,
+    "id": 1765105383526,
     "category": "🚀 ÖZEL MODLARIM",
-    "title": "Şelale",
+    "title": "Palmiye",
     "hasImageUpload": true,
     "json": {
-      "Style": "Hyper-realistic portrait",
-      "Subject_Description": "A shirtless, barefoot man wearing orange floral boxer shorts. The face of the person must be 100% accurate to the uploaded reference image.",
-      "Action_Pose": "The man is captured mid-action, running at the very edge of a waterfall and actively jumping down into the water below, displaying a very excited and joyful expression.",
-      "Environment_Background": "A waterfall location featuring lush green trees. The background includes a clear blue sky with at least one visible bird. Several friends are visible in the distance, running, creating a competitive or chasing dynamic.",
-      "Lighting": "Bright daylight conditions with significant sun glaring visibly from the upper right corner of the image.",
-      "Camera_Settings": {
-        "Angle_Framing": "Very low vertical angle (worm's-eye view), with the man's feet highly prominent and one foot specifically zoomed in.",
-        "Perspective": "Ultra-wide view, captured from a corner side viewpoint."
-      },
-      "Quality": "HD 16K resolution quality",
+      "Format": "Editorial portrait",
+      "Subject": "The subject from the uploaded reference image in high quality. The face and the hairstyle must be identical to the submitted reference photo, ensuring 100% accuracy of the person's facial features.",
+      "Attire": "White linen short-sleeve shirt unbuttoned, navy blue swim shorts, and a leather cord necklace.",
+      "Footwear": "Barefoot.",
+      "Setting": "Tropical beach scene featuring a hammock suspended between palm trees, with turquoise water, white sand, and gentle waves.",
+      "Lighting": "Dappled sunlight filtering through palm fronds, creating natural spotlights and distinct tropical shadows.",
+      "Style": "Hyper-realistic",
       "inputs": {
-        "Style": "Hyper-realistic portrait",
-        "Subject_Description": "A shirtless, barefoot man wearing orange floral boxer shorts. The face of the person must be 100% accurate to the uploaded reference image.",
-        "Action_Pose": "The man is captured mid-action, running at the very edge of a waterfall and actively jumping down into the water below, displaying a very excited and joyful expression.",
-        "Environment_Background": "A waterfall location featuring lush green trees. The background includes a clear blue sky with at least one visible bird. Several friends are visible in the distance, running, creating a competitive or chasing dynamic.",
-        "Lighting": "Bright daylight conditions with significant sun glaring visibly from the upper right corner of the image.",
-        "Camera_Settings": {
-          "Angle_Framing": "Very low vertical angle (worm's-eye view), with the man's feet highly prominent and one foot specifically zoomed in.",
-          "Perspective": "Ultra-wide view, captured from a corner side viewpoint."
-        },
-        "Quality": "HD 16K resolution quality"
+        "Format": "Editorial portrait",
+        "Subject": "The subject from the uploaded reference image in high quality. The face and the hairstyle must be identical to the submitted reference photo, ensuring 100% accuracy of the person's facial features.",
+        "Attire": "White linen short-sleeve shirt unbuttoned, navy blue swim shorts, and a leather cord necklace.",
+        "Footwear": "Barefoot.",
+        "Setting": "Tropical beach scene featuring a hammock suspended between palm trees, with turquoise water, white sand, and gentle waves.",
+        "Lighting": "Dappled sunlight filtering through palm fronds, creating natural spotlights and distinct tropical shadows.",
+        "Style": "Hyper-realistic"
       }
     }
   },
