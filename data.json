@@ -1,25 +1,25 @@
 [
   {
-    "id": 1765105383526,
+    "id": 1765105495011,
     "category": "🚀 ÖZEL MODLARIM",
-    "title": "Palmiye",
+    "title": "Maldivler(Kadın)",
     "hasImageUpload": true,
     "json": {
-      "Format": "Editorial portrait",
-      "Subject": "The subject from the uploaded reference image in high quality. The face and the hairstyle must be identical to the submitted reference photo, ensuring 100% accuracy of the person's facial features.",
-      "Attire": "White linen short-sleeve shirt unbuttoned, navy blue swim shorts, and a leather cord necklace.",
-      "Footwear": "Barefoot.",
-      "Setting": "Tropical beach scene featuring a hammock suspended between palm trees, with turquoise water, white sand, and gentle waves.",
-      "Lighting": "Dappled sunlight filtering through palm fronds, creating natural spotlights and distinct tropical shadows.",
-      "Style": "Hyper-realistic",
+      "Subject": "A beautiful woman featured in a photorealistic luxury portrait. Her face must be rendered with 100% accuracy based on the uploaded reference image. She has long, softly wavy hair, glowing sun-kissed skin, and elegant warm-toned makeup. Her expression is calm, confident, and relaxed, and she is looking directly at the camera.",
+      "Setting": "Relaxing in a small boat on crystal-clear turquoise Maldives water. The background features iconic Maldives elements, including overwater villas in the distance.",
+      "Time/Lighting": "Golden hour, characterized by soft coral-toned sunset light. The shimmering turquoise water reflects the gold tones of the setting sun.",
+      "Attire": "A stylish green wrap-style bikini top, a flowing patterned sarong, and gold hoop earrings. Her nails are painted in a matching tropical green tone.",
+      "Props/Action": "She is holding a glass of fresh tropical juice which includes ice, a straw, and an orange slice resting on the rim.",
+      "Visual Effects": "Add gentle sparkles/shimmers on the water surface, along with a subtle lens glow around her hair.",
+      "Atmosphere/Style": "Serene, dreamy, exotic, and high-end. The overall mood should convey a luxury-resort atmosphere and a vacation-luxury editorial style.",
       "inputs": {
-        "Format": "Editorial portrait",
-        "Subject": "The subject from the uploaded reference image in high quality. The face and the hairstyle must be identical to the submitted reference photo, ensuring 100% accuracy of the person's facial features.",
-        "Attire": "White linen short-sleeve shirt unbuttoned, navy blue swim shorts, and a leather cord necklace.",
-        "Footwear": "Barefoot.",
-        "Setting": "Tropical beach scene featuring a hammock suspended between palm trees, with turquoise water, white sand, and gentle waves.",
-        "Lighting": "Dappled sunlight filtering through palm fronds, creating natural spotlights and distinct tropical shadows.",
-        "Style": "Hyper-realistic"
+        "Subject": "A beautiful woman featured in a photorealistic luxury portrait. Her face must be rendered with 100% accuracy based on the uploaded reference image. She has long, softly wavy hair, glowing sun-kissed skin, and elegant warm-toned makeup. Her expression is calm, confident, and relaxed, and she is looking directly at the camera.",
+        "Setting": "Relaxing in a small boat on crystal-clear turquoise Maldives water. The background features iconic Maldives elements, including overwater villas in the distance.",
+        "Time/Lighting": "Golden hour, characterized by soft coral-toned sunset light. The shimmering turquoise water reflects the gold tones of the setting sun.",
+        "Attire": "A stylish green wrap-style bikini top, a flowing patterned sarong, and gold hoop earrings. Her nails are painted in a matching tropical green tone.",
+        "Props/Action": "She is holding a glass of fresh tropical juice which includes ice, a straw, and an orange slice resting on the rim.",
+        "Visual Effects": "Add gentle sparkles/shimmers on the water surface, along with a subtle lens glow around her hair.",
+        "Atmosphere/Style": "Serene, dreamy, exotic, and high-end. The overall mood should convey a luxury-resort atmosphere and a vacation-luxury editorial style."
       }
     }
   },
