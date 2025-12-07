@@ -1,5 +1,49 @@
 [
   {
+    "id": 1765096418056,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Karakalem",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "An ultra-realistic, contemplative scene featuring a woman viewing a dramatic high-contrast self-portrait in a minimalist, modern gallery setting, utilizing a neutral and natural color palette.",
+      "inputs": {
+        "subject": {
+          "main_figure": "A woman with long dark hair.",
+          "pose": "Sits on a simple wooden chair, legs crossed, bare feet. Relaxed posture.",
+          "clothing": "Off-the-shoulder white top and beige/sand-colored jogger pants.",
+          "action": "Looks to the left, gazing intently at the artwork.",
+          "props": "Holds a pair of sunglasses or reading glasses in her right hand."
+        },
+        "artwork_focal_point": {
+          "location": "Large piece hangs on the right wall.",
+          "medium": "Black-and-white pencil or charcoal drawing.",
+          "subject": "Dramatic, high-contrast portrait of the same woman wearing the same outfit.",
+          "theme": "Strong visual dialogue between the woman and her own portrait."
+        },
+        "setting_and_background": {
+          "walls": "Smooth white minimalist wall, creating a clean, modern aesthetic.",
+          "foreground_elements": [
+            "Two stacked empty wooden frames on the floor (one large natural wood, one smaller white).",
+            "A small decorative object resembling a rustic windmill or tiny house placed near the frames."
+          ],
+          "atmosphere": "Artistic, contemplative, calm, modern, gallery-like mood."
+        },
+        "style_and_rendering": {
+          "rendering": "Ultra realistic, high clarity.",
+          "lighting": "Soft natural lighting, gentle shadows.",
+          "color_palette": "White, beige, wood tones, with stark contrast provided by the black-and-white artwork.",
+          "composition": "Balanced; woman on left, artwork on right, décor elements below.",
+          "aesthetic_quality": "High detail, professional art-scene aesthetic."
+        },
+        "metadata": {
+          "output_format": "Photographic image",
+          "image_ratio": "3:4",
+          "signature": "Shreya Yadav"
+        }
+      }
+    }
+  },
+  {
     "id": 1765095220450,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "3d karikatür ",
