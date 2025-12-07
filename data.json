@@ -1,5 +1,31 @@
 [
   {
+    "id": 1765093777248,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Çiftçi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Cinematic rural portrait of a modest Filipino farmer standing on a muddy rice field terrace at sunrise. The farmer is wearing simple local farm clothes: a loose cotton shirt with visible dirt stains, faded trousers, and worn rubber slippers. He is smiling happily while holding a native chicken. Beside him stands a majestic carabao, a goat, and a friendly brown dog. The background features lush tropical paddies bathed in soft mist and golden light. DSLR ultra-sharp detail, volumetric lighting, 8K resolution.",
+      "inputs": {
+        "image_style": "Cinematic rural portrait, Hyper-realistic photography, Ultra-sharp detail",
+        "subject": "Filipino farmer, native chicken, carabao, goat, brown dog",
+        "setting": "Muddy rice field terrace, sunrise, soft mist, tropical paddies",
+        "lighting_and_color": "Golden light, volumetric lighting, warm tones",
+        "resolution": "8K resolution, high-definition textures",
+        "aspect_ratio": "2:3 (Portrait)",
+        "control_parameters": {
+          "reference_image_face_control": {
+            "required": true,
+            "mode": "Face Reference / Face Swap",
+            "accuracy_score": "1.0 (100% fidelity to the uploaded face)",
+            "source": "uploaded_reference_image"
+          }
+        },
+        "negative_prompt": "blurry, low quality, cartoon, watermark, text, out of frame, bad anatomy, deformed limbs, modern accessories, plastic look, ugly, distorted perspective"
+      }
+    }
+  },
+  {
     "id": 1765093070677,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Çiçekler içinde",
