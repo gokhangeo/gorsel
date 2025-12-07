@@ -1,5 +1,27 @@
 [
   {
+    "id": 1765110640133,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "Havada asılı yemek",
+    "hasImageUpload": true,
+    "json": {
+      "Style": "Advertising-style food photography",
+      "Arrangement": "[Subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air and a splash of [subject 1] frozen in motion",
+      "Photography_Technique": "High-resolution photo manipulation",
+      "Lighting": "Dramatic lighting",
+      "Focus_and_Detail": "Selective soft focus and crisp detail",
+      "Negative_Space": "Clean negative space for text",
+      "inputs": {
+        "Style": "Advertising-style food photography",
+        "Arrangement": "[Subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air and a splash of [subject 1] frozen in motion",
+        "Photography_Technique": "High-resolution photo manipulation",
+        "Lighting": "Dramatic lighting",
+        "Focus_and_Detail": "Selective soft focus and crisp detail",
+        "Negative_Space": "Clean negative space for text"
+      }
+    }
+  },
+  {
     "id": 1765110543220,
     "category": "🍔 Yemek & Mutfak",
     "title": "Havada asılı yemek",
