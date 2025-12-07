@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765106539482,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kadın ve yemek",
+    "hasImageUpload": true,
+    "json": {
+      "Style": "Cinematic commercial advertisement quality, ultra-realistic photography, high detail, food advertisement aesthetic.",
+      "Perspective": "Low-angle perspective looking upward (worm's-eye view) over the dining table. Dynamic and immersive close-up Point-of-View (POV), with the food positioned very close to the camera.",
+      "Subject": "A woman with brown hair and warm skin tone, centered in the frame. The primary focus is solely on the woman and the food.",
+      "Action": "The woman is reaching toward the table and taking a single piece of the freshly steamed food, which is identical to the reference image.",
+      "Setting/Background": "An extraordinarily ornate and elite dining table is prominent in the foreground. The background features a bright blue sky, illuminated by soft natural light, conveying a fresh and spacious atmosphere.",
+      "Lighting/Mood": "Soft, diffused natural lighting creates a bright, highly appetizing, and realistic mood.",
+      "Key Constraints": "The food depicted must be 100% accurate to the provided reference image. No text, logos, or typography is allowed.",
+      "inputs": {
+        "Style": "Cinematic commercial advertisement quality, ultra-realistic photography, high detail, food advertisement aesthetic.",
+        "Perspective": "Low-angle perspective looking upward (worm's-eye view) over the dining table. Dynamic and immersive close-up Point-of-View (POV), with the food positioned very close to the camera.",
+        "Subject": "A woman with brown hair and warm skin tone, centered in the frame. The primary focus is solely on the woman and the food.",
+        "Action": "The woman is reaching toward the table and taking a single piece of the freshly steamed food, which is identical to the reference image.",
+        "Setting/Background": "An extraordinarily ornate and elite dining table is prominent in the foreground. The background features a bright blue sky, illuminated by soft natural light, conveying a fresh and spacious atmosphere.",
+        "Lighting/Mood": "Soft, diffused natural lighting creates a bright, highly appetizing, and realistic mood.",
+        "Key Constraints": "The food depicted must be 100% accurate to the provided reference image. No text, logos, or typography is allowed."
+      }
+    }
+  },
+  {
     "id": 1765106415335,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Adam ve yemek",
