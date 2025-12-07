@@ -1,5 +1,32 @@
 [
   {
+    "id": 1765094560982,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Papağanlar ",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Photorealistic Chaotic Tropical Selfie with Attention-Seeking Macaws",
+      "inputs": {
+        "primary_subject": "A smiling man (using 100% accurate facial reference for 100% facial accuracy) taking a photorealistic selfie. His arm is extended toward the camera, creating a point-of-view shot from the invisible phone.",
+        "key_elements": [
+          "Three wild macaw parrots displaying playful and chaotic interaction.",
+          "Macaw 1: Leaning aggressively toward the camera lens, beak very close, head tilted, appearing exaggerated due to wide-angle proximity.",
+          "Macaw 2: Pushing in from the side, wings slightly open, attempting to block or compete for the camera's attention.",
+          "Macaw 3: Perched calmly on the man's shoulder, adding extra personality.",
+          "All macaws must have extremely vibrant plumage (deep red, bright blue, yellow, and green) with crisp, high-detail feather texture."
+        ],
+        "environment_and_lighting": "Bright tropical jungle clearing. Warm golden sunlight filtering through dense jungle leaves, creating soft highlights on the man's face and the parrots.",
+        "composition_and_style": {
+          "style": "Photorealistic, High Definition, Wildlife Adventure Selfie.",
+          "camera_effects": "Slight selfie-style wide-angle distortion (fish-eye effect near the edges).",
+          "focus": "The man’s face must be sharp and in focus. The birds near the lens must appear exaggerated and dramatically close.",
+          "depth_of_field": "Background should have soft blur (bokeh) showing dense green tropical foliage."
+        },
+        "mood": "Fun, energetic, and chaotic."
+      }
+    }
+  },
+  {
     "id": 1765094324338,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Newyork",
