@@ -1,5 +1,37 @@
 [
   {
+    "id": 1765105754236,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kediler",
+    "hasImageUpload": true,
+    "json": {
+      "Style / Quality": "Ultra-detail, hyper-realistic, cinematic street photo",
+      "Aspect Ratio": "9:16",
+      "Technical Specifications": "Captured with Fujifilm X-T + 35mm f/1.4 lens, aperture f/2.0, ISO 200, shutter speed 1/250s",
+      "Color / Tone / Film": "warm cinematic with soft grain",
+      "Scene / Setting": "A warm and cozy atmosphere like a modern boudoir studio with soft orange blankets and fabrics around him.",
+      "Subject / Composition": "A young man with a smooth face, relaxed body surrounded by a pile of many fluffy cats leaning and sleeping around him. (Reference Image Note: The man is the one attached in the uploaded reference image. Keep the face of the person 100% accurate from the reference image.)",
+      "Expression": "relaxed and peaceful, eyes closed as if in a beautiful dream surrounded by beloved pets",
+      "Outfit / Accessories": "soft, oversized gray jacket hoodie, oversized black cargo pants, casual streetwear style",
+      "Pose / Angle / Framing": "Full body close-up (aerial shot POV), both hands folded on the chest, camera angle from above highlighting the crowd of cats hugging him",
+      "Lighting / Focus": "Soft directional lighting, subtle highlights on the face and cat fur, shallow depth of field with soft bokeh",
+      "Negative Prompt": "distorted face, strange body proportions, fur noise, creepy-looking cats, excessive blur, AI artifacts",
+      "inputs": {
+        "Style / Quality": "Ultra-detail, hyper-realistic, cinematic street photo",
+        "Aspect Ratio": "9:16",
+        "Technical Specifications": "Captured with Fujifilm X-T + 35mm f/1.4 lens, aperture f/2.0, ISO 200, shutter speed 1/250s",
+        "Color / Tone / Film": "warm cinematic with soft grain",
+        "Scene / Setting": "A warm and cozy atmosphere like a modern boudoir studio with soft orange blankets and fabrics around him.",
+        "Subject / Composition": "A young man with a smooth face, relaxed body surrounded by a pile of many fluffy cats leaning and sleeping around him. (Reference Image Note: The man is the one attached in the uploaded reference image. Keep the face of the person 100% accurate from the reference image.)",
+        "Expression": "relaxed and peaceful, eyes closed as if in a beautiful dream surrounded by beloved pets",
+        "Outfit / Accessories": "soft, oversized gray jacket hoodie, oversized black cargo pants, casual streetwear style",
+        "Pose / Angle / Framing": "Full body close-up (aerial shot POV), both hands folded on the chest, camera angle from above highlighting the crowd of cats hugging him",
+        "Lighting / Focus": "Soft directional lighting, subtle highlights on the face and cat fur, shallow depth of field with soft bokeh",
+        "Negative Prompt": "distorted face, strange body proportions, fur noise, creepy-looking cats, excessive blur, AI artifacts"
+      }
+    }
+  },
+  {
     "id": 1765105495011,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Maldivler(Kadın)",
