@@ -1,27 +1,27 @@
 [
   {
-    "id": 1765110367363,
+    "id": 1765110543220,
     "category": "🍔 Yemek & Mutfak",
     "title": "Havada asılı yemek",
     "hasImageUpload": true,
     "json": {
-      "Photography Style": "Advertising-style food photography",
-      "Subject": "[subject 1]",
-      "Composition": "[subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air.",
-      "Action Detail": "A splash of [subject 1] frozen in motion",
-      "Medium/Technique": "High-resolution photo manipulation",
-      "Lighting": "Dramatic lighting",
-      "Focus and Detail": "Selective soft focus and crisp detail",
-      "Output Requirement": "Clean negative space for text",
+      "Role": "Master commercial CGI artist and product photographer specializing in high-speed, dynamic food visualization.",
+      "Output Goal": "Generate a hyperrealistic harsh flash composite still-life image for a luxury food advertisement featuring hand-sculpted Hello Kitty-shaped Nigiri Sushi and a dynamic, suspended splash of Amber Soy Sauce.",
+      "Subject & Action": "The main subject is three pieces of Hello Kitty Nigiri made of glistening white sushi rice, featuring distinct bows crafted from fresh red Maguro tuna and eyes/whiskers made of cut Nori, arranged statically on a rustic wooden table. The secondary subjects are droplets of amber soy sauce and a single slice of bright green jalapeño levitating above the table. The image must prominently feature a high-speed splash of the soy sauce colliding with a falling grain of rice, frozen mid-air.",
+      "Camera & Optics": "The technical setup requires a 100mm Macro lens, an aperture of f/8.0 to ensure deep depth of field, an extremely fast 1/8000s shutter speed to perfectly freeze all motion, and a low ISO 100.",
+      "Lighting & Illumination": "The illumination utilizes an on-camera harsh flash, simulating a direct speedlight, which must create extreme, high-contrast black shadows and significant bright foreground blowout. There must be minimal light spill, emphasizing the Inverse Square Law to render a deep, black background.",
+      "Material & Surface Physics": "The rendering must include fine detail on the splash, showcasing sharp water tension and caustic light refraction. Subsurface scattering is essential for the natural, soft appearance of the tuna bow and semi-translucent rice grains. The rustic table surface requires detailed anisotropic wood grain texturing.",
+      "Composition & Layout": "The overall composition must adhere to the Rule of Thirds for optimal subject placement. Crucially, the image requires expansive, clean negative space surrounding the subjects for future text and logo placement in the advertisement.",
+      "Style & Accuracy": "The visual style must be hyper-detailed, advertising-grade photo-manipulation with 98% orthographic accuracy, ensuring perfect texturing and the absence of rendering artifacts.",
       "inputs": {
-        "Photography Style": "Advertising-style food photography",
-        "Subject": "[subject 1]",
-        "Composition": "[subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air.",
-        "Action Detail": "A splash of [subject 1] frozen in motion",
-        "Medium/Technique": "High-resolution photo manipulation",
-        "Lighting": "Dramatic lighting",
-        "Focus and Detail": "Selective soft focus and crisp detail",
-        "Output Requirement": "Clean negative space for text"
+        "Role": "Master commercial CGI artist and product photographer specializing in high-speed, dynamic food visualization.",
+        "Output Goal": "Generate a hyperrealistic harsh flash composite still-life image for a luxury food advertisement featuring hand-sculpted Hello Kitty-shaped Nigiri Sushi and a dynamic, suspended splash of Amber Soy Sauce.",
+        "Subject & Action": "The main subject is three pieces of Hello Kitty Nigiri made of glistening white sushi rice, featuring distinct bows crafted from fresh red Maguro tuna and eyes/whiskers made of cut Nori, arranged statically on a rustic wooden table. The secondary subjects are droplets of amber soy sauce and a single slice of bright green jalapeño levitating above the table. The image must prominently feature a high-speed splash of the soy sauce colliding with a falling grain of rice, frozen mid-air.",
+        "Camera & Optics": "The technical setup requires a 100mm Macro lens, an aperture of f/8.0 to ensure deep depth of field, an extremely fast 1/8000s shutter speed to perfectly freeze all motion, and a low ISO 100.",
+        "Lighting & Illumination": "The illumination utilizes an on-camera harsh flash, simulating a direct speedlight, which must create extreme, high-contrast black shadows and significant bright foreground blowout. There must be minimal light spill, emphasizing the Inverse Square Law to render a deep, black background.",
+        "Material & Surface Physics": "The rendering must include fine detail on the splash, showcasing sharp water tension and caustic light refraction. Subsurface scattering is essential for the natural, soft appearance of the tuna bow and semi-translucent rice grains. The rustic table surface requires detailed anisotropic wood grain texturing.",
+        "Composition & Layout": "The overall composition must adhere to the Rule of Thirds for optimal subject placement. Crucially, the image requires expansive, clean negative space surrounding the subjects for future text and logo placement in the advertisement.",
+        "Style & Accuracy": "The visual style must be hyper-detailed, advertising-grade photo-manipulation with 98% orthographic accuracy, ensuring perfect texturing and the absence of rendering artifacts."
       }
     }
   },
