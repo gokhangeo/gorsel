@@ -1,5 +1,30 @@
 [
   {
+    "id": 1765094190931,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Şu çiçeği ",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Luxury Editorial Golden Hour Portrait: Man Lying in Water with Cherry Blossoms, High Fidelity Face Lock.",
+      "inputs": {
+        "image_prompt": "Editorial fashion portrait, man wearing a dark t-shirt lying in water surrounded by floating cherry blossoms flowers. Glossy wet skin with dramatic light refractions, natural lip color, natural fresh look. Dark aquatic background filled with flowers.",
+        "image_reference": {
+          "reference_url": "{{uploaded_reference_image_url}}",
+          "face_fidelity_accuracy": "100% accurate face replication",
+          "fidelity_mode": "Strict Face Lock"
+        },
+        "shot_type": "Medium Close-up Shot",
+        "lighting": "Cinematic golden hour lighting reflecting ripples across his face, dramatic light refractions.",
+        "vibe": "Luxury skincare commercial vibe",
+        "style_and_texture": "Style raw, hyperdetailed, photorealistic.",
+        "camera_setup": {
+          "camera": "Canon EOS 5D Mark IV",
+          "lens": "35mm f/1.8 lens"
+        }
+      }
+    }
+  },
+  {
     "id": 1765093777248,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Çiftçi",
