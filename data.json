@@ -1,5 +1,71 @@
 [
   {
+    "id": 1765093070677,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Çiçekler içinde",
+    "hasImageUpload": true,
+    "json": {
+      "template_name": "DSLR_Sunflower_Hybrid_Portrait",
+      "aspect_ratio": "4:5",
+      "concept": "Hyper-realistic DSLR portrait of a subject in a sunflower field, combining traditional embroidered clothing with tactical military gear. The mood is symbolic and hopeful, captured under strong, warm natural sunlight with shallow depth of field.",
+      "inputs": {
+        "subject": {
+          "type": "Person",
+          "expression": "Serious and calm expression",
+          "clothing": "White traditional embroidered shirt (red and black patterns), worn tactical vest (dusty, used, with visible pockets and straps). Fingerless gloves.",
+          "accessories": "Large, dense flower crown made of daisies, chamomile, and small yellow blossoms.",
+          "prop": "Small aesthetic vintage-style compact film camera, held gently with both hands.",
+          "realism_details": "Face has natural freckles, visible sweat, and slight dirt for extreme realism."
+        },
+        "composition": {
+          "shot_type": "Medium portrait shot, chest up",
+          "framing": "Centered",
+          "angle": "Slightly low camera angle, making the subject look upward toward the sky",
+          "view_details": "Flower crown is fully visible in frame."
+        },
+        "action": {
+          "pose": "Standing still",
+          "gaze": "Eyes looking slightly upward toward the bright sky, conveying a hopeful or thoughtful look.",
+          "holding": "Vintage camera held in a natural, gentle grip."
+        },
+        "environment": {
+          "location": "Wide sunflower field, tall sunflowers surround the subject.",
+          "time_of_day": "Clear daylight (midday/afternoon)",
+          "sky": "Deep teal-blue cinematic sky with a few soft clouds."
+        },
+        "details_and_texture": {
+          "flowers": "Sunflowers in full bloom with highly detailed petals and textured centers. Vibrant yellow tones.",
+          "fabric_details": "Sharp embroidery with visible thread detail on the shirt. Tactical vest texture shows wear and dust. Fabric wear on fingerless gloves.",
+          "camera_details": "Vintage style camera with detailed metal parts, textured grip, and subtle reflections."
+        },
+        "lighting": {
+          "type": "Strong natural sunlight, high dynamic range (HDR)",
+          "direction": "From above and slightly to the side",
+          "effect": "Warm highlights on the face, crown, camera, and sunflowers. Shadows are soft but clearly defined around the nose, chin, and vest. Realistic DSLR lighting quality."
+        },
+        "color_tone": {
+          "palette": "Warm earthy colors, golden yellows, soft browns, and natural greens.",
+          "accents": "Red and black embroidery patterns.",
+          "skin_tone": "Warm, natural sunlit glow.",
+          "sky_tone": "Deep teal cinematic tone."
+        },
+        "depth_focus": {
+          "focus_point": "Crisp focus on the person’s face, flower crown, camera, and vest.",
+          "depth_of_field": "Shallow depth of field, typical of a DSLR portrait lens. Background sunflowers are slightly blurred (bokeh)."
+        },
+        "mood_and_style": {
+          "mood": "Hopeful, grounded, natural, heroic, symbolic, and emotional.",
+          "style": "Hyper-realistic DSLR portrait photograph. High fidelity, zero CGI or painted look."
+        },
+        "editing_instructions": {
+          "face_swap_priority": "Replace ONLY the person’s face with the uploaded face image.",
+          "continuity_match": "Maintain existing hair, flower crown, clothing, vest, hands, camera, body shape, and environment.",
+          "lighting_integration": "Seamlessly match the new face to the harsh natural sunlight, warm color tones, and natural shadow placement."
+        }
+      }
+    }
+  },
+  {
     "id": 201,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "201. Tropikal Havuz Bar",
@@ -1710,4 +1776,3 @@
     }
   }
 ]
-
