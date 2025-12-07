@@ -1,5 +1,25 @@
 [
   {
+    "id": 1765102911606,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Eski Foto İyileştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Custom",
+      "inputs": {
+        "CoreService": "Ultra high-resolution photo enhancement and upscaling.",
+        "TargetAesthetic": "crystal-clear, detailed, realistic quality.",
+        "DefectRemoval": "Remove noise, blur, grain, scratches, and compression artifacts. Repair old damage or missing details.",
+        "DetailProcessing": "Sharpen all important details while keeping natural texture.",
+        "ColorToneAdjustment": "Restore faded colors, balance exposure, increase clarity and contrast.",
+        "FacialEnhancement": "Improve skin tone and facial features naturally, without altering identity.",
+        "FinalResult": "Produce a clean, vibrant, ultra-realistic result with perfect sharpness.",
+        "Lighting": "soft cinematic lighting",
+        "OutputResolution": "8K / 16K ultra HD."
+      }
+    }
+  },
+  {
     "id": 1765096719332,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Karakalem",
