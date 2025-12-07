@@ -1,5 +1,23 @@
 [
   {
+    "id": 1765092027349,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Şehir 3d",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Istanbul_Diorama_Cutaway",
+      "inputs": {
+        "prompt_base": "Hyper-realistic 3D square diorama of Istanbul, carved out with exposed soil cross-section beneath showing rocks, roots, and earth layers. Above: whimsical fairytale cityscape featuring iconic landmarks, architecture, and cultural elements of Istanbul. Modern white label integrated naturally. Pure white studio background with soft natural lighting. DSLR photograph quality - crisp, vibrant, magical realism style.",
+        "subject": "Istanbul Diroma Cutaway",
+        "style": "Hyper-realistic 3D, Magical Realism, DSLR Photography",
+        "mood": "Whimsical, Crisp, Vibrant",
+        "color_scheme": "Rich and vibrant colors contrasted with white studio background",
+        "label_text": "Istanbul",
+        "dimensions": "1080x1080"
+      }
+    }
+  },
+  {
     "id": 1765091970426,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "",
