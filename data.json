@@ -1,5 +1,31 @@
 [
   {
+    "id": 1765110367363,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "Havada asılı yemek",
+    "hasImageUpload": true,
+    "json": {
+      "Photography Style": "Advertising-style food photography",
+      "Subject": "[subject 1]",
+      "Composition": "[subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air.",
+      "Action Detail": "A splash of [subject 1] frozen in motion",
+      "Medium/Technique": "High-resolution photo manipulation",
+      "Lighting": "Dramatic lighting",
+      "Focus and Detail": "Selective soft focus and crisp detail",
+      "Output Requirement": "Clean negative space for text",
+      "inputs": {
+        "Photography Style": "Advertising-style food photography",
+        "Subject": "[subject 1]",
+        "Composition": "[subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air.",
+        "Action Detail": "A splash of [subject 1] frozen in motion",
+        "Medium/Technique": "High-resolution photo manipulation",
+        "Lighting": "Dramatic lighting",
+        "Focus and Detail": "Selective soft focus and crisp detail",
+        "Output Requirement": "Clean negative space for text"
+      }
+    }
+  },
+  {
     "id": 1765106837783,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Stüdyo Portre(Erkek)",
