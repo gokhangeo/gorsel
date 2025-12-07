@@ -1,33 +1,21 @@
 [
   {
-    "id": 1765105754236,
+    "id": 1765105908642,
     "category": "🚀 ÖZEL MODLARIM",
-    "title": "Kediler",
+    "title": "Balık",
     "hasImageUpload": true,
     "json": {
-      "Style / Quality": "Ultra-detail, hyper-realistic, cinematic street photo",
-      "Aspect Ratio": "9:16",
-      "Technical Specifications": "Captured with Fujifilm X-T + 35mm f/1.4 lens, aperture f/2.0, ISO 200, shutter speed 1/250s",
-      "Color / Tone / Film": "warm cinematic with soft grain",
-      "Scene / Setting": "A warm and cozy atmosphere like a modern boudoir studio with soft orange blankets and fabrics around him.",
-      "Subject / Composition": "A young man with a smooth face, relaxed body surrounded by a pile of many fluffy cats leaning and sleeping around him. (Reference Image Note: The man is the one attached in the uploaded reference image. Keep the face of the person 100% accurate from the reference image.)",
-      "Expression": "relaxed and peaceful, eyes closed as if in a beautiful dream surrounded by beloved pets",
-      "Outfit / Accessories": "soft, oversized gray jacket hoodie, oversized black cargo pants, casual streetwear style",
-      "Pose / Angle / Framing": "Full body close-up (aerial shot POV), both hands folded on the chest, camera angle from above highlighting the crowd of cats hugging him",
-      "Lighting / Focus": "Soft directional lighting, subtle highlights on the face and cat fur, shallow depth of field with soft bokeh",
-      "Negative Prompt": "distorted face, strange body proportions, fur noise, creepy-looking cats, excessive blur, AI artifacts",
+      "Subject": "A happy, smiling man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) sits on a wooden swing.",
+      "Environment/Setting": "The swing is suspended just above a large, calm, teal-colored pond or lake. His feet are partially dipped into the water, creating concentric ripples. The water below is clear, revealing several vibrant koi fish (Nishikigoi) swimming and gathering. The setting is an idyllic forest clearing with tall pine trees surrounding the water, creating a dense, verdant backdrop.",
+      "Lighting and Mood": "The lighting is a golden hour, late afternoon sun that creates a lens flare and a dreamy, warm glow on the upper left, casting soft, flattering light on the subject and illuminating the treetops. The mood is serene, adventurous, and warm.",
+      "Outfit and Appearance": "He is wearing white casual shorts, a dark brown or black open, unbuttoned collared shirt (overshirt), and a light brown/beige tank top or crewneck shirt underneath. He has a dark necklace with a pendant and is wearing a dark baseball cap backward. His footwear consists of dark slides or sandals.",
+      "Composition and Technical Details": "The composition is a centered, full-body shot with a professional quality. The view is straight-on with the man looking directly at the camera. The man's pose is relaxed, holding onto the thick ropes of the swing. The photo has a shallow depth of field (bokeh), making the background beautifully blurred. The aspect ratio is vertical, and it should be captured with a 35mm or 50mm lens.",
       "inputs": {
-        "Style / Quality": "Ultra-detail, hyper-realistic, cinematic street photo",
-        "Aspect Ratio": "9:16",
-        "Technical Specifications": "Captured with Fujifilm X-T + 35mm f/1.4 lens, aperture f/2.0, ISO 200, shutter speed 1/250s",
-        "Color / Tone / Film": "warm cinematic with soft grain",
-        "Scene / Setting": "A warm and cozy atmosphere like a modern boudoir studio with soft orange blankets and fabrics around him.",
-        "Subject / Composition": "A young man with a smooth face, relaxed body surrounded by a pile of many fluffy cats leaning and sleeping around him. (Reference Image Note: The man is the one attached in the uploaded reference image. Keep the face of the person 100% accurate from the reference image.)",
-        "Expression": "relaxed and peaceful, eyes closed as if in a beautiful dream surrounded by beloved pets",
-        "Outfit / Accessories": "soft, oversized gray jacket hoodie, oversized black cargo pants, casual streetwear style",
-        "Pose / Angle / Framing": "Full body close-up (aerial shot POV), both hands folded on the chest, camera angle from above highlighting the crowd of cats hugging him",
-        "Lighting / Focus": "Soft directional lighting, subtle highlights on the face and cat fur, shallow depth of field with soft bokeh",
-        "Negative Prompt": "distorted face, strange body proportions, fur noise, creepy-looking cats, excessive blur, AI artifacts"
+        "Subject": "A happy, smiling man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) sits on a wooden swing.",
+        "Environment/Setting": "The swing is suspended just above a large, calm, teal-colored pond or lake. His feet are partially dipped into the water, creating concentric ripples. The water below is clear, revealing several vibrant koi fish (Nishikigoi) swimming and gathering. The setting is an idyllic forest clearing with tall pine trees surrounding the water, creating a dense, verdant backdrop.",
+        "Lighting and Mood": "The lighting is a golden hour, late afternoon sun that creates a lens flare and a dreamy, warm glow on the upper left, casting soft, flattering light on the subject and illuminating the treetops. The mood is serene, adventurous, and warm.",
+        "Outfit and Appearance": "He is wearing white casual shorts, a dark brown or black open, unbuttoned collared shirt (overshirt), and a light brown/beige tank top or crewneck shirt underneath. He has a dark necklace with a pendant and is wearing a dark baseball cap backward. His footwear consists of dark slides or sandals.",
+        "Composition and Technical Details": "The composition is a centered, full-body shot with a professional quality. The view is straight-on with the man looking directly at the camera. The man's pose is relaxed, holding onto the thick ropes of the swing. The photo has a shallow depth of field (bokeh), making the background beautifully blurred. The aspect ratio is vertical, and it should be captured with a 35mm or 50mm lens."
       }
     }
   },
