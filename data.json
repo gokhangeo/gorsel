@@ -1,5 +1,23 @@
 [
   {
+    "id": 1765095220450,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "3d karikatür ",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Polished 3D Stylized Caricature Portrait",
+      "inputs": {
+        "subject_source": "Person from the uploaded image",
+        "style_treatment": "Highly stylized 3D caricature with playful exaggeration",
+        "facial_features": "Expressive facial features emphasized",
+        "rendering_finish": "Smooth and polished style with clean materials",
+        "lighting": "Soft ambient lighting",
+        "environment": "Bold, solid color background",
+        "overall_goal": "Emphasize character’s charm and presence"
+      }
+    }
+  },
+  {
     "id": 1765094560982,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Papağanlar ",
