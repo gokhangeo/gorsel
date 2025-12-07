@@ -1,5 +1,39 @@
 [
   {
+    "id": 1765096719332,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Karakalem",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A woman with long dark hair sits on a simple wooden chair, legs crossed, bare feet. She wears an off-the-shoulder white top and beige/sand-colored jogger pants. Her posture is relaxed as she looks to the left, gazing intently at the artwork. She holds a pair of sunglasses/reading glasses in her right hand.",
+      "Artwork_Description": "A large black-and-white pencil/charcoal drawing hangs on the right wall. It is a dramatic, high-contrast portrait of the same woman wearing the same outfit.",
+      "Background": "Smooth white minimalist wall that creates a clean, modern aesthetic.",
+      "Foreground_Elements": "Two empty wooden frames stacked on the floor (one large natural wood, one smaller white). A small decorative object resembling a rustic windmill or tiny house is placed near the frames.",
+      "Atmosphere_Mood": "Artistic, contemplative, neutral-toned. Strong visual dialogue between the woman and her own portrait. Calm, modern, gallery-like mood.",
+      "Signature_Credit": "Shreya Yadav",
+      "Aspect_Ratio": "3:4",
+      "Style_Rendering": "Ultra realistic, soft natural lighting, gentle shadows, high clarity.",
+      "Color_Scheme": "White, beige, wood tones, black-and-white artwork contrast.",
+      "Composition": "Balanced; woman on left, artwork on right, décor elements below.",
+      "Output_Format": "Photographic image",
+      "Output_Quality": "High detail, professional art-scene aesthetic",
+      "inputs": {
+        "Subject": "A woman with long dark hair sits on a simple wooden chair, legs crossed, bare feet. She wears an off-the-shoulder white top and beige/sand-colored jogger pants. Her posture is relaxed as she looks to the left, gazing intently at the artwork. She holds a pair of sunglasses/reading glasses in her right hand.",
+        "Artwork_Description": "A large black-and-white pencil/charcoal drawing hangs on the right wall. It is a dramatic, high-contrast portrait of the same woman wearing the same outfit.",
+        "Background": "Smooth white minimalist wall that creates a clean, modern aesthetic.",
+        "Foreground_Elements": "Two empty wooden frames stacked on the floor (one large natural wood, one smaller white). A small decorative object resembling a rustic windmill or tiny house is placed near the frames.",
+        "Atmosphere_Mood": "Artistic, contemplative, neutral-toned. Strong visual dialogue between the woman and her own portrait. Calm, modern, gallery-like mood.",
+        "Signature_Credit": "Shreya Yadav",
+        "Aspect_Ratio": "3:4",
+        "Style_Rendering": "Ultra realistic, soft natural lighting, gentle shadows, high clarity.",
+        "Color_Scheme": "White, beige, wood tones, black-and-white artwork contrast.",
+        "Composition": "Balanced; woman on left, artwork on right, décor elements below.",
+        "Output_Format": "Photographic image",
+        "Output_Quality": "High detail, professional art-scene aesthetic"
+      }
+    }
+  },
+  {
     "id": 1765096418056,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Karakalem",
