@@ -1,5 +1,26 @@
 [
   {
+    "id": 1765094324338,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Newyork",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Times Square Rainy Night Portrait: Varsity Jacket Aesthetic",
+      "inputs": {
+        "prompt": "A highly realistic, HD, authentic rainy-night portrait taken in New York's Times Square. The composition is deliberately heavy on the left side, featuring towering LED billboards stacked vertically, specifically including one vertical white-on-black text block and another huge curved screen above a yellow arrow marking the Hershey's store. The Subject is positioned on the right side of the frame, standing near the curb on the glistening, wet asphalt street. City taxis and red brake lights stretch into the background in a slow, receding line. The environment is lit by neon magentas and icy blues reflected sharply in the wet pavement and puddles, which catch streaks of light around scattered takeaway cups by the sidewalk edge. Subject wears an oversized black faux-leather varsity jacket featuring a cobalt panel, a cream stripe across the chest, 'Vintage' script embroidery on one side, block 'OF' letters, and a bold '1987' patch worked down the sleeve. The reflective piping along the shoulder subtly picks up purple highlights. Subject holds a folded black umbrella by the handle, maintaining a relaxed pose facing the camera. Scaffolding and stacked storefront signs recede into the electric, intimate night atmosphere. Natural light, cinematic quality.",
+        "negative_prompt": "Low resolution, blurry, morning, daytime, sunny, dry street, cartoon, deep shadows on face, low contrast, unrealistic lighting, distorted signs, wrong location.",
+        "style": "Photo-Realistic, Authentic, Natural, iPhone Camera aesthetic",
+        "lighting": "Neon street lighting, high contrast reflections, wet surface glare.",
+        "composition": "Portrait orientation (3:4), heavy left side, subject on the right, deep depth of field.",
+        "aspect_ratio": "3:4",
+        "subject_constraints": {
+          "facial_identity_lock": true,
+          "identity_description": "Subjects must look 1000% identical to uploaded images. Do not change facial features."
+        }
+      }
+    }
+  },
+  {
     "id": 1765094190931,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Şu çiçeği ",
