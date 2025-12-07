@@ -1,25 +1,99 @@
 [
   {
-    "id": 1765106607744,
-    "category": "🍔 Yemek & Mutfak",
-    "title": "Kadın ve yemek",
+    "id": 1765106674765,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Sticker",
     "hasImageUpload": true,
     "json": {
-      "Style": "Cinematic commercial advertisement quality, ultra-realistic photography, high detail, food advertisement aesthetic.",
-      "Perspective": "Low-angle perspective looking upward (worm's-eye view) over the dining table. Dynamic and immersive close-up Point-of-View (POV), with the food positioned very close to the camera.",
-      "Subject": "A woman with brown hair and warm skin tone, centered in the frame. The primary focus is solely on the woman and the food.",
-      "Action": "The woman is reaching toward the table and taking a single piece of the freshly steamed food, which is identical to the reference image.",
-      "Setting/Background": "An extraordinarily ornate and elite dining table is prominent in the foreground. The background features a bright blue sky, illuminated by soft natural light, conveying a fresh and spacious atmosphere.",
-      "Lighting/Mood": "Soft, diffused natural lighting creates a bright, highly appetizing, and realistic mood.",
-      "Key Constraints": "The food depicted must be 100% accurate to the provided reference image. No text, logos, or typography is allowed.",
+      "GoalAndConstraints": "Create an ultra-realistic sticker set of the woman, maintaining 100% of the woman's original facial features from the provided image. The focus must be on ultra-realistic details of the facial structure, eyes, eyebrows, nose, mouth, and expression. The final face must be rendered with professional studio lighting, ensuring it is photorealistic and not cartoon-like.",
+      "FacialStylingAndMakeup": {
+        "GeneralTone": "Preserve the original structure of the face, eyes, eyebrows, nose, mouth, and expression as closely as possible to the original image to maintain naturalness and uniqueness, while adjusting the tone to be softer.",
+        "Eyes": "Slightly reduce the sharpness of the Cat Eye eyeliner to a thin line close to the lash line for a softer look, while still maintaining eye definition.",
+        "Eyeshadow": "Use natural tones such as light brown, peach, or beige.",
+        "Eyebrows": "Maintain the original shape, but they should be brushed up to look softer and more natural.",
+        "Lips": "Apply a glossy, pink-tinted, nude-pink, or coral-toned lipstick/tint to make the lips look full and moisturized, focusing on a bright but not overly intense look."
+      },
+      "Hairstyle": "Natural, voluminous, long hair. Her hair is long and flowing, styled to emphasize natural volume and movement, featuring soft, natural waves.",
+      "OutfitAndFootwear": {
+        "Attire": "A white open-back bodysuit paired with distressed, faded blue denim shorts.",
+        "Shoes": "Elegant, simple open-toe flat sandals."
+      },
+      "Accessories": "Accessories should be styled freely and fittingly for each scene.",
+      "PosesAndActions": "The subject should adopt various cheerful and friendly poses, such as: waving, jumping, walking playfully, reading a book, holding up a sign, cheering with both hands, stretching, or making a celebratory gesture. The pose must match the accompanying text.",
+      "StickerElementsAndDecorations": "Include elements like small rainbows, sparkling stars, clear bubbles, hearts, balloons, or light-colored dots to decorate and enhance the fun of each sticker scene.",
+      "TextPhrases": [
+        "Hello",
+        "LoveU",
+        "Bye",
+        "Cool",
+        "Yes",
+        "Thank You",
+        "Sorry",
+        "Ok",
+        "No",
+        "So cute",
+        "SO GOOD",
+        "Good Luck",
+        "GOOD Night",
+        "GOOD Bye",
+        "555",
+        "Oh",
+        "HBD",
+        "OMG",
+        "Hapyy",
+        "Hi"
+      ],
+      "StylingAndTechnicalGuidelines": {
+        "Border": "A thin black border must surround the sticker.",
+        "Font": "Use a modern, rounded 'Itim' style font for the text.",
+        "TextPlacement": "Add short emotional phrases written in a cute, beautiful Thai script near the sticker, without the inclusion of speech bubbles or text boxes.",
+        "Composition": "Ensure balanced composition with sufficient white space, avoiding a cluttered appearance."
+      },
       "inputs": {
-        "Style": "Cinematic commercial advertisement quality, ultra-realistic photography, high detail, food advertisement aesthetic.",
-        "Perspective": "Low-angle perspective looking upward (worm's-eye view) over the dining table. Dynamic and immersive close-up Point-of-View (POV), with the food positioned very close to the camera.",
-        "Subject": "A woman with brown hair and warm skin tone, centered in the frame. The primary focus is solely on the woman and the food.",
-        "Action": "The woman is reaching toward the table and taking a single piece of the freshly steamed food, which is identical to the reference image.",
-        "Setting/Background": "An extraordinarily ornate and elite dining table is prominent in the foreground. The background features a bright blue sky, illuminated by soft natural light, conveying a fresh and spacious atmosphere.",
-        "Lighting/Mood": "Soft, diffused natural lighting creates a bright, highly appetizing, and realistic mood.",
-        "Key Constraints": "The food depicted must be 100% accurate to the provided reference image. No text, logos, or typography is allowed."
+        "GoalAndConstraints": "Create an ultra-realistic sticker set of the woman, maintaining 100% of the woman's original facial features from the provided image. The focus must be on ultra-realistic details of the facial structure, eyes, eyebrows, nose, mouth, and expression. The final face must be rendered with professional studio lighting, ensuring it is photorealistic and not cartoon-like.",
+        "FacialStylingAndMakeup": {
+          "GeneralTone": "Preserve the original structure of the face, eyes, eyebrows, nose, mouth, and expression as closely as possible to the original image to maintain naturalness and uniqueness, while adjusting the tone to be softer.",
+          "Eyes": "Slightly reduce the sharpness of the Cat Eye eyeliner to a thin line close to the lash line for a softer look, while still maintaining eye definition.",
+          "Eyeshadow": "Use natural tones such as light brown, peach, or beige.",
+          "Eyebrows": "Maintain the original shape, but they should be brushed up to look softer and more natural.",
+          "Lips": "Apply a glossy, pink-tinted, nude-pink, or coral-toned lipstick/tint to make the lips look full and moisturized, focusing on a bright but not overly intense look."
+        },
+        "Hairstyle": "Natural, voluminous, long hair. Her hair is long and flowing, styled to emphasize natural volume and movement, featuring soft, natural waves.",
+        "OutfitAndFootwear": {
+          "Attire": "A white open-back bodysuit paired with distressed, faded blue denim shorts.",
+          "Shoes": "Elegant, simple open-toe flat sandals."
+        },
+        "Accessories": "Accessories should be styled freely and fittingly for each scene.",
+        "PosesAndActions": "The subject should adopt various cheerful and friendly poses, such as: waving, jumping, walking playfully, reading a book, holding up a sign, cheering with both hands, stretching, or making a celebratory gesture. The pose must match the accompanying text.",
+        "StickerElementsAndDecorations": "Include elements like small rainbows, sparkling stars, clear bubbles, hearts, balloons, or light-colored dots to decorate and enhance the fun of each sticker scene.",
+        "TextPhrases": [
+          "Hello",
+          "LoveU",
+          "Bye",
+          "Cool",
+          "Yes",
+          "Thank You",
+          "Sorry",
+          "Ok",
+          "No",
+          "So cute",
+          "SO GOOD",
+          "Good Luck",
+          "GOOD Night",
+          "GOOD Bye",
+          "555",
+          "Oh",
+          "HBD",
+          "OMG",
+          "Hapyy",
+          "Hi"
+        ],
+        "StylingAndTechnicalGuidelines": {
+          "Border": "A thin black border must surround the sticker.",
+          "Font": "Use a modern, rounded 'Itim' style font for the text.",
+          "TextPlacement": "Add short emotional phrases written in a cute, beautiful Thai script near the sticker, without the inclusion of speech bubbles or text boxes.",
+          "Composition": "Ensure balanced composition with sufficient white space, avoiding a cluttered appearance."
+        }
       }
     }
   },
