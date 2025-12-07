@@ -1,0 +1,1713 @@
+[
+  {
+    "id": 201,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "201. Tropikal Havuz Bar",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Luxury Resort",
+      "inputs": {
+        "ekstra": "Güneş gözlüğü ekle",
+        "prompt_base": "A man attached in the uploaded reference image (Keep the face of the person 100% accurate from the reference image ), he is in a swimming pool. , while holding a coconut drink with a straw. He is at a swim-up bar. In the foreground, there is a round bar counter with various tropical fruits like watermelon slices, pineapples, strawberries, and coconuts. The setting is a bright, lush indoor tropical resort or water park, with clear blue water and abundant green foliage overhead, creating dappled shade. Style/Effect: High-quality commercial photo, vibrant, tropical, summery, resort-themed, clean, and in sharp focus. Lighting: Bright, naturalistic daylight, with soft shadows and a warm glow. Man's Pose/View: he is submerged in the water up to his chest, facing slightly forward. His mouth is slightly open. He has a muscular build. Camera/Composition: Medium-close shot, eye-level perspective, shallow depth of field (bokeh background), using an 85mm prime lens. The focus is sharp on the couple."
+      }
+    }
+  },
+  {
+    "id": 999,
+    "category": "⭐ Özel Çözüm",
+    "title": "Doku ve Kalite İyileştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Restorasyon",
+      "inputs": {
+        "degisiklik": "Make texture hyper-realistic, fix lighting",
+        "korunacak": "Keep shape exactly"
+      }
+    }
+  },
+  {
+    "id": 0,
+    "category": "✨ Serbest Mod",
+    "title": "AI ile Serbest Üretim",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sınırsız",
+      "inputs": {
+        "talimat": "Ne yapmak istediğini yaz..."
+      }
+    }
+  },
+  {
+    "id": 177,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "177. İnfografik Yemek Posteri",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Schema Poster",
+      "inputs": {
+        "brand": "",
+        "product": "",
+        "headline": "",
+        "prompt_base": "Create a 9:16 product infographic..."
+      }
+    }
+  },
+  {
+    "id": 176,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "176. Tarif İnfografiği",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Yemek İnfografiği",
+      "inputs": {
+        "yemek_adi": "Karnıyarık",
+        "malzemeler": "Patlıcan, kıyma",
+        "prompt_base": "Recipe infographic..."
+      }
+    }
+  },
+  {
+    "id": 173,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "173. Reklam Tarzı (Uçan Malzemeler)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Reklam Fotoğrafçılığı",
+      "inputs": {
+        "ana_ozne": "Hamburger",
+        "ucan_ozne": "Marul, domates",
+        "prompt_base": "Advertising-style food photography..."
+      }
+    }
+  },
+  {
+    "id": 172,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "172. Dinamik Reklam (Splash)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Reklam Fotoğrafı",
+      "inputs": {
+        "ana_urun": "Tabaktaki ürün",
+        "ucan_parca": "Havada asılı malzeme"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "11. İştah Açıcı Görsel",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Gurme",
+      "inputs": {
+        "detay": "Buhar, sos, taze otlar ekle"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "27. İçecek Reklamı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "İçecek",
+      "inputs": {
+        "detay": "Buz, damlacıklar, ferahlık"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "48. Tarım Ürünü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Doğal",
+      "inputs": {
+        "urun": "Taze toplanmış görünüm"
+      }
+    }
+  },
+  {
+    "id": 117,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "117. Malzemelerden Yemek",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Pişirme",
+      "inputs": {
+        "sonuc": "Son hali nasıl olsun?"
+      }
+    }
+  },
+  {
+    "id": 129,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "129. Patlayan Yiyecekler",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Dinamik",
+      "inputs": {
+        "efekt": "Havada uçuşan malzemeler"
+      }
+    }
+  },
+  {
+    "id": 147,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "147. Kalori Etiketi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Bilgi",
+      "inputs": {
+        "etiketler": "Kalori değerleri ekle"
+      }
+    }
+  },
+  {
+    "id": 170,
+    "category": "🍔 Yemek & Mutfak",
+    "title": "170. Yemek Füzyonu",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Füzyon",
+      "inputs": {
+        "birlesim": "İki yemeği tek tabakta birleştir"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "category": "👗 Moda & Giyim",
+    "title": "10. Kıyafet Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanal Giyim",
+      "inputs": {
+        "yeni_kiyafet": "Kırmızı ipek elbise"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "category": "👗 Moda & Giyim",
+    "title": "52. Takı & Aksesuar",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Mücevher",
+      "inputs": {
+        "detay": "Parlaklık, makro çekim"
+      }
+    }
+  },
+  {
+    "id": 92,
+    "category": "👗 Moda & Giyim",
+    "title": "92. T-shirt Tasarımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Baskı",
+      "inputs": {
+        "grafik": "Tişört üzerindeki desen"
+      }
+    }
+  },
+  {
+    "id": 114,
+    "category": "👗 Moda & Giyim",
+    "title": "114. Saç Modeli Değiştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kuaför",
+      "inputs": {
+        "stil": "Kısa küt, platin sarı"
+      }
+    }
+  },
+  {
+    "id": 120,
+    "category": "👗 Moda & Giyim",
+    "title": "120. OOTD (Günün Kombini)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kombin",
+      "inputs": {
+        "mekan": "Sokak modası arka planı"
+      }
+    }
+  },
+  {
+    "id": 135,
+    "category": "👗 Moda & Giyim",
+    "title": "135. Sanal Makyaj",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Güzellik",
+      "inputs": {
+        "stil": "Doğal tonlar, eyeliner"
+      }
+    }
+  },
+  {
+    "id": 136,
+    "category": "👗 Moda & Giyim",
+    "title": "136. Makyaj Analizi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Analiz",
+      "inputs": {
+        "vurgu": "Makyaj detaylarını öne çıkar"
+      }
+    }
+  },
+  {
+    "id": 151,
+    "category": "👗 Moda & Giyim",
+    "title": "151. Moda Kolajı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Moodboard",
+      "inputs": {
+        "tema": "Yaz koleksiyonu"
+      }
+    }
+  },
+  {
+    "id": 174,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "174. Ürün Posteri (Dikey)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Ürün Posteri",
+      "inputs": {
+        "marka": "",
+        "urun": "",
+        "baslik": "",
+        "prompt_base": "Create a clean 9:16 product poster..."
+      }
+    }
+  },
+  {
+    "id": 175,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "175. Akıllı Ürün Posteri (Oto)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Otomatik Poster",
+      "inputs": {
+        "not": "Görseli analiz et ve poster yap.",
+        "prompt_base": "Create a product poster based on visual analysis."
+      }
+    }
+  },
+  {
+    "id": 1,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "1. Ürün Tanıtımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Ürün",
+      "inputs": {
+        "atmosfer": "Minimalist, doğal ışık"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "3. Web Banner",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kampanya",
+      "inputs": {
+        "renkler": "Canlı kampanya renkleri"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "4. Arka Plan Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Stüdyo",
+      "inputs": {
+        "yeni_fon": "Saf beyaz stüdyo"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "18. Renk Varyasyonları",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Varyasyon",
+      "inputs": {
+        "yeni_renk": "Mat siyah, Altın"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "30. Kullanım Senaryosu",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Lifestyle",
+      "inputs": {
+        "ortam": "Ev ortamında kullanım"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "50. Medikal Ürün",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Medikal",
+      "inputs": {
+        "atmosfer": "Temiz, steril, güvenilir"
+      }
+    }
+  },
+  {
+    "id": 66,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "66. Dijital Kampanya",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Reklam",
+      "inputs": {
+        "mesaj": "Kampanya mesajı"
+      }
+    }
+  },
+  {
+    "id": 67,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "67. Sosyal Medya Reklamı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sponsorlu",
+      "inputs": {
+        "urun": ""
+      }
+    }
+  },
+  {
+    "id": 68,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "68. E-posta Bülteni",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Newsletter",
+      "inputs": {
+        "baslik": ""
+      }
+    }
+  },
+  {
+    "id": 88,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "88. Ürün Ambalajı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Paket",
+      "inputs": {
+        "tarz": "Modern, eko-dostu"
+      }
+    }
+  },
+  {
+    "id": 122,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "122. Çoklu Görünüm",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Açılar",
+      "inputs": {
+        "gorunum": "Ön, yan ve üstten"
+      }
+    }
+  },
+  {
+    "id": 140,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "140. Ambalaj Tasarımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Tasarım",
+      "inputs": {
+        "stil": "Minimalist kutu"
+      }
+    }
+  },
+  {
+    "id": 152,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "152. Zarif Ürün Fotosu",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Soft",
+      "inputs": {
+        "atmosfer": "Pastel tonlar, yumuşak ışık"
+      }
+    }
+  },
+  {
+    "id": 167,
+    "category": "📦 Ürün & Pazarlama",
+    "title": "167. Çevre Ürün Tasarımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eko",
+      "inputs": {
+        "malzeme": "Geri dönüştürülmüş"
+      }
+    }
+  },
+  {
+    "id": 178,
+    "category": "👤 Karakter & Portre",
+    "title": "178. Hiper-Gerçekçi Karikatür",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Caricature",
+      "inputs": {
+        "subject_type": "older man",
+        "features": "exaggerated",
+        "prompt_base": "Hyperrealistic caricature..."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "category": "👤 Karakter & Portre",
+    "title": "14. Karakter Görünüm",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Karakter",
+      "inputs": {
+        "degisiklik": "Saç rengi, kıyafet"
+      }
+    }
+  },
+  {
+    "id": 59,
+    "category": "👤 Karakter & Portre",
+    "title": "59. Robot Görseli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Robot",
+      "inputs": {
+        "tur": "İnsansı, endüstriyel"
+      }
+    }
+  },
+  {
+    "id": 86,
+    "category": "👤 Karakter & Portre",
+    "title": "86. Oyun Karakteri",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "RPG",
+      "inputs": {
+        "sinif": "Büyücü, Savaşçı"
+      }
+    }
+  },
+  {
+    "id": 100,
+    "category": "👤 Karakter & Portre",
+    "title": "100. 2D > 3D Oyuncak",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "3D",
+      "inputs": {
+        "malzeme": "Plastik oyuncak render"
+      }
+    }
+  },
+  {
+    "id": 110,
+    "category": "👤 Karakter & Portre",
+    "title": "110. Anime > Cosplay",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Gerçekçi",
+      "inputs": {
+        "detay": "Gerçek insan, kostüm"
+      }
+    }
+  },
+  {
+    "id": 111,
+    "category": "👤 Karakter & Portre",
+    "title": "111. Karakter Sayfası",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sheet",
+      "inputs": {
+        "pozlar": "Ön, yan, arka görünüm"
+      }
+    }
+  },
+  {
+    "id": 121,
+    "category": "👤 Karakter & Portre",
+    "title": "121. Kostüm Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kıyafet",
+      "inputs": {
+        "yeni": "Süper kahraman kostümü"
+      }
+    }
+  },
+  {
+    "id": 124,
+    "category": "👤 Karakter & Portre",
+    "title": "124. Duruş Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Poz",
+      "inputs": {
+        "yeni_poz": "Koşarken, zıplarken"
+      }
+    }
+  },
+  {
+    "id": 131,
+    "category": "👤 Karakter & Portre",
+    "title": "131. Aksiyon Figürü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Oyuncak",
+      "inputs": {
+        "detay": "Blister paket içinde"
+      }
+    }
+  },
+  {
+    "id": 133,
+    "category": "👤 Karakter & Portre",
+    "title": "133. Yüz İfadesi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Duygu",
+      "inputs": {
+        "ifade": "Mutlu, kızgın, şaşkın"
+      }
+    }
+  },
+  {
+    "id": 142,
+    "category": "👤 Karakter & Portre",
+    "title": "142. Yüz Şekli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Morfoloji",
+      "inputs": {
+        "sekil": "Daha keskin çene hattı"
+      }
+    }
+  },
+  {
+    "id": 144,
+    "category": "👤 Karakter & Portre",
+    "title": "144. Lego Figürü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Lego",
+      "inputs": {
+        "arka_plan": "Lego şehri"
+      }
+    }
+  },
+  {
+    "id": 145,
+    "category": "👤 Karakter & Portre",
+    "title": "145. Gundam Modeli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Mecha",
+      "inputs": {
+        "renk": "Metalik detaylar"
+      }
+    }
+  },
+  {
+    "id": 168,
+    "category": "👤 Karakter & Portre",
+    "title": "168. 3D Bobblehead",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Karikatür",
+      "inputs": {
+        "detay": "Koca kafa, küçük vücut"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "category": "🏠 Mimari & Dekor",
+    "title": "9. İç Tasarım Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Dekorasyon",
+      "inputs": {
+        "stil": "Modern, İskandinav"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "category": "🏠 Mimari & Dekor",
+    "title": "40. Fütüristik Şehir",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Şehir",
+      "inputs": {
+        "detay": "Uçan arabalar, neon binalar"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "category": "🏠 Mimari & Dekor",
+    "title": "42. Otel Tanıtımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Konaklama",
+      "inputs": {
+        "oda": "Lüks süit"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "category": "🏠 Mimari & Dekor",
+    "title": "46. Ofis Ortamı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Ofis",
+      "inputs": {
+        "stil": "Açık ofis, modern"
+      }
+    }
+  },
+  {
+    "id": 132,
+    "category": "🏠 Mimari & Dekor",
+    "title": "132. Haritadan İzometrik Bina",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "3D Harita",
+      "inputs": {
+        "stil": "İzometrik render"
+      }
+    }
+  },
+  {
+    "id": 160,
+    "category": "🏠 Mimari & Dekor",
+    "title": "160. Kat Planı 3D Render",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Render",
+      "inputs": {
+        "stil": "Gerçekçi mobilyalarla döşe"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "6. Tatil Fotoğrafı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Anı",
+      "inputs": {
+        "atmosfer": "Gün batımı ekle"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "17. Işıklandırma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Işık",
+      "inputs": {
+        "tip": "Rembrandt ışığı, dramatik"
+      }
+    }
+  },
+  {
+    "id": 105,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "105. Çoklu Birleştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kolaj",
+      "inputs": {
+        "detay": "Görselleri harmanla"
+      }
+    }
+  },
+  {
+    "id": 106,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "106. Kalite İyileştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Upscale",
+      "inputs": {
+        "ayar": "4K, HDR, Netleştir"
+      }
+    }
+  },
+  {
+    "id": 108,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "108. Perspektif Değişimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Açı",
+      "inputs": {
+        "yeni_aci": "Kuş bakışı"
+      }
+    }
+  },
+  {
+    "id": 119,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "119. Fotoğraf Renklendirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Restorasyon",
+      "inputs": {
+        "donem": "Gerçekçi renkler"
+      }
+    }
+  },
+  {
+    "id": 126,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "126. Filigran Ekleme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Güvenlik",
+      "inputs": {
+        "metin": "Sağ alt köşeye logo"
+      }
+    }
+  },
+  {
+    "id": 141,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "141. Filtre Ekleme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Efekt",
+      "inputs": {
+        "doku": "Vintage film, gren"
+      }
+    }
+  },
+  {
+    "id": 143,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "143. Işık Kontrolü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Aydınlatma",
+      "inputs": {
+        "yon": "Soldan gelen ışık"
+      }
+    }
+  },
+  {
+    "id": 149,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "149. Görüntü Genişletme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Outpainting",
+      "inputs": {
+        "alan": "Çerçeveyi genişlet"
+      }
+    }
+  },
+  {
+    "id": 161,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "161. Kamera Sıfırlama",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Nötr",
+      "inputs": {
+        "ayar": "Düz açı, netlik"
+      }
+    }
+  },
+  {
+    "id": 162,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "162. Vesikalık Yapma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Resmi",
+      "inputs": {
+        "fon": "Beyaz arka plan"
+      }
+    }
+  },
+  {
+    "id": 165,
+    "category": "📸 Fotoğraf & Edit",
+    "title": "165. Karşılaştırma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kolaj",
+      "inputs": {
+        "detay": "Öncesi / Sonrası"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "5. Kitap Kapağı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kapak",
+      "inputs": {
+        "tur": "",
+        "sahne": ""
+      }
+    }
+  },
+  {
+    "id": 15,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "15. Sanatsal Metin",
+    "hasImageUpload": false,
+    "json": {
+      "concept": "Tipografi",
+      "inputs": {
+        "metin": "3D metalik yazı"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "16. Fantastik İllüstrasyon",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Fantezi",
+      "inputs": {
+        "sahne": "Büyülü orman"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "23. Albüm Kapağı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Müzik",
+      "inputs": {
+        "tur": "Rock, Pop, Caz"
+      }
+    }
+  },
+  {
+    "id": 65,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "65. AI Sanatı (Soyut)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Soyut",
+      "inputs": {
+        "tema": "Renk patlaması"
+      }
+    }
+  },
+  {
+    "id": 87,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "87. NFT Sanatı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Koleksiyon",
+      "inputs": {
+        "stil": "Pixel art, 3D"
+      }
+    }
+  },
+  {
+    "id": 99,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "99. Dijital Koleksiyon",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Seri",
+      "inputs": {
+        "tema": ""
+      }
+    }
+  },
+  {
+    "id": 107,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "107. Çizimden Sahne",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Render",
+      "inputs": {
+        "stil": "Eskizi gerçeğe çevir"
+      }
+    }
+  },
+  {
+    "id": 109,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "109. Vektör Çıkartma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sticker",
+      "inputs": {
+        "kenar": "Beyaz kontur"
+      }
+    }
+  },
+  {
+    "id": 112,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "112. Renk Paleti",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Renklendirme",
+      "inputs": {
+        "palet": "Sadece pastel tonlar kullan"
+      }
+    }
+  },
+  {
+    "id": 116,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "116. Mermer Heykel",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanat",
+      "inputs": {
+        "stil": "Antik Yunan heykeli"
+      }
+    }
+  },
+  {
+    "id": 125,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "125. Çizimden Görüntü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Final",
+      "inputs": {
+        "stil": "Yağlı boya tablosu"
+      }
+    }
+  },
+  {
+    "id": 130,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "130. Çizgi Roman",
+    "hasImageUpload": false,
+    "json": {
+      "concept": "Hikaye",
+      "inputs": {
+        "senaryo": "Panel 1: ..., Panel 2: ..."
+      }
+    }
+  },
+  {
+    "id": 134,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "134. Çizim Süreci",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Süreç",
+      "inputs": {
+        "konu": "4 aşamalı çizim"
+      }
+    }
+  },
+  {
+    "id": 138,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "138. Baskı İllüstrasyonu",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanat",
+      "inputs": {
+        "teknik": "Linocut, ahşap baskı"
+      }
+    }
+  },
+  {
+    "id": 153,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "153. Anime > Heykel",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanat",
+      "inputs": {
+        "malzeme": "Bronz döküm"
+      }
+    }
+  },
+  {
+    "id": 155,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "155. Çizgi Roman Paneli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Panel",
+      "inputs": {
+        "stil": "Marvel/DC tarzı"
+      }
+    }
+  },
+  {
+    "id": 156,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "156. Fotoğraf > Manga",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Stil",
+      "inputs": {
+        "tur": "Siyah beyaz manga"
+      }
+    }
+  },
+  {
+    "id": 169,
+    "category": "🎨 Sanat & Tasarım",
+    "title": "169. Ink Splash",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanat",
+      "inputs": {
+        "renk": "Mürekkep dağılması"
+      }
+    }
+  },
+  {
+    "id": 179,
+    "category": "🎮 Oyun & Sinema",
+    "title": "179. Dev Sürrealist Figür (3:4)",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Surrealistic Giant",
+      "inputs": {
+        "subject_type": "baby",
+        "prompt_base": "Keep the {subject_type}'s face unchanged..."
+      }
+    }
+  },
+  {
+    "id": 181,
+    "category": "🎮 Oyun & Sinema",
+    "title": "181. Kutup Ayısı Saldırısı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Survival",
+      "inputs": {
+        "prompt_base": "Survival scene..."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "category": "🎮 Oyun & Sinema",
+    "title": "19. Oyun Arka Planı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Level",
+      "inputs": {
+        "tema": ""
+      }
+    }
+  },
+  {
+    "id": 20,
+    "category": "🎮 Oyun & Sinema",
+    "title": "20. Film Konsepti",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sinematik",
+      "inputs": {
+        "sahne": ""
+      }
+    }
+  },
+  {
+    "id": 38,
+    "category": "🎮 Oyun & Sinema",
+    "title": "38. Hayvan Efekti",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eğlence",
+      "inputs": {
+        "efekt": ""
+      }
+    }
+  },
+  {
+    "id": 51,
+    "category": "🎮 Oyun & Sinema",
+    "title": "51. Oyun Parkı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Park",
+      "inputs": {
+        "tema": ""
+      }
+    }
+  },
+  {
+    "id": 60,
+    "category": "🎮 Oyun & Sinema",
+    "title": "60. VR/AR Deneyimi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Sanal",
+      "inputs": {
+        "ortam": ""
+      }
+    }
+  },
+  {
+    "id": 83,
+    "category": "🎮 Oyun & Sinema",
+    "title": "83. YouTube Thumbnail",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kapak",
+      "inputs": {
+        "konu": ""
+      }
+    }
+  },
+  {
+    "id": 123,
+    "category": "🎮 Oyun & Sinema",
+    "title": "123. Storyboard",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eskiz",
+      "inputs": {
+        "sahne": ""
+      }
+    }
+  },
+  {
+    "id": 158,
+    "category": "🎮 Oyun & Sinema",
+    "title": "158. Minecraft Sahnesi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Voksel",
+      "inputs": {
+        "detay": ""
+      }
+    }
+  },
+  {
+    "id": 171,
+    "category": "🎮 Oyun & Sinema",
+    "title": "171. Rooftop Sinematik",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Atmosfer",
+      "inputs": {
+        "mekan": "Mavi saat"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "category": "🚀 Diğer",
+    "title": "7. İnfografik",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Grafik",
+      "inputs": {
+        "veri": ""
+      }
+    }
+  },
+  {
+    "id": 8,
+    "category": "🚀 Diğer",
+    "title": "8. Kahraman Görseli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Web",
+      "inputs": {
+        "mesaj": ""
+      }
+    }
+  },
+  {
+    "id": 12,
+    "category": "🚀 Diğer",
+    "title": "12. Mevsimsel Değişiklik",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Doğa",
+      "inputs": {
+        "mevsim": ""
+      }
+    }
+  },
+  {
+    "id": 13,
+    "category": "🚀 Diğer",
+    "title": "13. Soyut Kavram",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Bilim",
+      "inputs": {
+        "kavram": ""
+      }
+    }
+  },
+  {
+    "id": 21,
+    "category": "🚀 Diğer",
+    "title": "21. Açıklayıcı İllüstrasyon",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eğitim",
+      "inputs": {
+        "konu": ""
+      }
+    }
+  },
+  {
+    "id": 29,
+    "category": "🚀 Diğer",
+    "title": "29. Uygulama Tanıtımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "App",
+      "inputs": {
+        "arayuz": ""
+      }
+    }
+  },
+  {
+    "id": 32,
+    "category": "🚀 Diğer",
+    "title": "32. Danışmanlık Web",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kurumsal",
+      "inputs": {
+        "sektor": ""
+      }
+    }
+  },
+  {
+    "id": 35,
+    "category": "🚀 Diğer",
+    "title": "35. Bilimsel Özet",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Araştırma",
+      "inputs": {
+        "konu": ""
+      }
+    }
+  },
+  {
+    "id": 37,
+    "category": "🚀 Diğer",
+    "title": "37. Gezegen Görseli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Uzay",
+      "inputs": {
+        "gezegen": ""
+      }
+    }
+  },
+  {
+    "id": 45,
+    "category": "🚀 Diğer",
+    "title": "45. Yazılım Arayüzü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "UI",
+      "inputs": {
+        "ekran": ""
+      }
+    }
+  },
+  {
+    "id": 57,
+    "category": "🚀 Diğer",
+    "title": "57. Bilimsel Deney",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Lab",
+      "inputs": {
+        "deney": ""
+      }
+    }
+  },
+  {
+    "id": 77,
+    "category": "🚀 Diğer",
+    "title": "77. İki Kişiyi Birleştirme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kolaj",
+      "inputs": {
+        "kisiler": ""
+      }
+    }
+  },
+  {
+    "id": 78,
+    "category": "🚀 Diğer",
+    "title": "78. Oyunlaştırma UI",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Gamification",
+      "inputs": {
+        "seviye": ""
+      }
+    }
+  },
+  {
+    "id": 79,
+    "category": "🚀 Diğer",
+    "title": "79. Kurs Görseli",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eğitim",
+      "inputs": {
+        "ders": ""
+      }
+    }
+  },
+  {
+    "id": 80,
+    "category": "🚀 Diğer",
+    "title": "80. Kişisel Marka",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Branding",
+      "inputs": {
+        "meslek": ""
+      }
+    }
+  },
+  {
+    "id": 95,
+    "category": "🚀 Diğer",
+    "title": "95. Duvar Kağıdı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Desktop",
+      "inputs": {
+        "tema": ""
+      }
+    }
+  },
+  {
+    "id": 97,
+    "category": "🚀 Diğer",
+    "title": "97. Logo Konsepti",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Logo",
+      "inputs": {
+        "marka": ""
+      }
+    }
+  },
+  {
+    "id": 101,
+    "category": "🚀 Diğer",
+    "title": "101. Harita > Sokak",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Gerçekçilik",
+      "inputs": {
+        "detay": ""
+      }
+    }
+  },
+  {
+    "id": 102,
+    "category": "🚀 Diğer",
+    "title": "102. AR Görüntüsü",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Arayüz",
+      "inputs": {
+        "veri": ""
+      }
+    }
+  },
+  {
+    "id": 103,
+    "category": "🚀 Diğer",
+    "title": "103. İzometrik 3D",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Diorama",
+      "inputs": {
+        "nesne": ""
+      }
+    }
+  },
+  {
+    "id": 104,
+    "category": "🚀 Diğer",
+    "title": "104. Tarihi Dönem",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Zaman",
+      "inputs": {
+        "donem": ""
+      }
+    }
+  },
+  {
+    "id": 113,
+    "category": "🚀 Diğer",
+    "title": "113. Metni İnfografiğe",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Veri",
+      "inputs": {
+        "konu": ""
+      }
+    }
+  },
+  {
+    "id": 115,
+    "category": "🚀 Diğer",
+    "title": "115. Teknik Şema",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eğitim",
+      "inputs": {
+        "model": ""
+      }
+    }
+  },
+  {
+    "id": 118,
+    "category": "🚀 Diğer",
+    "title": "118. Matematiksel Akıl",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Geometri",
+      "inputs": {
+        "soru": ""
+      }
+    }
+  },
+  {
+    "id": 127,
+    "category": "🚀 Diğer",
+    "title": "127. Bilgi Çıkarma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Analiz",
+      "inputs": {
+        "odak": ""
+      }
+    }
+  },
+  {
+    "id": 128,
+    "category": "🚀 Diğer",
+    "title": "128. Kırmızı Kalem",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Düzeltme",
+      "inputs": {
+        "not": ""
+      }
+    }
+  },
+  {
+    "id": 137,
+    "category": "🚀 Diğer",
+    "title": "137. Orta Dünya Haritası",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Fantastik",
+      "inputs": {
+        "tema": ""
+      }
+    }
+  },
+  {
+    "id": 141,
+    "category": "🚀 Diğer",
+    "title": "141. Filtre Ekleme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Efekt",
+      "inputs": {
+        "doku": ""
+      }
+    }
+  },
+  {
+    "id": 146,
+    "category": "🚀 Diğer",
+    "title": "146. Donanım Sökme",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Teknik",
+      "inputs": {
+        "cihaz": ""
+      }
+    }
+  },
+  {
+    "id": 148,
+    "category": "🚀 Diğer",
+    "title": "148. Şeffaf Katman",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "HUD",
+      "inputs": {
+        "veri": ""
+      }
+    }
+  },
+  {
+    "id": 150,
+    "category": "🚀 Diğer",
+    "title": "150. Haritadan Antik Sahne",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Tarihi",
+      "inputs": {
+        "donem": ""
+      }
+    }
+  },
+  {
+    "id": 154,
+    "category": "🚀 Diğer",
+    "title": "154. Itasha Araba",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Oto",
+      "inputs": {
+        "karakter": ""
+      }
+    }
+  },
+  {
+    "id": 157,
+    "category": "🚀 Diğer",
+    "title": "157. Hologram",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Tekno",
+      "inputs": {
+        "renk": ""
+      }
+    }
+  },
+  {
+    "id": 159,
+    "category": "🚀 Diğer",
+    "title": "159. Malzeme Atama",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Doku",
+      "inputs": {
+        "tip": ""
+      }
+    }
+  },
+  {
+    "id": 163,
+    "category": "🚀 Diğer",
+    "title": "163. Kartpostal",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Tasarım",
+      "inputs": {
+        "mesaj": ""
+      }
+    }
+  },
+  {
+    "id": 164,
+    "category": "🚀 Diğer",
+    "title": "164. Satranç",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Oyun",
+      "inputs": {
+        "stil": ""
+      }
+    }
+  },
+  {
+    "id": 165,
+    "category": "🚀 Diğer",
+    "title": "165. Karşılaştırma",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Kolaj",
+      "inputs": {
+        "detay": ""
+      }
+    }
+  },
+  {
+    "id": 166,
+    "category": "🚀 Diğer",
+    "title": "166. Mücevher",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Tasarım",
+      "inputs": {
+        "tas": ""
+      }
+    }
+  },
+  {
+    "id": 167,
+    "category": "🚀 Diğer",
+    "title": "167. Çevre Ürün Tasarımı",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "Eko",
+      "inputs": {
+        "malzeme": ""
+      }
+    }
+  }
+]
+
