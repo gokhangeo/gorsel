@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765106185436,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Adam ve yemek",
+    "hasImageUpload": true,
+    "json": {
+      "Style_and_Mood": "A realistic, appetizing, refreshing, and cinematic food advertisement style.",
+      "Perspective_and_Composition": "A low-angle perspective shot, looking upwards over the dining table, designed to create a dynamic and immersive point of view.",
+      "Subject": "A man with brown hair and a warm complexion, whose facial details must be maintained with 100% accuracy to the provided reference image.",
+      "Action": "The man is pouring red sauce onto freshly steamed food (the appearance of the food must reference Visual 2).",
+      "Key_Elements_Focus": "Visual 2 (the steamed food and red sauce) is positioned close to the camera, enhancing the sense of immersion.",
+      "Environment_and_Lighting": "The background features a bright blue sky, illuminated by soft natural light.",
+      "Exclusions_and_Focus": "No text or typography is permitted. The focus must be exclusively on the man and the food visual.",
+      "inputs": {
+        "Style_and_Mood": "A realistic, appetizing, refreshing, and cinematic food advertisement style.",
+        "Perspective_and_Composition": "A low-angle perspective shot, looking upwards over the dining table, designed to create a dynamic and immersive point of view.",
+        "Subject": "A man with brown hair and a warm complexion, whose facial details must be maintained with 100% accuracy to the provided reference image.",
+        "Action": "The man is pouring red sauce onto freshly steamed food (the appearance of the food must reference Visual 2).",
+        "Key_Elements_Focus": "Visual 2 (the steamed food and red sauce) is positioned close to the camera, enhancing the sense of immersion.",
+        "Environment_and_Lighting": "The background features a bright blue sky, illuminated by soft natural light.",
+        "Exclusions_and_Focus": "No text or typography is permitted. The focus must be exclusively on the man and the food visual."
+      }
+    }
+  },
+  {
     "id": 1765105908642,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Balık",
