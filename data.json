@@ -1,5 +1,25 @@
 [
   {
+    "id": 1765214024780,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "3d kitap",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A hyper-realistic 3D optical illusion artwork featuring a beautiful young Asian woman. She has long wavy brown hair with vibrant pink and blue distinct highlights and is wearing a cozy beige cable-knit sweater.",
+      "Pose_and_Action": "The woman appears to be emerging from a lined notebook page, creating a popping out effect. There is a detailed torn paper effect visible around her waist, indicating the transition from 2D sketch to 3D reality. She is leaning her arms on the notebook surface.",
+      "Environment_and_Interaction": "The scene is set on a wooden table surface upon which an open lined notebook rests. A real human hand holding a yellow pencil is actively sketching her shoulder, serving as a 'Pencil vs Camera' element that blurs the line between 2D drawing and 3D reality.",
+      "Art_Style": "3D Anamorphic Art, Optical Illusion, Hyper-realistic, Surrealism, Mixed Media, Pencil vs Camera.",
+      "Composition_and_Quality": "High-angle shot (top-down view) with cinematic lighting, including soft studio lighting specifically focused on the subject. The image features intricate details, 8k resolution, and photorealistic skin texture.",
+      "inputs": {
+        "Subject": "A hyper-realistic 3D optical illusion artwork featuring a beautiful young Asian woman. She has long wavy brown hair with vibrant pink and blue distinct highlights and is wearing a cozy beige cable-knit sweater.",
+        "Pose_and_Action": "The woman appears to be emerging from a lined notebook page, creating a popping out effect. There is a detailed torn paper effect visible around her waist, indicating the transition from 2D sketch to 3D reality. She is leaning her arms on the notebook surface.",
+        "Environment_and_Interaction": "The scene is set on a wooden table surface upon which an open lined notebook rests. A real human hand holding a yellow pencil is actively sketching her shoulder, serving as a 'Pencil vs Camera' element that blurs the line between 2D drawing and 3D reality.",
+        "Art_Style": "3D Anamorphic Art, Optical Illusion, Hyper-realistic, Surrealism, Mixed Media, Pencil vs Camera.",
+        "Composition_and_Quality": "High-angle shot (top-down view) with cinematic lighting, including soft studio lighting specifically focused on the subject. The image features intricate details, 8k resolution, and photorealistic skin texture."
+      }
+    }
+  },
+  {
     "id": 1765110640133,
     "category": "🍔 Yemek & Mutfak",
     "title": "Havada asılı yemek",
