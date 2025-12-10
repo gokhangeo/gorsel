@@ -1,5 +1,71 @@
 [
   {
+    "id": 1765401452899,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Moda(Kadın)",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A highly stylish, high-fashion female model. The identity and exact likeness of the woman from the uploaded source image must be used 100%.",
+      "Attire_Details": "An elegant, floor-length couture gown featuring primary shades of light mint green and deep sage green. The top section is sleeveless or one-shouldered, constructed from thin, textured or patterned material (suggesting a white floral or abstract print). The skirt possesses a dramatic, very high slit, revealing the legs prominently. The lower portion of the skirt is thin, flowing chiffon fabric, elegantly wrapped around the figure. She is wearing high-heeled sandals detailed with shimmering embellishments and straps that extend upward toward the hips.",
+      "Pose_and_Action": "The woman is posing, either standing or perched upon a contrasting rectangular object. She faces the camera directly but is looking downward at the voluminous, flowing fabric of her dress. One hand is gently holding or supporting the flowing chiffon skirt fabric.",
+      "Setting_and_Props": "The setting is an indoor professional photography studio. The background is composed of a partially unstitched white photographic paper or screen. The woman is perched on a small, rectangular prop, specifically a red or dark orange pouf or box, which provides a strong color contrast to the green dress. Something appears to be rolled up and visible on the floor.",
+      "Lighting_and_Mood": "The atmosphere is sophisticated, sensual, and worthy of a high-end magazine cover. The lighting is harsh, bright professional studio lighting designed to create strong light and shadow contrast, accentuating the texture of the dress and highlighting the sheen on the model's skin. ",
+      "Technical_Specifications": {
+        "View": "Full body shot or three-quarter shot, captured with high resolution and magazine quality.",
+        "Lens": "Preferably an 85mm fixed focus lens or similar focal length, ensuring a shallow depth of field for focused isolation.",
+        "Lighting": "Bright, professional studio lighting with strong contrast."
+      },
+      "Aesthetic_Style": [
+        "High fashion editorial",
+        "Studio portrait",
+        "Glamorous photography"
+      ],
+      "Color_Palette": {
+        "Dominant_Colors": [
+          "Light mint green",
+          "Sage green",
+          "White (dress pattern/background)",
+          "Dark brown (hair)",
+          "Red or dark orange (seat/prop)"
+        ]
+      },
+      "Inspiration": [
+        "Visuals mimicking a Vogue magazine page shoot",
+        "High-end fashion campaign advertisements"
+      ],
+      "inputs": {
+        "Subject": "A highly stylish, high-fashion female model. The identity and exact likeness of the woman from the uploaded source image must be used 100%.",
+        "Attire_Details": "An elegant, floor-length couture gown featuring primary shades of light mint green and deep sage green. The top section is sleeveless or one-shouldered, constructed from thin, textured or patterned material (suggesting a white floral or abstract print). The skirt possesses a dramatic, very high slit, revealing the legs prominently. The lower portion of the skirt is thin, flowing chiffon fabric, elegantly wrapped around the figure. She is wearing high-heeled sandals detailed with shimmering embellishments and straps that extend upward toward the hips.",
+        "Pose_and_Action": "The woman is posing, either standing or perched upon a contrasting rectangular object. She faces the camera directly but is looking downward at the voluminous, flowing fabric of her dress. One hand is gently holding or supporting the flowing chiffon skirt fabric.",
+        "Setting_and_Props": "The setting is an indoor professional photography studio. The background is composed of a partially unstitched white photographic paper or screen. The woman is perched on a small, rectangular prop, specifically a red or dark orange pouf or box, which provides a strong color contrast to the green dress. Something appears to be rolled up and visible on the floor.",
+        "Lighting_and_Mood": "The atmosphere is sophisticated, sensual, and worthy of a high-end magazine cover. The lighting is harsh, bright professional studio lighting designed to create strong light and shadow contrast, accentuating the texture of the dress and highlighting the sheen on the model's skin. ",
+        "Technical_Specifications": {
+          "View": "Full body shot or three-quarter shot, captured with high resolution and magazine quality.",
+          "Lens": "Preferably an 85mm fixed focus lens or similar focal length, ensuring a shallow depth of field for focused isolation.",
+          "Lighting": "Bright, professional studio lighting with strong contrast."
+        },
+        "Aesthetic_Style": [
+          "High fashion editorial",
+          "Studio portrait",
+          "Glamorous photography"
+        ],
+        "Color_Palette": {
+          "Dominant_Colors": [
+            "Light mint green",
+            "Sage green",
+            "White (dress pattern/background)",
+            "Dark brown (hair)",
+            "Red or dark orange (seat/prop)"
+          ]
+        },
+        "Inspiration": [
+          "Visuals mimicking a Vogue magazine page shoot",
+          "High-end fashion campaign advertisements"
+        ]
+      }
+    }
+  },
+  {
     "id": 1765401296647,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Moda(Kadın)",
