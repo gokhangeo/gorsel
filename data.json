@@ -1,5 +1,31 @@
 [
   {
+    "id": 1765383931975,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Neon ışıklar",
+    "hasImageUpload": true,
+    "json": {
+      "PromptType": "Imaginative, Ultra-Surreal Transformation",
+      "BaseScene": "Reimagine the scene ${SCENE}.",
+      "Subjects": "Transform all ${SUBJECTS} (animals, humans, creatures) into surreal beings.",
+      "MaterialTransformation": "The subjects are made of transparent glass and glowing neon lights. Their bodies resemble crystal sculptures that refract ambient light.",
+      "InternalIllumination": "Vibrant neon streams (colors like electric blue, magenta, purple, orange-gold, etc.) flow inside the subjects, emitting a soft yet radiant glow into the environment.",
+      "StructuralConstraint": "Keep the original structure and layout of the scene.",
+      "AtmosphereAndLighting": "Re-render the lighting and atmosphere to respond to these luminous glass beings—including intense reflections, complex refractions, glowing highlights, and dramatic atmospheric color shifts throughout the environment.",
+      "OverallMoodAndStyle": "Dreamlike, futuristic, vividly colored, highly detailed, and visually stunning, depicting a surreal alternate reality illuminated by living neon glass creatures.",
+      "inputs": {
+        "PromptType": "Imaginative, Ultra-Surreal Transformation",
+        "BaseScene": "Reimagine the scene ${SCENE}.",
+        "Subjects": "Transform all ${SUBJECTS} (animals, humans, creatures) into surreal beings.",
+        "MaterialTransformation": "The subjects are made of transparent glass and glowing neon lights. Their bodies resemble crystal sculptures that refract ambient light.",
+        "InternalIllumination": "Vibrant neon streams (colors like electric blue, magenta, purple, orange-gold, etc.) flow inside the subjects, emitting a soft yet radiant glow into the environment.",
+        "StructuralConstraint": "Keep the original structure and layout of the scene.",
+        "AtmosphereAndLighting": "Re-render the lighting and atmosphere to respond to these luminous glass beings—including intense reflections, complex refractions, glowing highlights, and dramatic atmospheric color shifts throughout the environment.",
+        "OverallMoodAndStyle": "Dreamlike, futuristic, vividly colored, highly detailed, and visually stunning, depicting a surreal alternate reality illuminated by living neon glass creatures."
+      }
+    }
+  },
+  {
     "id": 1765214024780,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "3d kitap",
