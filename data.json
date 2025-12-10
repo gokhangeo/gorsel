@@ -1,23 +1,25 @@
 [
   {
-    "id": 1765399150518,
+    "id": 1765399349982,
     "category": "🍔 Yemek & Mutfak",
-    "title": "Havada uçuşan parçacıklar",
+    "title": "Havada uçuşan parçacıklar (Kopya)",
     "hasImageUpload": true,
     "json": {
-      "Style": "Commercial photography, designed as a food advertising poster.",
-      "Subject": "A specific food item or dish.",
-      "Composition": "The food item is centrally composed, surrounded by complementary ingredients or decorative elements that are dynamically captured flying in the air.",
-      "Effects": "Dynamic effects such as crumbs, splashes, flakes, or steam are present, highlighting movement and freshness.",
-      "Background": "A color gradient background.",
-      "Quality": "Ultra-high definition and high resolution.",
+      "Style": "Commercial photograph",
+      "Subject": "[food or meal]",
+      "Composition": "The subject is dramatically surrounded by [food ingredients entirely present in the image] which are actively flying in the air.",
+      "Dynamic_Effects": "Features pronounced dynamic effects including [food crumbs, splatter, flakes or vapor]",
+      "Background": "Gradient background",
+      "Purpose": "Food advertisement banner",
+      "Technical_Specifications": "Ultra-high resolution, high resolution",
       "inputs": {
-        "Style": "Commercial photography, designed as a food advertising poster.",
-        "Subject": "A specific food item or dish.",
-        "Composition": "The food item is centrally composed, surrounded by complementary ingredients or decorative elements that are dynamically captured flying in the air.",
-        "Effects": "Dynamic effects such as crumbs, splashes, flakes, or steam are present, highlighting movement and freshness.",
-        "Background": "A color gradient background.",
-        "Quality": "Ultra-high definition and high resolution."
+        "Style": "Commercial photograph",
+        "Subject": "[food or meal]",
+        "Composition": "The subject is dramatically surrounded by [food ingredients entirely present in the image] which are actively flying in the air.",
+        "Dynamic_Effects": "Features pronounced dynamic effects including [food crumbs, splatter, flakes or vapor]",
+        "Background": "Gradient background",
+        "Purpose": "Food advertisement banner",
+        "Technical_Specifications": "Ultra-high resolution, high resolution"
       }
     }
   },
