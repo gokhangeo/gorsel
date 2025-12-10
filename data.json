@@ -1,67 +1,65 @@
 [
   {
-    "id": 1765401452899,
+    "id": 1765401640948,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Moda(Kadın)",
     "hasImageUpload": true,
     "json": {
-      "Subject": "A highly stylish, high-fashion female model. The identity and exact likeness of the woman from the uploaded source image must be used 100%.",
-      "Attire_Details": "An elegant, floor-length couture gown featuring primary shades of light mint green and deep sage green. The top section is sleeveless or one-shouldered, constructed from thin, textured or patterned material (suggesting a white floral or abstract print). The skirt possesses a dramatic, very high slit, revealing the legs prominently. The lower portion of the skirt is thin, flowing chiffon fabric, elegantly wrapped around the figure. She is wearing high-heeled sandals detailed with shimmering embellishments and straps that extend upward toward the hips.",
-      "Pose_and_Action": "The woman is posing, either standing or perched upon a contrasting rectangular object. She faces the camera directly but is looking downward at the voluminous, flowing fabric of her dress. One hand is gently holding or supporting the flowing chiffon skirt fabric.",
-      "Setting_and_Props": "The setting is an indoor professional photography studio. The background is composed of a partially unstitched white photographic paper or screen. The woman is perched on a small, rectangular prop, specifically a red or dark orange pouf or box, which provides a strong color contrast to the green dress. Something appears to be rolled up and visible on the floor.",
-      "Lighting_and_Mood": "The atmosphere is sophisticated, sensual, and worthy of a high-end magazine cover. The lighting is harsh, bright professional studio lighting designed to create strong light and shadow contrast, accentuating the texture of the dress and highlighting the sheen on the model's skin. ",
-      "Technical_Specifications": {
-        "View": "Full body shot or three-quarter shot, captured with high resolution and magazine quality.",
-        "Lens": "Preferably an 85mm fixed focus lens or similar focal length, ensuring a shallow depth of field for focused isolation.",
-        "Lighting": "Bright, professional studio lighting with strong contrast."
-      },
-      "Aesthetic_Style": [
+      "Subject": "A stylish, high-fashion female model posing in a studio setting, gazing directly at the viewer (face-to-face contact). She exudes sophistication and glamour.",
+      "Outfit_and_Accessories": "An elegant, floor-length gown predominantly in shades of light mint green and sage green. The bodice is thin, sleeveless, or one-shouldered, featuring a subtly textured or patterned design (such as a white floral or abstract print). The skirt has a dramatic, very high slit that strikingly reveals the legs. The lower portion of the skirt is composed of thin, flowing chiffon fabric, elegantly wrapped and utilized 100% within the frame. She wears high-heeled, strappy sandals embellished with shimmering details, with the straps extending up to her hips.",
+      "Pose_and_Action": "A sophisticated full-body pose. The model is positioned sitting upon a small, rectangular object (a pouf or box) of a contrasting color. One hand is delicately holding or interacting with the flowing fabric of the chiffon skirt.",
+      "Setting_and_Environment": "An interior professional photography studio. The background is simple: a partially unstitched white photographic paper or screen. The model is seated on a distinct contrasting object, specifically a red or dark orange pouf or box. A detail of something rolled up is visible on the floor.",
+      "Lighting_and_Mood": "Harsh, bright, professional studio lighting that creates strong light and shadow contrast. The lighting is specifically calibrated to accentuate the dress's texture, the sheer quality of the chiffon, and the sheen on the model’s skin. The overall atmosphere is sophisticated, sensual, and highly worthy of a magazine cover editorial.",
+      "Style_and_Aesthetic": [
         "High fashion editorial",
-        "Studio portrait",
-        "Glamorous photography"
+        "studio portrait",
+        "glamorous photography",
+        "Vogue magazine page shoot quality",
+        "fashion campaign visuals"
       ],
+      "Technical_Specifications": {
+        "View": "Full body shot or three-quarter shot, utilizing the frame fully.",
+        "Resolution": "High resolution, magazine quality.",
+        "Lens": "85mm fixed focus or similar, characterized by a shallow depth of field.",
+        "Lighting_Control": "Strong, focused professional studio lighting emphasizing contrast."
+      },
       "Color_Palette": {
         "Dominant_Colors": [
-          "Light mint green",
-          "Sage green",
-          "White (dress pattern/background)",
-          "Dark brown (hair)",
-          "Red or dark orange (seat/prop)"
-        ]
-      },
-      "Inspiration": [
-        "Visuals mimicking a Vogue magazine page shoot",
-        "High-end fashion campaign advertisements"
-      ],
-      "inputs": {
-        "Subject": "A highly stylish, high-fashion female model. The identity and exact likeness of the woman from the uploaded source image must be used 100%.",
-        "Attire_Details": "An elegant, floor-length couture gown featuring primary shades of light mint green and deep sage green. The top section is sleeveless or one-shouldered, constructed from thin, textured or patterned material (suggesting a white floral or abstract print). The skirt possesses a dramatic, very high slit, revealing the legs prominently. The lower portion of the skirt is thin, flowing chiffon fabric, elegantly wrapped around the figure. She is wearing high-heeled sandals detailed with shimmering embellishments and straps that extend upward toward the hips.",
-        "Pose_and_Action": "The woman is posing, either standing or perched upon a contrasting rectangular object. She faces the camera directly but is looking downward at the voluminous, flowing fabric of her dress. One hand is gently holding or supporting the flowing chiffon skirt fabric.",
-        "Setting_and_Props": "The setting is an indoor professional photography studio. The background is composed of a partially unstitched white photographic paper or screen. The woman is perched on a small, rectangular prop, specifically a red or dark orange pouf or box, which provides a strong color contrast to the green dress. Something appears to be rolled up and visible on the floor.",
-        "Lighting_and_Mood": "The atmosphere is sophisticated, sensual, and worthy of a high-end magazine cover. The lighting is harsh, bright professional studio lighting designed to create strong light and shadow contrast, accentuating the texture of the dress and highlighting the sheen on the model's skin. ",
-        "Technical_Specifications": {
-          "View": "Full body shot or three-quarter shot, captured with high resolution and magazine quality.",
-          "Lens": "Preferably an 85mm fixed focus lens or similar focal length, ensuring a shallow depth of field for focused isolation.",
-          "Lighting": "Bright, professional studio lighting with strong contrast."
-        },
-        "Aesthetic_Style": [
-          "High fashion editorial",
-          "Studio portrait",
-          "Glamorous photography"
+          "Light mint green and sage green (dress)",
+          "White (pattern on dress and background)",
+          "Red or dark orange (contrasting seat/pouf)",
+          "Dark brown (hair)"
         ],
+        "Contrast_Emphasis": "High contrast between the green/white elements and the red/orange seat."
+      },
+      "inputs": {
+        "Subject": "A stylish, high-fashion female model posing in a studio setting, gazing directly at the viewer (face-to-face contact). She exudes sophistication and glamour.",
+        "Outfit_and_Accessories": "An elegant, floor-length gown predominantly in shades of light mint green and sage green. The bodice is thin, sleeveless, or one-shouldered, featuring a subtly textured or patterned design (such as a white floral or abstract print). The skirt has a dramatic, very high slit that strikingly reveals the legs. The lower portion of the skirt is composed of thin, flowing chiffon fabric, elegantly wrapped and utilized 100% within the frame. She wears high-heeled, strappy sandals embellished with shimmering details, with the straps extending up to her hips.",
+        "Pose_and_Action": "A sophisticated full-body pose. The model is positioned sitting upon a small, rectangular object (a pouf or box) of a contrasting color. One hand is delicately holding or interacting with the flowing fabric of the chiffon skirt.",
+        "Setting_and_Environment": "An interior professional photography studio. The background is simple: a partially unstitched white photographic paper or screen. The model is seated on a distinct contrasting object, specifically a red or dark orange pouf or box. A detail of something rolled up is visible on the floor.",
+        "Lighting_and_Mood": "Harsh, bright, professional studio lighting that creates strong light and shadow contrast. The lighting is specifically calibrated to accentuate the dress's texture, the sheer quality of the chiffon, and the sheen on the model’s skin. The overall atmosphere is sophisticated, sensual, and highly worthy of a magazine cover editorial.",
+        "Style_and_Aesthetic": [
+          "High fashion editorial",
+          "studio portrait",
+          "glamorous photography",
+          "Vogue magazine page shoot quality",
+          "fashion campaign visuals"
+        ],
+        "Technical_Specifications": {
+          "View": "Full body shot or three-quarter shot, utilizing the frame fully.",
+          "Resolution": "High resolution, magazine quality.",
+          "Lens": "85mm fixed focus or similar, characterized by a shallow depth of field.",
+          "Lighting_Control": "Strong, focused professional studio lighting emphasizing contrast."
+        },
         "Color_Palette": {
           "Dominant_Colors": [
-            "Light mint green",
-            "Sage green",
-            "White (dress pattern/background)",
-            "Dark brown (hair)",
-            "Red or dark orange (seat/prop)"
-          ]
-        },
-        "Inspiration": [
-          "Visuals mimicking a Vogue magazine page shoot",
-          "High-end fashion campaign advertisements"
-        ]
+            "Light mint green and sage green (dress)",
+            "White (pattern on dress and background)",
+            "Red or dark orange (contrasting seat/pouf)",
+            "Dark brown (hair)"
+          ],
+          "Contrast_Emphasis": "High contrast between the green/white elements and the red/orange seat."
+        }
       }
     }
   },
