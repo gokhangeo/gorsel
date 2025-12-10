@@ -1,5 +1,25 @@
 [
   {
+    "id": 1765384255709,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Oyuncak Mağazası(Kadın)",
+    "hasImageUpload": true,
+    "json": {
+      "Style": "Bright, high-end street-fashion photograph. Emphasize crisp details, excellent lighting, and a modern, polished aesthetic.",
+      "Subject": "A woman, exactly matching the appearance, hairstyle, makeup, and clothing seen in the provided reference image. Her exact appearance and outfit must be preserved precisely.",
+      "Setting": "Outside a luxury toy shop window. The window should be large and clean, clearly separating the interior display from the exterior street.",
+      "Action": "The woman is standing near the window, gently touching the glass with one hand, looking slightly toward the interior display.",
+      "Key Elements": "Inside the store, prominently displayed behind the window, there must be a full-height, cartoon-style doll. The doll must be a cute, stylized, big-eyed animated character whose face, hair, outfit, and overall likeness are clearly and recognizably based on the exact woman standing outside the window.",
+      "inputs": {
+        "Style": "Bright, high-end street-fashion photograph. Emphasize crisp details, excellent lighting, and a modern, polished aesthetic.",
+        "Subject": "A woman, exactly matching the appearance, hairstyle, makeup, and clothing seen in the provided reference image. Her exact appearance and outfit must be preserved precisely.",
+        "Setting": "Outside a luxury toy shop window. The window should be large and clean, clearly separating the interior display from the exterior street.",
+        "Action": "The woman is standing near the window, gently touching the glass with one hand, looking slightly toward the interior display.",
+        "Key Elements": "Inside the store, prominently displayed behind the window, there must be a full-height, cartoon-style doll. The doll must be a cute, stylized, big-eyed animated character whose face, hair, outfit, and overall likeness are clearly and recognizably based on the exact woman standing outside the window."
+      }
+    }
+  },
+  {
     "id": 1765383935246,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Neon ışıklar",
