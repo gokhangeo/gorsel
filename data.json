@@ -1,5 +1,25 @@
 [
   {
+    "id": 1765400204795,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "3d kitap",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "Use the provided image, remaining 100% faithful to the uploaded image without altering any faces.",
+      "Pose and Movement": "The person in the uploaded image appears to emerge from a lined notebook page, creating an explosive effect. A detailed torn paper effect is visible on their waist, showing the transition from 2D drawing to 3D reality. They have their arms resting on the notebook surface.",
+      "Setting and Interaction": "The scene takes place on a wooden table surface with an open lined notebook on it. A real human hand holding a yellow pen actively traces their shoulder, acting as a 'Pen vs. Camera' element that blurs the line between 2D drawing and 3D reality.",
+      "Art Style": "3D Anamorphic Art, Optical Illusion, Hyperrealism, Surrealism, Mixed Media, Pen vs. Camera.",
+      "Composition and Quality": "High-angle shot with cinematic lighting (top-down view), especially focusing on the subject. Including focused, soft studio lighting. The image offers intricate details, 8k resolution, and photorealistic skin texture.",
+      "inputs": {
+        "Subject": "Use the provided image, remaining 100% faithful to the uploaded image without altering any faces.",
+        "Pose and Movement": "The person in the uploaded image appears to emerge from a lined notebook page, creating an explosive effect. A detailed torn paper effect is visible on their waist, showing the transition from 2D drawing to 3D reality. They have their arms resting on the notebook surface.",
+        "Setting and Interaction": "The scene takes place on a wooden table surface with an open lined notebook on it. A real human hand holding a yellow pen actively traces their shoulder, acting as a 'Pen vs. Camera' element that blurs the line between 2D drawing and 3D reality.",
+        "Art Style": "3D Anamorphic Art, Optical Illusion, Hyperrealism, Surrealism, Mixed Media, Pen vs. Camera.",
+        "Composition and Quality": "High-angle shot with cinematic lighting (top-down view), especially focusing on the subject. Including focused, soft studio lighting. The image offers intricate details, 8k resolution, and photorealistic skin texture."
+      }
+    }
+  },
+  {
     "id": 1765399349982,
     "category": "🍔 Yemek & Mutfak",
     "title": "Havada uçuşan parçacıklar (Kopya)",
