@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765402065879,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Güzellik Portresi(Kadın)",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A 100% full, ultra-realistic female beauty portrait.",
+      "Style": "High-end beauty photography style, ultra-realistic, luxurious beauty portrait, studio-shot, eye-catching.",
+      "Lighting": "Soft, directional lighting originating from behind and the side, utilized to create a shimmering edge light in the hair and a natural glow on the skin, described as perfect beauty lighting with blurred elements.",
+      "Pose and Expression": "The woman's body is slightly turned to the side, her head is slightly tilted towards the camera, and she displays a soft, confident smile.",
+      "Features and Makeup": "Smooth and radiant skin with a natural glow. Subtle makeup application including defined eyes, matte eyeshadow, and glossy lips.",
+      "Background and Setting": "A professional studio background featuring subtle elements of a photoshoot environment, characterized by blurred lighting and a soft bokeh effect.",
+      "Technical Specifications and Effects": "Professional studio technique utilized, resulting in extremely detailed skin and hair texture, clean tones, a soft bokeh effect, 85mm lens effect simulation, and shallow depth of field.",
+      "inputs": {
+        "Subject": "A 100% full, ultra-realistic female beauty portrait.",
+        "Style": "High-end beauty photography style, ultra-realistic, luxurious beauty portrait, studio-shot, eye-catching.",
+        "Lighting": "Soft, directional lighting originating from behind and the side, utilized to create a shimmering edge light in the hair and a natural glow on the skin, described as perfect beauty lighting with blurred elements.",
+        "Pose and Expression": "The woman's body is slightly turned to the side, her head is slightly tilted towards the camera, and she displays a soft, confident smile.",
+        "Features and Makeup": "Smooth and radiant skin with a natural glow. Subtle makeup application including defined eyes, matte eyeshadow, and glossy lips.",
+        "Background and Setting": "A professional studio background featuring subtle elements of a photoshoot environment, characterized by blurred lighting and a soft bokeh effect.",
+        "Technical Specifications and Effects": "Professional studio technique utilized, resulting in extremely detailed skin and hair texture, clean tones, a soft bokeh effect, 85mm lens effect simulation, and shallow depth of field."
+      }
+    }
+  },
+  {
     "id": 1765401640948,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Moda(Kadın)",
