@@ -1,5 +1,87 @@
 [
   {
+    "id": 1765401296647,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Moda(Kadın)",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A stylish, high-fashion woman seated on a small, rectangular object (possibly a contrasting red or dark orange pouf or box), looking down at her elaborate, flowing dress. The woman is wearing an elegant, floor-length dress, 100% fully utilized in the composition, primarily in shades of light mint green and sage green. The top is sleeveless or one-shouldered, thin, and features a textured or patterned fabric (suggested white floral or abstract print). The skirt features a very high slit, strikingly revealing her legs. The bottom of the skirt is made of thin, flowing chiffon fabric and is elegantly wrapped around her body and the seat. She is wearing high-heeled sandals with straps that extend to her hips, embellished with shimmering details. One hand gently holds the flowing fabric of the skirt. Her hair is dark brown.",
+      "Setting_and_Environment": {
+        "Location": "Indoor, professional photography studio.",
+        "Background": "A partially unstitched white photographic paper or screen backdrop. Something appears to be rolled up on the floor in the foreground or background.",
+        "Lighting": "Harsh, bright studio lighting that generates strong light/shadow contrast and accentuates the dress's texture and the sheen on her skin.",
+        "Atmosphere": "Sophisticated, sensual, and suitable for a high-end magazine cover."
+      },
+      "Visual_Style": {
+        "Aesthetics": [
+          "High fashion editorial",
+          "Studio portrait",
+          "Glamorous photography"
+        ],
+        "Inspiration": [
+          "Vogue magazine page shoot visuals",
+          "Major fashion campaign aesthetics"
+        ]
+      },
+      "Color_Palette": {
+        "Dominant_Colors": [
+          "Mint green",
+          "Sage green",
+          "White (backdrop/dress pattern)",
+          "Dark brown (hair)",
+          "Red or dark orange (seat/pouf)"
+        ],
+        "Effect": "Strong color contrast between the cool greens of the dress and the warm tone of the seating object."
+      },
+      "Composition_and_Technical_Details": {
+        "Framing": "Full body shot, high resolution, magazine quality.",
+        "View": "Full body or three-quarter shot.",
+        "Camera_Settings": {
+          "Lens": "85mm fixed focus or similar, utilizing a shallow depth of field to isolate the subject.",
+          "Lighting_Technique": "Bright, professional studio lighting with a strong emphasis on contrast."
+        }
+      },
+      "inputs": {
+        "Subject": "A stylish, high-fashion woman seated on a small, rectangular object (possibly a contrasting red or dark orange pouf or box), looking down at her elaborate, flowing dress. The woman is wearing an elegant, floor-length dress, 100% fully utilized in the composition, primarily in shades of light mint green and sage green. The top is sleeveless or one-shouldered, thin, and features a textured or patterned fabric (suggested white floral or abstract print). The skirt features a very high slit, strikingly revealing her legs. The bottom of the skirt is made of thin, flowing chiffon fabric and is elegantly wrapped around her body and the seat. She is wearing high-heeled sandals with straps that extend to her hips, embellished with shimmering details. One hand gently holds the flowing fabric of the skirt. Her hair is dark brown.",
+        "Setting_and_Environment": {
+          "Location": "Indoor, professional photography studio.",
+          "Background": "A partially unstitched white photographic paper or screen backdrop. Something appears to be rolled up on the floor in the foreground or background.",
+          "Lighting": "Harsh, bright studio lighting that generates strong light/shadow contrast and accentuates the dress's texture and the sheen on her skin.",
+          "Atmosphere": "Sophisticated, sensual, and suitable for a high-end magazine cover."
+        },
+        "Visual_Style": {
+          "Aesthetics": [
+            "High fashion editorial",
+            "Studio portrait",
+            "Glamorous photography"
+          ],
+          "Inspiration": [
+            "Vogue magazine page shoot visuals",
+            "Major fashion campaign aesthetics"
+          ]
+        },
+        "Color_Palette": {
+          "Dominant_Colors": [
+            "Mint green",
+            "Sage green",
+            "White (backdrop/dress pattern)",
+            "Dark brown (hair)",
+            "Red or dark orange (seat/pouf)"
+          ],
+          "Effect": "Strong color contrast between the cool greens of the dress and the warm tone of the seating object."
+        },
+        "Composition_and_Technical_Details": {
+          "Framing": "Full body shot, high resolution, magazine quality.",
+          "View": "Full body or three-quarter shot.",
+          "Camera_Settings": {
+            "Lens": "85mm fixed focus or similar, utilizing a shallow depth of field to isolate the subject.",
+            "Lighting_Technique": "Bright, professional studio lighting with a strong emphasis on contrast."
+          }
+        }
+      }
+    }
+  },
+  {
     "id": 1765400204795,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "3d kitap",
