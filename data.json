@@ -1,29 +1,43 @@
 [
   {
-    "id": 1765470762650,
+    "id": 1765470948997,
     "category": "🚀 ÖZEL MODLARIM",
-    "title": "Yılbaşı",
+    "title": "Bankta oturan adam",
     "hasImageUpload": true,
     "json": {
-      "Scene": "A cinematic Christmas market, outdoors, set during nighttime.",
-      "Atmosphere": "Cozy, elegant, and softly illuminated holiday scene.",
-      "Subject": "Portrait of a subject standing outdoors, clearly visible and centered.",
-      "Subject Appearance": "The subject must be wearing a red winter coat, with natural snowflakes visible on the hair and coat.",
-      "Identity Preservation": "Preserve the uploaded person’s face, identity, and all facial features exactly as they are.",
-      "Composition and Angle": "A front-facing portrait. The shot must always be captured directly from the front.",
-      "Visual Effects": "Softly falling snow, warm glowing market lights, and festive bokeh effects.",
-      "Background Details": "A decorated Christmas tree visible in the background.",
-      "Aspect Ratio": "16:9",
+      "Subject": "Ultra-realistic portrait of a man, keeping the face 100% accurate from the uploaded reference image.",
+      "Setting": "Autumn city park. The background features tall city buildings fading into a soft blur, with orange and brown autumn trees positioned on both sides. Fallen leaves are scattered on the wet stone pavement.",
+      "Subject_Description": {
+        "Pose": "Sitting on a dark metal bench (slightly wet from recent rain), leaning slightly forward with hands clasped.",
+        "Expression": "Looking directly at the camera with a calm, serious expression.",
+        "Appearance": "Light brown messy hair that falls slightly over his forehead.",
+        "Attire": "Brown suede jacket layered over a textured dark brown sweater, black slim jeans, and worn dark brown leather boots."
+      },
+      "Lighting": "Soft natural overcast lighting with no harsh shadows.",
+      "Photography_Technical": {
+        "Lens_Look": "50mm lens look.",
+        "Focus": "Shallow depth of field (DoF), ensuring the man is sharply in focus. The city and trees in the background must have a smooth cinematic bokeh."
+      },
+      "Atmosphere_and_Color": "Muted and cold colors, creating a moody late-fall atmosphere. Rain-damp textures are visible on the ground and bench.",
+      "Detail_Level": "Hyper-detailed clarity on skin texture, individual hair strands, fabric texture, suede grain, and the weathering on the boots.",
+      "Style": "Photorealistic, natural tones, crisp realism, no stylization, cinematic street portrait mood.",
       "inputs": {
-        "Scene": "A cinematic Christmas market, outdoors, set during nighttime.",
-        "Atmosphere": "Cozy, elegant, and softly illuminated holiday scene.",
-        "Subject": "Portrait of a subject standing outdoors, clearly visible and centered.",
-        "Subject Appearance": "The subject must be wearing a red winter coat, with natural snowflakes visible on the hair and coat.",
-        "Identity Preservation": "Preserve the uploaded person’s face, identity, and all facial features exactly as they are.",
-        "Composition and Angle": "A front-facing portrait. The shot must always be captured directly from the front.",
-        "Visual Effects": "Softly falling snow, warm glowing market lights, and festive bokeh effects.",
-        "Background Details": "A decorated Christmas tree visible in the background.",
-        "Aspect Ratio": "16:9"
+        "Subject": "Ultra-realistic portrait of a man, keeping the face 100% accurate from the uploaded reference image.",
+        "Setting": "Autumn city park. The background features tall city buildings fading into a soft blur, with orange and brown autumn trees positioned on both sides. Fallen leaves are scattered on the wet stone pavement.",
+        "Subject_Description": {
+          "Pose": "Sitting on a dark metal bench (slightly wet from recent rain), leaning slightly forward with hands clasped.",
+          "Expression": "Looking directly at the camera with a calm, serious expression.",
+          "Appearance": "Light brown messy hair that falls slightly over his forehead.",
+          "Attire": "Brown suede jacket layered over a textured dark brown sweater, black slim jeans, and worn dark brown leather boots."
+        },
+        "Lighting": "Soft natural overcast lighting with no harsh shadows.",
+        "Photography_Technical": {
+          "Lens_Look": "50mm lens look.",
+          "Focus": "Shallow depth of field (DoF), ensuring the man is sharply in focus. The city and trees in the background must have a smooth cinematic bokeh."
+        },
+        "Atmosphere_and_Color": "Muted and cold colors, creating a moody late-fall atmosphere. Rain-damp textures are visible on the ground and bench.",
+        "Detail_Level": "Hyper-detailed clarity on skin texture, individual hair strands, fabric texture, suede grain, and the weathering on the boots.",
+        "Style": "Photorealistic, natural tones, crisp realism, no stylization, cinematic street portrait mood."
       }
     }
   },
