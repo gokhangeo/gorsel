@@ -1,5 +1,43 @@
 [
   {
+    "id": 1765473449443,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Stranger Things",
+    "hasImageUpload": true,
+    "json": {
+      "SelfieProtagonist": "A charismatic young adult, wearing a cotton t-shirt with the Stranger Things logo. The subject's appearance, face, skin tone, hair, proportions, and all physical characteristics must be 100% faithful and identical to the provided reference image. The subject is holding the camera with their arm extended at a high angle, smiling with genuine and contagious enthusiasm. Reiterating: absolute fidelity to the characteristics of the reference image for the central protagonist of the selfie.",
+      "SupportingCast": "The main characters of the Stranger Things series—specifically Eleven, Will, Mike, Dustin, and Lucas—are closely surrounding the protagonist, shoulder to shoulder, interacting naturally, laughing, and looking at the lens with lively and spontaneous expressions, creating a dynamic, warm, and tight group composition.",
+      "Setting": "The background reveals the iconic town of Hawkins, Indiana, with nostalgic suburban architecture, bicycles scattered on the asphalt, and light poles with exposed wiring, all immersed in an authentic retro atmosphere.",
+      "PhotographyStyle": "A cinematic, immersive, and hyper-realistic selfie-style photograph.",
+      "LightingAndColor": "Defined by a dazzling 'Golden Hour,' bathing faces in warm, sideways golden sunlight that creates soft contours, enhances skin texture, and generates artistic, volumetric 'lens flares,' with a rich color palette of ochre, burnt orange, and twilight blue tones.",
+      "TechnicalSpecifications": "Captured with a 24mm wide-angle lens for realistic selfie perspective distortion, sharp focus on faces with cinematic 'bokeh' background blur, 35mm Kodak Portra film texture, fine grain, ultra-high dynamic range, microscopic detail of pores and tissues, Octane rendering, 8K RAW photographic quality.",
+      "Constraints": "No excessively smooth or plasticized skin, disproportion, object merging, flat or shadowless lighting, saturated or neon colors, excessive grain, digital noise, low resolution, text, logos, signatures, rigid or unnatural poses, exaggerated facial expressions, or cluttered or unnecessary backgrounds.",
+      "Parameters": {
+        "Aspect_Ratio": "9:16",
+        "Version": "6.1",
+        "Style": "raw",
+        "Quality": "2",
+        "Stylize": "750"
+      },
+      "inputs": {
+        "SelfieProtagonist": "A charismatic young adult, wearing a cotton t-shirt with the Stranger Things logo. The subject's appearance, face, skin tone, hair, proportions, and all physical characteristics must be 100% faithful and identical to the provided reference image. The subject is holding the camera with their arm extended at a high angle, smiling with genuine and contagious enthusiasm. Reiterating: absolute fidelity to the characteristics of the reference image for the central protagonist of the selfie.",
+        "SupportingCast": "The main characters of the Stranger Things series—specifically Eleven, Will, Mike, Dustin, and Lucas—are closely surrounding the protagonist, shoulder to shoulder, interacting naturally, laughing, and looking at the lens with lively and spontaneous expressions, creating a dynamic, warm, and tight group composition.",
+        "Setting": "The background reveals the iconic town of Hawkins, Indiana, with nostalgic suburban architecture, bicycles scattered on the asphalt, and light poles with exposed wiring, all immersed in an authentic retro atmosphere.",
+        "PhotographyStyle": "A cinematic, immersive, and hyper-realistic selfie-style photograph.",
+        "LightingAndColor": "Defined by a dazzling 'Golden Hour,' bathing faces in warm, sideways golden sunlight that creates soft contours, enhances skin texture, and generates artistic, volumetric 'lens flares,' with a rich color palette of ochre, burnt orange, and twilight blue tones.",
+        "TechnicalSpecifications": "Captured with a 24mm wide-angle lens for realistic selfie perspective distortion, sharp focus on faces with cinematic 'bokeh' background blur, 35mm Kodak Portra film texture, fine grain, ultra-high dynamic range, microscopic detail of pores and tissues, Octane rendering, 8K RAW photographic quality.",
+        "Constraints": "No excessively smooth or plasticized skin, disproportion, object merging, flat or shadowless lighting, saturated or neon colors, excessive grain, digital noise, low resolution, text, logos, signatures, rigid or unnatural poses, exaggerated facial expressions, or cluttered or unnecessary backgrounds.",
+        "Parameters": {
+          "Aspect_Ratio": "9:16",
+          "Version": "6.1",
+          "Style": "raw",
+          "Quality": "2",
+          "Stylize": "750"
+        }
+      }
+    }
+  },
+  {
     "id": 1765473218051,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Portakal Posası(Subject doldur)",
