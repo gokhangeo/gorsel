@@ -1,5 +1,33 @@
 [
   {
+    "id": 1765470762650,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Yılbaşı",
+    "hasImageUpload": true,
+    "json": {
+      "Scene": "A cinematic Christmas market, outdoors, set during nighttime.",
+      "Atmosphere": "Cozy, elegant, and softly illuminated holiday scene.",
+      "Subject": "Portrait of a subject standing outdoors, clearly visible and centered.",
+      "Subject Appearance": "The subject must be wearing a red winter coat, with natural snowflakes visible on the hair and coat.",
+      "Identity Preservation": "Preserve the uploaded person’s face, identity, and all facial features exactly as they are.",
+      "Composition and Angle": "A front-facing portrait. The shot must always be captured directly from the front.",
+      "Visual Effects": "Softly falling snow, warm glowing market lights, and festive bokeh effects.",
+      "Background Details": "A decorated Christmas tree visible in the background.",
+      "Aspect Ratio": "16:9",
+      "inputs": {
+        "Scene": "A cinematic Christmas market, outdoors, set during nighttime.",
+        "Atmosphere": "Cozy, elegant, and softly illuminated holiday scene.",
+        "Subject": "Portrait of a subject standing outdoors, clearly visible and centered.",
+        "Subject Appearance": "The subject must be wearing a red winter coat, with natural snowflakes visible on the hair and coat.",
+        "Identity Preservation": "Preserve the uploaded person’s face, identity, and all facial features exactly as they are.",
+        "Composition and Angle": "A front-facing portrait. The shot must always be captured directly from the front.",
+        "Visual Effects": "Softly falling snow, warm glowing market lights, and festive bokeh effects.",
+        "Background Details": "A decorated Christmas tree visible in the background.",
+        "Aspect Ratio": "16:9"
+      }
+    }
+  },
+  {
     "id": 1765402065879,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Güzellik Portresi(Kadın)",
