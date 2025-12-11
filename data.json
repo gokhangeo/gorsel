@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765473218051,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Portakal Posası(Subject doldur)",
+    "hasImageUpload": true,
+    "json": {
+      "ImageStyle": "Hyper-realistic image",
+      "PrimarySubject": "An extraordinary piece of orange pulp, meticulously sculpted.",
+      "SculptedForm": "The pulp is designed into an elaborate and majestic [SUBJECT] form. The [SUBJECT]-like contours and features must be exquisitely defined, vivid, and pronounced.",
+      "TextureDetail": "The texture must be remarkably detailed, showcasing the natural, fibrous quality of orange pulp.",
+      "ColorPalette": "A vivid, true-to-life orange color, emblematic of fresh citrus.",
+      "CompositionAndFocus": "The single, standout pulp segment should be the central focus, set against a soft, unobtrusive background that specifically enhances its striking form.",
+      "OverallConcept": "The image should encapsulate the imaginative fusion of natural fruit textures with the majestic form of a [SUBJECT], all while maintaining a highly lifelike appearance.",
+      "inputs": {
+        "ImageStyle": "Hyper-realistic image",
+        "PrimarySubject": "An extraordinary piece of orange pulp, meticulously sculpted.",
+        "SculptedForm": "The pulp is designed into an elaborate and majestic [SUBJECT] form. The [SUBJECT]-like contours and features must be exquisitely defined, vivid, and pronounced.",
+        "TextureDetail": "The texture must be remarkably detailed, showcasing the natural, fibrous quality of orange pulp.",
+        "ColorPalette": "A vivid, true-to-life orange color, emblematic of fresh citrus.",
+        "CompositionAndFocus": "The single, standout pulp segment should be the central focus, set against a soft, unobtrusive background that specifically enhances its striking form.",
+        "OverallConcept": "The image should encapsulate the imaginative fusion of natural fruit textures with the majestic form of a [SUBJECT], all while maintaining a highly lifelike appearance."
+      }
+    }
+  },
+  {
     "id": 1765472763256,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Futbolcu",
