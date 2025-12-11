@@ -1,5 +1,23 @@
 [
   {
+    "id": 1765472763256,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Futbolcu",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A professional footballer, whose facial features, skin tone, hair type, and bone structure are autonomously analyzed to determine a plausible regional or national identity, captured mid-celebration after scoring a goal.",
+      "Attire_and_Identity": "Analysis of the inferred subject features (face, skin tone, hair type, bone structure) dictates the automatic selection of a world-renowned professional football club matching that identity. The subject is fully outfitted in the club’s current official home kit, ensuring the club crest and shirt sponsor are prominently visible.",
+      "Action_and_Emotion": "An autonomously chosen goal celebration that is high-energy and feels natural to the scene. The selected celebration must be one of the following: a dramatic knee slide roaring towards the crowd, intensely kissing the badge with palpable emotion, an exhilarating airplane-run shouting joyously at the sky, or a powerful fist-pump while receiving an emotional hug from a teammate coming from behind.",
+      "Photographic_Style": "Hyper-realistic sports photograph captured on a long telephoto lens, resulting in heavily compressed perspective and shallow depth of field. The scene utilizes dramatic stadium night lighting with a strong rim light defining the subject's contours. Visible texture details must include sweat covering the subject's skin and authentic grass stains on the kit. Facial focus must be razor-sharp, contrasted against a heavily blurred, impressionistic crowd background.",
+      "inputs": {
+        "Subject": "A professional footballer, whose facial features, skin tone, hair type, and bone structure are autonomously analyzed to determine a plausible regional or national identity, captured mid-celebration after scoring a goal.",
+        "Attire_and_Identity": "Analysis of the inferred subject features (face, skin tone, hair type, bone structure) dictates the automatic selection of a world-renowned professional football club matching that identity. The subject is fully outfitted in the club’s current official home kit, ensuring the club crest and shirt sponsor are prominently visible.",
+        "Action_and_Emotion": "An autonomously chosen goal celebration that is high-energy and feels natural to the scene. The selected celebration must be one of the following: a dramatic knee slide roaring towards the crowd, intensely kissing the badge with palpable emotion, an exhilarating airplane-run shouting joyously at the sky, or a powerful fist-pump while receiving an emotional hug from a teammate coming from behind.",
+        "Photographic_Style": "Hyper-realistic sports photograph captured on a long telephoto lens, resulting in heavily compressed perspective and shallow depth of field. The scene utilizes dramatic stadium night lighting with a strong rim light defining the subject's contours. Visible texture details must include sweat covering the subject's skin and authentic grass stains on the kit. Facial focus must be razor-sharp, contrasted against a heavily blurred, impressionistic crowd background."
+      }
+    }
+  },
+  {
     "id": 1765472513634,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Şehir",
