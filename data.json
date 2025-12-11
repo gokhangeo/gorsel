@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765472513634,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Şehir",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A hyper-realistic, isometric 3D diorama of [CITY NAME] presented as a detached cubic slice of earth.",
+      "Top Surface Details": "The top surface features a dense, highly detailed arrangement of the city's most iconic landmarks, clustered together with miniature vegetation, tiny people, and textures.",
+      "Side/Cross-Section Details": "The sides of the cube show a rough, realistic cross-section of the ground with layers of rich soil, strata of rock, hanging roots, and buried ancient debris.",
+      "Text/Typography": "Large, white, bold 3D block letters spelling \"[CITY NAME]\" are embedded directly into the front face of the soil layer.",
+      "Environment/Background": "Isolated on a pure white background.",
+      "Lighting/Focus": "Soft studio lighting, sharp focus.",
+      "Style/Quality": "8k resolution, architectural visualization, Octane render style.",
+      "inputs": {
+        "Subject": "A hyper-realistic, isometric 3D diorama of [CITY NAME] presented as a detached cubic slice of earth.",
+        "Top Surface Details": "The top surface features a dense, highly detailed arrangement of the city's most iconic landmarks, clustered together with miniature vegetation, tiny people, and textures.",
+        "Side/Cross-Section Details": "The sides of the cube show a rough, realistic cross-section of the ground with layers of rich soil, strata of rock, hanging roots, and buried ancient debris.",
+        "Text/Typography": "Large, white, bold 3D block letters spelling \"[CITY NAME]\" are embedded directly into the front face of the soil layer.",
+        "Environment/Background": "Isolated on a pure white background.",
+        "Lighting/Focus": "Soft studio lighting, sharp focus.",
+        "Style/Quality": "8k resolution, architectural visualization, Octane render style."
+      }
+    }
+  },
+  {
     "id": 1765472216728,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Ülke",
