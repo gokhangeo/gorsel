@@ -1,5 +1,31 @@
 [
   {
+    "id": 1765472216728,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Ülke",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A hyper-realistic, floating miniature island designed as a digital poster. The island must be shaped precisely like the geographical outline of [COUNTRY] and must appear to be resting upon dense white clouds high in the sky.",
+      "Terrain_Details": "The surface of the island must be richly textured, incorporating an intricate blend of iconic national landmarks, diverse natural landscapes specific to [COUNTRY] (including lush forests, towering mountains, and sandy beaches), and unique cultural elements.",
+      "Text_Element": "The name '[COUNTRY]' must be carved directly into the terrain using large, prominent, three-dimensional white block letters.",
+      "Composition": "The image must utilize an aerial perspective to emphasize the miniature scale and floating nature of the island. The lighting should be cinematic, featuring strong sun reflections and vivid, rich colors to maximize visual impact.",
+      "Artistic_Details": "Inclusion of birds native to [COUNTRY] to enhance the realism and sense of place.",
+      "Style": "Ultra-HD, hyper-realistic, ultra-quality digital poster.",
+      "Resolution": "4K+ resolution quality.",
+      "Format": "1080x1080 square aspect ratio.",
+      "inputs": {
+        "Subject": "A hyper-realistic, floating miniature island designed as a digital poster. The island must be shaped precisely like the geographical outline of [COUNTRY] and must appear to be resting upon dense white clouds high in the sky.",
+        "Terrain_Details": "The surface of the island must be richly textured, incorporating an intricate blend of iconic national landmarks, diverse natural landscapes specific to [COUNTRY] (including lush forests, towering mountains, and sandy beaches), and unique cultural elements.",
+        "Text_Element": "The name '[COUNTRY]' must be carved directly into the terrain using large, prominent, three-dimensional white block letters.",
+        "Composition": "The image must utilize an aerial perspective to emphasize the miniature scale and floating nature of the island. The lighting should be cinematic, featuring strong sun reflections and vivid, rich colors to maximize visual impact.",
+        "Artistic_Details": "Inclusion of birds native to [COUNTRY] to enhance the realism and sense of place.",
+        "Style": "Ultra-HD, hyper-realistic, ultra-quality digital poster.",
+        "Resolution": "4K+ resolution quality.",
+        "Format": "1080x1080 square aspect ratio."
+      }
+    }
+  },
+  {
     "id": 1765471666800,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Bankta oturan adam (Kopya)",
