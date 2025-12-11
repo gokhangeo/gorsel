@@ -1,5 +1,31 @@
 [
   {
+    "id": 1765471666800,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Bankta oturan adam (Kopya)",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "Ultra-realistic portrait of a man, ensuring the face is 100% accurate to the uploaded reference image. He is sitting on a bench, leaning slightly forward with hands clasped, and looking directly at the camera with a calm, serious expression.",
+      "Attire & Hair": "He has light brown messy hair that falls slightly over his forehead. He wears a brown suede jacket layered over a textured dark brown sweater, black slim jeans, and worn dark brown leather boots.",
+      "Setting & Environment": "An autumn city park. The bench is dark metal and slightly wet from recent rain. The background features tall city buildings fading into a soft blur, with orange and brown autumn trees on both sides. Fallen leaves are scattered on the wet stone pavement.",
+      "Lighting": "Soft natural overcast lighting, resulting in no harsh shadows.",
+      "Composition & Focus": "Shallow depth of field, keeping the man sharply in focus while the city and trees have a smooth cinematic bokeh. The image should exhibit a 50mm lens look.",
+      "Color & Mood": "Colors are muted and cold, giving a moody late-fall atmosphere. Natural tones are required.",
+      "Texture & Detail": "Hyper-detailed rendering of skin texture, individual hair strands, fabric texture, suede grain, and boot weathering. Rain-damp textures must be visible on the ground and bench.",
+      "Style & Quality": "Photorealistic, crisp realism, cinematic street portrait mood, and no stylization.",
+      "inputs": {
+        "Subject": "Ultra-realistic portrait of a man, ensuring the face is 100% accurate to the uploaded reference image. He is sitting on a bench, leaning slightly forward with hands clasped, and looking directly at the camera with a calm, serious expression.",
+        "Attire & Hair": "He has light brown messy hair that falls slightly over his forehead. He wears a brown suede jacket layered over a textured dark brown sweater, black slim jeans, and worn dark brown leather boots.",
+        "Setting & Environment": "An autumn city park. The bench is dark metal and slightly wet from recent rain. The background features tall city buildings fading into a soft blur, with orange and brown autumn trees on both sides. Fallen leaves are scattered on the wet stone pavement.",
+        "Lighting": "Soft natural overcast lighting, resulting in no harsh shadows.",
+        "Composition & Focus": "Shallow depth of field, keeping the man sharply in focus while the city and trees have a smooth cinematic bokeh. The image should exhibit a 50mm lens look.",
+        "Color & Mood": "Colors are muted and cold, giving a moody late-fall atmosphere. Natural tones are required.",
+        "Texture & Detail": "Hyper-detailed rendering of skin texture, individual hair strands, fabric texture, suede grain, and boot weathering. Rain-damp textures must be visible on the ground and bench.",
+        "Style & Quality": "Photorealistic, crisp realism, cinematic street portrait mood, and no stylization."
+      }
+    }
+  },
+  {
     "id": 1765470948997,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Bankta oturan adam",
