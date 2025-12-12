@@ -1,5 +1,27 @@
 [
   {
+    "id": 1765564003865,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kucakta AYI",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A beautiful young woman whose facial features must be preserved exactly as the reference image (mandatory face preservation). She has long, neatly flowing, slightly messy natural dark brown hair. She is wearing a thick brown knitted sweater with visible fabric texture, light brown cargo pants, and white sneakers. Her expression is soft, calm, and natural.",
+      "Pose": "She is kneeling on the floor, and her hands are hugging a large plush mouse.",
+      "Props": "The main prop is a large, cheerful, and cute crocheted plush mouse with large, expressive, cartoon-like eyes. The mouse's body is brown, the belly is cream, and the inner ears are light brown. Additionally, multiple smaller crocheted mouse plushies of identical design but varying sizes are scattered on the floor.",
+      "Environment": "The scene takes place inside a cartoon-style room executed in a brown monochrome color scheme with soft tonal variations. The background is characterized by hand-drawn black sketch lines illustrating doodle-style elements such as a door outline, a simple window sketch, a vase outline, and circular ornaments on the walls. The lighting is soft, warm, and cozy interior lighting.",
+      "Style_and_Render": "The required render style is hyper-realistic and non-animated (not cartoonized), produced at ultra-high resolution. The image must feature highly detailed textures, including realistic knitted sweater fibers and the detailed crochet fabric texture of the plushies, all captured with smooth, soft lighting.",
+      "Composition": "The composition centers on the woman hugging the large plush mouse. The smaller mouse plushies are utilized as secondary elements positioned around her, and the stylized cartoon room acts as the background, enhancing the overall cozy atmosphere.",
+      "inputs": {
+        "Subject": "A beautiful young woman whose facial features must be preserved exactly as the reference image (mandatory face preservation). She has long, neatly flowing, slightly messy natural dark brown hair. She is wearing a thick brown knitted sweater with visible fabric texture, light brown cargo pants, and white sneakers. Her expression is soft, calm, and natural.",
+        "Pose": "She is kneeling on the floor, and her hands are hugging a large plush mouse.",
+        "Props": "The main prop is a large, cheerful, and cute crocheted plush mouse with large, expressive, cartoon-like eyes. The mouse's body is brown, the belly is cream, and the inner ears are light brown. Additionally, multiple smaller crocheted mouse plushies of identical design but varying sizes are scattered on the floor.",
+        "Environment": "The scene takes place inside a cartoon-style room executed in a brown monochrome color scheme with soft tonal variations. The background is characterized by hand-drawn black sketch lines illustrating doodle-style elements such as a door outline, a simple window sketch, a vase outline, and circular ornaments on the walls. The lighting is soft, warm, and cozy interior lighting.",
+        "Style_and_Render": "The required render style is hyper-realistic and non-animated (not cartoonized), produced at ultra-high resolution. The image must feature highly detailed textures, including realistic knitted sweater fibers and the detailed crochet fabric texture of the plushies, all captured with smooth, soft lighting.",
+        "Composition": "The composition centers on the woman hugging the large plush mouse. The smaller mouse plushies are utilized as secondary elements positioned around her, and the stylized cartoon room acts as the background, enhancing the overall cozy atmosphere."
+      }
+    }
+  },
+  {
     "id": 1765473449443,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Stranger Things",
