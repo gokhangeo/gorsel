@@ -1,5 +1,29 @@
 [
   {
+    "id": 1765643297115,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Sokak Yemekleri",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "The central person must be derived from the uploaded reference image, with the constraint that the face must be kept 100% accurate to the reference image.",
+      "Attire": "A navy casual shirt.",
+      "Action/Pose": "Standing at the market, holding a hot skewer of grilled chicken, and smiling wide as if preparing to take a bite.",
+      "Setting": "A busy, vibrant night market.",
+      "Background/Atmosphere": "The background is clearly detailed, featuring colorful lights, multiple food stalls, numerous hanging lanterns, and other people walking. Visible steam rises warmly from the surrounding food grills, enhancing the street-side feel.",
+      "Style": "Lively street photo quality.",
+      "Aspect Ratio": "4:5",
+      "inputs": {
+        "Subject": "The central person must be derived from the uploaded reference image, with the constraint that the face must be kept 100% accurate to the reference image.",
+        "Attire": "A navy casual shirt.",
+        "Action/Pose": "Standing at the market, holding a hot skewer of grilled chicken, and smiling wide as if preparing to take a bite.",
+        "Setting": "A busy, vibrant night market.",
+        "Background/Atmosphere": "The background is clearly detailed, featuring colorful lights, multiple food stalls, numerous hanging lanterns, and other people walking. Visible steam rises warmly from the surrounding food grills, enhancing the street-side feel.",
+        "Style": "Lively street photo quality.",
+        "Aspect Ratio": "4:5"
+      }
+    }
+  },
+  {
     "id": 1765642967326,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Kitap okuma",
