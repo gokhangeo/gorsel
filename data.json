@@ -1,70 +1,74 @@
 [
   {
-    "id": 1765644471429,
+    "id": 1765644549921,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Çiçek Buketi",
     "hasImageUpload": true,
     "json": {
       "Subject": {
-        "Type": "Youthful Girl",
-        "Appearance": "Sweet, cute, youthful-looking, ethereal aesthetic. Fair skin, finely shaped face, delicate and realistic facial features, high nose bridge.",
-        "Hair": "Soft black hair, styled naturally, enhancing the mood. Asymmetrical composition, detailed visible hair strands.",
-        "Expression": "Lively expression, expressive emotions, looking toward the camera with beautiful eyes and black pupils. Glancing left and right.",
-        "Makeup": "Sweet and natural, finely detailed makeup.",
-        "Clothing_Accessories": "Trendy black clothing, silver hoop earrings. Casual and realistic clothing feel."
+        "Appearance": "Sweet, cute, youthful-looking girl with delicate and realistic facial features, fair skin, and finely shaped face.",
+        "Hair": "Soft black hair, styled naturally with an asymmetrical composition, visible hair strands, and a style that enhances the mood. (Note: Reference also mentions dark brown hair color context.)",
+        "Features": "High nose bridge, beautiful eyes with black pupils, detailed, sweet and natural makeup.",
+        "Clothing_and_Accessories": "Trendy black clothing, casual and realistic feel. Wears silver hoop earrings."
       },
-      "Pose_and_Action": {
-        "Posture": "Relaxed, languid posture, conveying a comfortable lifestyle. Natural and coordinated pose, highlighting a graceful posture. Striking a cute pose.",
-        "Props": "Holding a large bouquet of flowers wrapped in kraft paper."
+      "Pose_and_Expression": {
+        "Posture": "Relaxed, languid posture, natural and coordinated, conveying a relaxed, comfortable lifestyle. Graceful posture is highlighted.",
+        "Action": "Holding a large bouquet of flowers wrapped in kraft paper.",
+        "Gaze": "Lively expression, looking toward the camera, with a sense of glancing left and right (suggesting movement or thoughtful gaze).",
+        "Mood": "Expressive emotions, striking a cute pose."
       },
-      "Setting_Environment": {
-        "Location": "Interior or setting surrounded by many green plants.",
-        "Atmosphere": "Tactile, immersive, and atmospheric, comforting atmosphere. Sense of surreal sophistication."
+      "Setting_and_Props": {
+        "Environment": "Surrounded by many green plants."
       },
-      "Lighting_and_Color": {
-        "Quality": "Soft, warm lighting. Strong warm-side lighting. Spontaneous lighting.",
-        "Source": "A lamp with an orange bulb placed behind her creates a softly orange backlight.",
-        "Effects": "Nuanced shadows. Warm light cast specifically on her hair, head, and face. Intricate light-and-shadow patterns across her face."
+      "Lighting_and_Atmosphere": {
+        "Lighting": "Soft, warm lighting. Strong warm-side lighting casting intricate light-and-shadow patterns across her face.",
+        "Source": "A lamp orange bulb positioned behind her, creating a softly orange glow and nuanced shadows, generating warm light on her hair, head, and face.",
+        "Mood": "Comforting atmosphere, tactile, immersive, and atmospheric."
       },
-      "Style_Aesthetic": {
-        "Core_Aesthetic": "Youthful, ethereal, high-quality, clear-focus aesthetic, dynamic, visually stunning composition.",
-        "Snapshot_Aesthetic": "Must resemble a casual, ordinary iPhone snapshot (do not show the phone). Features slight motion blur, awkward angles, imperfect composition, giving the feel of an unplanned, everyday candid photo."
+      "Aesthetics_and_Style": {
+        "Overall_Quality": "Youthful, ethereal, high-quality, clear-focus aesthetic. Facial close-ups are detailed, capturing fine nuances.",
+        "Stylistic_Elements": "Sense of surreal sophistication, subtle motion blur, dynamic scene captured spontaneously.",
+        "Composition_Style": "Visually stunning composition, despite simulating an everyday candid photo."
       },
-      "Composition_and_Detail": {
-        "Focus_Level": "Facial close-ups should be detailed, capturing fine nuances.",
-        "Movement": "Subtle motion blur to enhance the dynamic, spontaneous feel.",
-        "Fidelity_Constraint": "Ensure the face proportions match the uploaded reference image and maintain the character’s features accurately."
+      "Composition_and_Camera_Effect": {
+        "Technical_Simulation": "The image must resemble a casual, ordinary iPhone snapshot (do not show the phone itself).",
+        "Intentional_Flaws": "Slight motion blur, awkward angles, imperfect composition, spontaneous lighting, giving the feel of an unplanned, everyday candid photo."
+      },
+      "Reference_Constraints": {
+        "Character_Fidelity": "Ensure the face proportions match the uploaded reference and maintain the character’s features accurately."
       },
       "inputs": {
         "Subject": {
-          "Type": "Youthful Girl",
-          "Appearance": "Sweet, cute, youthful-looking, ethereal aesthetic. Fair skin, finely shaped face, delicate and realistic facial features, high nose bridge.",
-          "Hair": "Soft black hair, styled naturally, enhancing the mood. Asymmetrical composition, detailed visible hair strands.",
-          "Expression": "Lively expression, expressive emotions, looking toward the camera with beautiful eyes and black pupils. Glancing left and right.",
-          "Makeup": "Sweet and natural, finely detailed makeup.",
-          "Clothing_Accessories": "Trendy black clothing, silver hoop earrings. Casual and realistic clothing feel."
+          "Appearance": "Sweet, cute, youthful-looking girl with delicate and realistic facial features, fair skin, and finely shaped face.",
+          "Hair": "Soft black hair, styled naturally with an asymmetrical composition, visible hair strands, and a style that enhances the mood. (Note: Reference also mentions dark brown hair color context.)",
+          "Features": "High nose bridge, beautiful eyes with black pupils, detailed, sweet and natural makeup.",
+          "Clothing_and_Accessories": "Trendy black clothing, casual and realistic feel. Wears silver hoop earrings."
         },
-        "Pose_and_Action": {
-          "Posture": "Relaxed, languid posture, conveying a comfortable lifestyle. Natural and coordinated pose, highlighting a graceful posture. Striking a cute pose.",
-          "Props": "Holding a large bouquet of flowers wrapped in kraft paper."
+        "Pose_and_Expression": {
+          "Posture": "Relaxed, languid posture, natural and coordinated, conveying a relaxed, comfortable lifestyle. Graceful posture is highlighted.",
+          "Action": "Holding a large bouquet of flowers wrapped in kraft paper.",
+          "Gaze": "Lively expression, looking toward the camera, with a sense of glancing left and right (suggesting movement or thoughtful gaze).",
+          "Mood": "Expressive emotions, striking a cute pose."
         },
-        "Setting_Environment": {
-          "Location": "Interior or setting surrounded by many green plants.",
-          "Atmosphere": "Tactile, immersive, and atmospheric, comforting atmosphere. Sense of surreal sophistication."
+        "Setting_and_Props": {
+          "Environment": "Surrounded by many green plants."
         },
-        "Lighting_and_Color": {
-          "Quality": "Soft, warm lighting. Strong warm-side lighting. Spontaneous lighting.",
-          "Source": "A lamp with an orange bulb placed behind her creates a softly orange backlight.",
-          "Effects": "Nuanced shadows. Warm light cast specifically on her hair, head, and face. Intricate light-and-shadow patterns across her face."
+        "Lighting_and_Atmosphere": {
+          "Lighting": "Soft, warm lighting. Strong warm-side lighting casting intricate light-and-shadow patterns across her face.",
+          "Source": "A lamp orange bulb positioned behind her, creating a softly orange glow and nuanced shadows, generating warm light on her hair, head, and face.",
+          "Mood": "Comforting atmosphere, tactile, immersive, and atmospheric."
         },
-        "Style_Aesthetic": {
-          "Core_Aesthetic": "Youthful, ethereal, high-quality, clear-focus aesthetic, dynamic, visually stunning composition.",
-          "Snapshot_Aesthetic": "Must resemble a casual, ordinary iPhone snapshot (do not show the phone). Features slight motion blur, awkward angles, imperfect composition, giving the feel of an unplanned, everyday candid photo."
+        "Aesthetics_and_Style": {
+          "Overall_Quality": "Youthful, ethereal, high-quality, clear-focus aesthetic. Facial close-ups are detailed, capturing fine nuances.",
+          "Stylistic_Elements": "Sense of surreal sophistication, subtle motion blur, dynamic scene captured spontaneously.",
+          "Composition_Style": "Visually stunning composition, despite simulating an everyday candid photo."
         },
-        "Composition_and_Detail": {
-          "Focus_Level": "Facial close-ups should be detailed, capturing fine nuances.",
-          "Movement": "Subtle motion blur to enhance the dynamic, spontaneous feel.",
-          "Fidelity_Constraint": "Ensure the face proportions match the uploaded reference image and maintain the character’s features accurately."
+        "Composition_and_Camera_Effect": {
+          "Technical_Simulation": "The image must resemble a casual, ordinary iPhone snapshot (do not show the phone itself).",
+          "Intentional_Flaws": "Slight motion blur, awkward angles, imperfect composition, spontaneous lighting, giving the feel of an unplanned, everyday candid photo."
+        },
+        "Reference_Constraints": {
+          "Character_Fidelity": "Ensure the face proportions match the uploaded reference and maintain the character’s features accurately."
         }
       }
     }
