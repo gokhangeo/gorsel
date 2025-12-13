@@ -1,5 +1,33 @@
 [
   {
+    "id": 1765642967326,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kitap okuma",
+    "hasImageUpload": true,
+    "json": {
+      "Scene Type": "A warm indoor photograph.",
+      "Subject": "The person attached in the uploaded reference image, with the face kept 100% accurate from the reference image.",
+      "Action": "Sitting and holding an open book in their hands.",
+      "Appearance": "Wearing a dark brown sweater and round reading glasses.",
+      "Expression/Mood": "Smiling softly as if they just read something funny. The scene conveys a calm and inviting mood.",
+      "Setting": "A small vintage bookstore.",
+      "Background Details": "Tall wooden shelves filled with old books, contributing to a cozy atmosphere.",
+      "Lighting": "A small yellow lamp positioned on a table casts a gentle light specifically onto their face.",
+      "Technical Specifications": "Aspect ratio 5:3",
+      "inputs": {
+        "Scene Type": "A warm indoor photograph.",
+        "Subject": "The person attached in the uploaded reference image, with the face kept 100% accurate from the reference image.",
+        "Action": "Sitting and holding an open book in their hands.",
+        "Appearance": "Wearing a dark brown sweater and round reading glasses.",
+        "Expression/Mood": "Smiling softly as if they just read something funny. The scene conveys a calm and inviting mood.",
+        "Setting": "A small vintage bookstore.",
+        "Background Details": "Tall wooden shelves filled with old books, contributing to a cozy atmosphere.",
+        "Lighting": "A small yellow lamp positioned on a table casts a gentle light specifically onto their face.",
+        "Technical Specifications": "Aspect ratio 5:3"
+      }
+    }
+  },
+  {
     "id": 1765611503620,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Marka Adı Logo",
