@@ -1,5 +1,25 @@
 [
   {
+    "id": 1765696136520,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Yunus",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "A person, whose identity must be generated from the uploaded reference image, kneeling at the edge of the shore.",
+      "Setting": "A vivid beach photograph captured at the water's edge, showing the intersection of sand and ocean.",
+      "Action_Emotion": "The person is smiling genuinely while gently touching the head of a dolphin that has popped its head and upper body out of the water right next to them.",
+      "Constraint_Subject": "The facial features of the kneeling person must be generated with 100% accuracy based exclusively on the uploaded reference image.",
+      "Technical_Specification": "Aspect ratio 5:3",
+      "inputs": {
+        "Subject": "A person, whose identity must be generated from the uploaded reference image, kneeling at the edge of the shore.",
+        "Setting": "A vivid beach photograph captured at the water's edge, showing the intersection of sand and ocean.",
+        "Action_Emotion": "The person is smiling genuinely while gently touching the head of a dolphin that has popped its head and upper body out of the water right next to them.",
+        "Constraint_Subject": "The facial features of the kneeling person must be generated with 100% accuracy based exclusively on the uploaded reference image.",
+        "Technical_Specification": "Aspect ratio 5:3"
+      }
+    }
+  },
+  {
     "id": 1765644549921,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Çiçek Buketi",
