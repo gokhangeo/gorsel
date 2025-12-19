@@ -1,5 +1,61 @@
 [
   {
+    "id": 1766164112594,
+    "category": "🚀 ÖZEL MODLARIM'",
+    "title": "Piksel Yemek",
+    "hasImageUpload": true,
+    "json": {
+      "Image_Type": "Minimalist food photograph",
+      "Aspect_Ratio": "1080x1080 square format",
+      "Subject_Placement": "A single food item resting on a light, matte surface",
+      "Core_Concept": "Object captured mid-transformation into a 3D pixelized form",
+      "Transformation_Detail": {
+        "Intact_Portion": "One half remains intact",
+        "Fragmented_Portion": "The other half organically fragments into large, floating cubes that drift outward",
+        "Cube_Content": "Each cube reveals the object’s texture, ingredients, and colors"
+      },
+      "Lighting_and_Shadows": "Studio lighting with soft, realistic shadows",
+      "Composition_and_Focus": {
+        "Shot_Type": "Cinematic close-up",
+        "Depth_of_Field": "Shallow depth of field",
+        "Aesthetics": "Tasteful perspective and composition"
+      },
+      "Style_Keywords": [
+        "Hyperrealistic detail",
+        "Stylish geometric abstraction"
+      ],
+      "Post_Production_Effects": {
+        "Motion": "Subtle motion blur applied specifically to the drifting cubes",
+        "Resolution": "High resolution"
+      },
+      "inputs": {
+        "Image_Type": "Minimalist food photograph",
+        "Aspect_Ratio": "1080x1080 square format",
+        "Subject_Placement": "A single food item resting on a light, matte surface",
+        "Core_Concept": "Object captured mid-transformation into a 3D pixelized form",
+        "Transformation_Detail": {
+          "Intact_Portion": "One half remains intact",
+          "Fragmented_Portion": "The other half organically fragments into large, floating cubes that drift outward",
+          "Cube_Content": "Each cube reveals the object’s texture, ingredients, and colors"
+        },
+        "Lighting_and_Shadows": "Studio lighting with soft, realistic shadows",
+        "Composition_and_Focus": {
+          "Shot_Type": "Cinematic close-up",
+          "Depth_of_Field": "Shallow depth of field",
+          "Aesthetics": "Tasteful perspective and composition"
+        },
+        "Style_Keywords": [
+          "Hyperrealistic detail",
+          "Stylish geometric abstraction"
+        ],
+        "Post_Production_Effects": {
+          "Motion": "Subtle motion blur applied specifically to the drifting cubes",
+          "Resolution": "High resolution"
+        }
+      }
+    }
+  },
+  {
     "id": 1765696136520,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Yunus",
