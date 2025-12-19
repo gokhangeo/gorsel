@@ -1,5 +1,61 @@
 [
   {
+    "id": 1766165509314,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Ünlü Selfie",
+    "hasImageUpload": true,
+    "json": {
+      "SceneContext": {
+        "Setting": "Detailed, believable behind-the-scenes film set, including visible cameras, lighting rigs, monitors, crew members, and production equipment.",
+        "UserRole": "Guest on set, not part of the official cast or crew.",
+        "UserWardrobe": "Modern, casual, real-world clothing that sharply contrasts with the actors' professional wardrobe/costumes."
+      },
+      "PerspectiveAndFraming": {
+        "Viewpoint": "Realistic first-person POV selfie, taken from the precise perspective of the user's own eyes looking at a front-facing phone camera.",
+        "Exclusions": "The phone device, user's hands, and user's arms must be completely invisible and excluded from the frame.",
+        "FramingLevel": "Intimate, face-level shot.",
+        "Composition": "Actors must be positioned in the immediate foreground, dominating the shot."
+      },
+      "SubjectDetails_User": {
+        "IdentityConsistency": "Maintain the user's recognizable facial features and identity based on the uploaded reference image, ensuring perspective consistency."
+      },
+      "SubjectDetails_Actors": {
+        "AwarenessAndAction": "Actors are aware of the photo being taken, leaning in naturally, appearing friendly and casual as if pausing briefly between takes.",
+        "Proximity": "Actors are standing or posing very close to the viewer (user).",
+        "GazeDirection": "Actors are looking directly into the camera lens."
+      },
+      "AestheticsAndStyle": {
+        "Atmosphere": "Candid, unpolished, spontaneous, and authentic.",
+        "Lighting": "Realistic on-set lighting typical of a spontaneous, friendly shot."
+      },
+      "inputs": {
+        "SceneContext": {
+          "Setting": "Detailed, believable behind-the-scenes film set, including visible cameras, lighting rigs, monitors, crew members, and production equipment.",
+          "UserRole": "Guest on set, not part of the official cast or crew.",
+          "UserWardrobe": "Modern, casual, real-world clothing that sharply contrasts with the actors' professional wardrobe/costumes."
+        },
+        "PerspectiveAndFraming": {
+          "Viewpoint": "Realistic first-person POV selfie, taken from the precise perspective of the user's own eyes looking at a front-facing phone camera.",
+          "Exclusions": "The phone device, user's hands, and user's arms must be completely invisible and excluded from the frame.",
+          "FramingLevel": "Intimate, face-level shot.",
+          "Composition": "Actors must be positioned in the immediate foreground, dominating the shot."
+        },
+        "SubjectDetails_User": {
+          "IdentityConsistency": "Maintain the user's recognizable facial features and identity based on the uploaded reference image, ensuring perspective consistency."
+        },
+        "SubjectDetails_Actors": {
+          "AwarenessAndAction": "Actors are aware of the photo being taken, leaning in naturally, appearing friendly and casual as if pausing briefly between takes.",
+          "Proximity": "Actors are standing or posing very close to the viewer (user).",
+          "GazeDirection": "Actors are looking directly into the camera lens."
+        },
+        "AestheticsAndStyle": {
+          "Atmosphere": "Candid, unpolished, spontaneous, and authentic.",
+          "Lighting": "Realistic on-set lighting typical of a spontaneous, friendly shot."
+        }
+      }
+    }
+  },
+  {
     "id": 1766165229765,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Siyah beyaz foto",
