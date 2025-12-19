@@ -1,5 +1,17 @@
 [
   {
+    "id": 1766164209859,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Studio FOTO",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "detay": "Buraya ne yazılacak?"
+      }
+    }
+  },
+  {
     "id": 1766164112594,
     "category": "🚀 ÖZEL MODLARIM'",
     "title": "Piksel Yemek",
