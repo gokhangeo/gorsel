@@ -1,5 +1,20 @@
 [
   {
+    "id": 1766183860431,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "3d Minari",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt": "A hyper-realistic 3D isometric masterpiece visualizing the historical lineage and cultural heritage of [LOCATION PLACEHOLDER]. The scene is set against a magnificent, endless traditional ink-wash historical parchment scroll unfurling across the background. Iconic ancient architecture and landmarks dynamically emerge from the scroll. The parchment contains extensive, location-adaptive handwritten annotations in calligraphic manuscript style, including: Identity Notes (name, historical names, defining description), Time & Origin Notes (century, founding civilization, timeline arrows), Function & Usage Notes (original purpose, present-day role), Spatial & Architectural Notes (geographic position, architectural character, defining structural elements, ink sketches, cross-sections, elevation drawings), and Cultural & Historical Significance Notes (important historical events, legends, civilizational impact). All notes incorporate parenthetical explanations, directional arrows, compass symbols, scale markings, and cartographic icons pointing toward the emerging 3D structures. The scroll flows through space like a river of time, forming a panoramic historical narrative. 2D black ink brushstrokes, handwritten text, and schematic drawings seamlessly transform into high-fidelity, ultra-detailed 3D monuments rising from the paper. Ink lines morph into stone, brick, wood, and metal surfaces. Flat manuscript illustrations evolve into volumetric, ultra-detailed architecture while remaining visually connected to the aged parchment texture, showing ink bleed and floating historical calligraphy. Detailed elements include red wax or seal stamps, atmospheric clouds and fog wrapping around the structures. Epic golden-hour cinematic lighting illuminates the 3D forms, dramatically contrasted against the monochrome ink-and-parchment background. 8K resolution, depth of field, Unreal Engine 5 render, grand scale, museum-quality realism.",
+        "ar": "16:9",
+        "stylize": 350,
+        "no": "flat, simple, cartoon, borders, frame, table, modern buildings"
+      }
+    }
+  },
+  {
     "id": 1766167426267,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Geyik Foto",
