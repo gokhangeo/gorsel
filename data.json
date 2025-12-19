@@ -1,5 +1,33 @@
 [
   {
+    "id": 1766165229765,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Siyah beyaz foto",
+    "hasImageUpload": true,
+    "json": {
+      "Subject": "Portrait of the uploaded person",
+      "Art_Style": "Fine Art Studio Portraiture, Black and White",
+      "Mood": "Elegant and sophisticated",
+      "Pose": "Seated, relaxed and composed, both hands resting naturally in front",
+      "Expression_Gaze": "Calm, thoughtful expression, direct eye contact with the camera",
+      "Appearance": "Slightly messy hair softly framing the face, natural smooth skin tones, clean white shirt",
+      "Composition_Angle": "Subtle cinematic angle (not strict eye level)",
+      "Lighting_Environment": "Minimalist Studio Setup, Plain Grey Backdrop, Soft Diffused Cinematic Lighting, Gentle Shadows and Depth",
+      "Technical_Details": "Ultra-realistic textures, Sharp facial details, Professional photography quality, High contrast, Smooth tonal gradation, 8K resolution, No noise, No pixel loss",
+      "inputs": {
+        "Subject": "Portrait of the uploaded person",
+        "Art_Style": "Fine Art Studio Portraiture, Black and White",
+        "Mood": "Elegant and sophisticated",
+        "Pose": "Seated, relaxed and composed, both hands resting naturally in front",
+        "Expression_Gaze": "Calm, thoughtful expression, direct eye contact with the camera",
+        "Appearance": "Slightly messy hair softly framing the face, natural smooth skin tones, clean white shirt",
+        "Composition_Angle": "Subtle cinematic angle (not strict eye level)",
+        "Lighting_Environment": "Minimalist Studio Setup, Plain Grey Backdrop, Soft Diffused Cinematic Lighting, Gentle Shadows and Depth",
+        "Technical_Details": "Ultra-realistic textures, Sharp facial details, Professional photography quality, High contrast, Smooth tonal gradation, 8K resolution, No noise, No pixel loss"
+      }
+    }
+  },
+  {
     "id": 1766164811023,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Stüdyo Portre",
