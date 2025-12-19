@@ -1,5 +1,69 @@
 [
   {
+    "id": 1766164811023,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Stüdyo Portre",
+    "hasImageUpload": true,
+    "json": {
+      "SubjectDetails": {
+        "Type": "Ultra-realistic studio portrait of the uploaded person (a man)",
+        "Attire": "Clean black shirt",
+        "Pose": "Sitting on the backside of a chair, facing away from the camera",
+        "SkinTone": "Professionally adjusted natural skin tone"
+      },
+      "AestheticsAndStyle": {
+        "ColorGrading": "Cinematic black-and-white",
+        "Background": "Minimalist black studio background",
+        "OverallStyle": "Photorealistic, hyper-detailed, studio photography quality"
+      },
+      "LightingAndAtmosphere": {
+        "Contrast": "High-contrast lighting",
+        "ShadowQuality": "Soft shadows",
+        "SpecialEffects": "Controlled rim light outlining the subject",
+        "Atmosphere": "Dramatic feel"
+      },
+      "CompositionAndFraming": {
+        "CameraAngle": "Slightly elevated or low cinematic angle (shifted from standard eye-level)",
+        "Focus": "Sharp focus"
+      },
+      "TechnicalSpecifications": {
+        "Resolution": "8K resolution",
+        "Textures": "True-to-life textures",
+        "ImageCleanliness": "No noise, no grain",
+        "QualityAssurance": "Zero pixel loss"
+      },
+      "inputs": {
+        "SubjectDetails": {
+          "Type": "Ultra-realistic studio portrait of the uploaded person (a man)",
+          "Attire": "Clean black shirt",
+          "Pose": "Sitting on the backside of a chair, facing away from the camera",
+          "SkinTone": "Professionally adjusted natural skin tone"
+        },
+        "AestheticsAndStyle": {
+          "ColorGrading": "Cinematic black-and-white",
+          "Background": "Minimalist black studio background",
+          "OverallStyle": "Photorealistic, hyper-detailed, studio photography quality"
+        },
+        "LightingAndAtmosphere": {
+          "Contrast": "High-contrast lighting",
+          "ShadowQuality": "Soft shadows",
+          "SpecialEffects": "Controlled rim light outlining the subject",
+          "Atmosphere": "Dramatic feel"
+        },
+        "CompositionAndFraming": {
+          "CameraAngle": "Slightly elevated or low cinematic angle (shifted from standard eye-level)",
+          "Focus": "Sharp focus"
+        },
+        "TechnicalSpecifications": {
+          "Resolution": "8K resolution",
+          "Textures": "True-to-life textures",
+          "ImageCleanliness": "No noise, no grain",
+          "QualityAssurance": "Zero pixel loss"
+        }
+      }
+    }
+  },
+  {
     "id": 1766164225910,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Studio FOTO",
