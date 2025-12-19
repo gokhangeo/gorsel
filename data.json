@@ -1,5 +1,47 @@
 [
   {
+    "id": 1766167192872,
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Geyik FOTO",
+    "hasImageUpload": true,
+    "json": {
+      "scene_description": "A rare outdoor photo capturing a moment of interaction between a person and a deer in a secluded forest clearing.",
+      "subject_details": {
+        "person_action": "Kneeling on the ground.",
+        "emotional_state": "Smiling slowly, showing surprise mixed with calm acceptance.",
+        "interaction": "The deer is approaching gently and touching its nose directly to the person's extended hand.",
+        "mandatory_constraint": "The person's face must maintain 100% accuracy to the uploaded reference image."
+      },
+      "setting_and_ambiance": {
+        "location": "A dense forest clearing.",
+        "lighting": "Soft, diffused light breaking through the tree canopy, illuminating the subjects.",
+        "atmosphere": "Peaceful, magical, enhanced by floating leaves in the background.",
+        "time_of_day": "Implied early morning or late afternoon (soft light)."
+      },
+      "technical_specifications": {
+        "aspect_ratio": "5:3"
+      },
+      "inputs": {
+        "scene_description": "A rare outdoor photo capturing a moment of interaction between a person and a deer in a secluded forest clearing.",
+        "subject_details": {
+          "person_action": "Kneeling on the ground.",
+          "emotional_state": "Smiling slowly, showing surprise mixed with calm acceptance.",
+          "interaction": "The deer is approaching gently and touching its nose directly to the person's extended hand.",
+          "mandatory_constraint": "The person's face must maintain 100% accuracy to the uploaded reference image."
+        },
+        "setting_and_ambiance": {
+          "location": "A dense forest clearing.",
+          "lighting": "Soft, diffused light breaking through the tree canopy, illuminating the subjects.",
+          "atmosphere": "Peaceful, magical, enhanced by floating leaves in the background.",
+          "time_of_day": "Implied early morning or late afternoon (soft light)."
+        },
+        "technical_specifications": {
+          "aspect_ratio": "5:3"
+        }
+      }
+    }
+  },
+  {
     "id": 1766165509314,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Ünlü Selfie",
