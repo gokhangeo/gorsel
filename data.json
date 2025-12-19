@@ -1,13 +1,87 @@
 [
   {
-    "id": 1766164209859,
+    "id": 1766164225910,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Studio FOTO",
     "hasImageUpload": true,
     "json": {
-      "concept": "",
+      "Image_Generation_Configuration": {
+        "Model_Context": "Google Gemini Nano banana Pro.",
+        "Task_Type": "Image Generation Prompt",
+        "Art_Style": "Hyper-realistic, cinematic, magical surrealism, and studio editorial aesthetic.",
+        "Identity_Requirement": "Strict preservation of the woman's exact facial features, proportions, hairstyle, and overall identity based on the provided reference image.",
+        "Subject_Description": {
+          "Appearance": "Female, mid-twenties, sharp, well-defined facial structure. Tousled, naturally moving dark brown hair with subtle golden highlights. Intense hazel eyes; natural, ultra-detailed skin texture.",
+          "Wardrobe": "Fitted black turtleneck hugging an athletic silhouette, dark charcoal wool trousers, and polished black leather boots.",
+          "Pose_and_Expression": "Standing perfectly still at the center of the frame, arms crossed confidently. Expression is calm, confident, and slightly amused, accepting the surreal scene as ordinary."
+        },
+        "Environment_and_Setting": {
+          "Location": "Controlled studio environment.",
+          "Background": "Deep charcoal black background, featuring a faint concrete wall texture visible only in the shadows."
+        },
+        "Surreal_Composition_Details": {
+          "Concept": "Everyday objects floating in perfect orbital patterns around the subject, governed by a force resembling personal gravity.",
+          "Objects": "A variety of items including vintage cameras, leather-bound books, steaming coffee cups, geometric concrete blocks, brass compass instruments, dried flowers, floating black ink droplets, vintage pocket watches showing different times, and crumpled paper balls.",
+          "Dynamics": "Objects are suspended at varying heights and distances, forming concentric spirals. Some objects are rendered razor-sharp, while others have a subtle motion blur to suggest slow rotation."
+        },
+        "Lighting_and_Shadows": {
+          "Key_Lighting": "High and positioned to the left, designed to create deep sculptural shadows that carve and define the subject's facial features.",
+          "Accent_Lighting": "Subtle rim lighting outlining the floating objects to enhance separation from the background.",
+          "Shadow_Effect": "Intricate, overlapping shadows cast on the floor and walls, forming geometric patterns."
+        },
+        "Technical_and_Aesthetics": {
+          "Framing": "Full-body to three-quarter portrait, centered composition.",
+          "Camera_Angle": "Eye-level, straight-on perspective.",
+          "Aspect_Ratio": "4:5 (Portrait orientation).",
+          "Camera_Specs": "Medium format camera, 85mm lens, f/2.8 aperture.",
+          "Focus": "Ultra-sharp focus maintained on the subject, with selective focus applied to the orbiting elements.",
+          "Color_Palette": "Dominant tones of deep black, warm gray, and rich brown, accented by selective golden highlights found on brass objects and hair."
+        },
+        "Quality_and_Goal": {
+          "Detail_Level": "Extreme detail in fabrics, skin texture, and material surfaces.",
+          "Rendering_Style": "Cinematic realism blended with subtle magical surrealism.",
+          "Final_Goal_Statement": "Generate a hyper-realistic cinematic studio portrait of the woman surrounded by floating everyday objects in a surreal gravitational composition, successfully preserving her exact identity while achieving a blend of elegance, mystery, and controlled chaos."
+        }
+      },
       "inputs": {
-        "detay": "Buraya ne yazılacak?"
+        "Image_Generation_Configuration": {
+          "Model_Context": "Google Gemini Nano banana Pro.",
+          "Task_Type": "Image Generation Prompt",
+          "Art_Style": "Hyper-realistic, cinematic, magical surrealism, and studio editorial aesthetic.",
+          "Identity_Requirement": "Strict preservation of the woman's exact facial features, proportions, hairstyle, and overall identity based on the provided reference image.",
+          "Subject_Description": {
+            "Appearance": "Female, mid-twenties, sharp, well-defined facial structure. Tousled, naturally moving dark brown hair with subtle golden highlights. Intense hazel eyes; natural, ultra-detailed skin texture.",
+            "Wardrobe": "Fitted black turtleneck hugging an athletic silhouette, dark charcoal wool trousers, and polished black leather boots.",
+            "Pose_and_Expression": "Standing perfectly still at the center of the frame, arms crossed confidently. Expression is calm, confident, and slightly amused, accepting the surreal scene as ordinary."
+          },
+          "Environment_and_Setting": {
+            "Location": "Controlled studio environment.",
+            "Background": "Deep charcoal black background, featuring a faint concrete wall texture visible only in the shadows."
+          },
+          "Surreal_Composition_Details": {
+            "Concept": "Everyday objects floating in perfect orbital patterns around the subject, governed by a force resembling personal gravity.",
+            "Objects": "A variety of items including vintage cameras, leather-bound books, steaming coffee cups, geometric concrete blocks, brass compass instruments, dried flowers, floating black ink droplets, vintage pocket watches showing different times, and crumpled paper balls.",
+            "Dynamics": "Objects are suspended at varying heights and distances, forming concentric spirals. Some objects are rendered razor-sharp, while others have a subtle motion blur to suggest slow rotation."
+          },
+          "Lighting_and_Shadows": {
+            "Key_Lighting": "High and positioned to the left, designed to create deep sculptural shadows that carve and define the subject's facial features.",
+            "Accent_Lighting": "Subtle rim lighting outlining the floating objects to enhance separation from the background.",
+            "Shadow_Effect": "Intricate, overlapping shadows cast on the floor and walls, forming geometric patterns."
+          },
+          "Technical_and_Aesthetics": {
+            "Framing": "Full-body to three-quarter portrait, centered composition.",
+            "Camera_Angle": "Eye-level, straight-on perspective.",
+            "Aspect_Ratio": "4:5 (Portrait orientation).",
+            "Camera_Specs": "Medium format camera, 85mm lens, f/2.8 aperture.",
+            "Focus": "Ultra-sharp focus maintained on the subject, with selective focus applied to the orbiting elements.",
+            "Color_Palette": "Dominant tones of deep black, warm gray, and rich brown, accented by selective golden highlights found on brass objects and hair."
+          },
+          "Quality_and_Goal": {
+            "Detail_Level": "Extreme detail in fabrics, skin texture, and material surfaces.",
+            "Rendering_Style": "Cinematic realism blended with subtle magical surrealism.",
+            "Final_Goal_Statement": "Generate a hyper-realistic cinematic studio portrait of the woman surrounded by floating everyday objects in a surreal gravitational composition, successfully preserving her exact identity while achieving a blend of elegance, mystery, and controlled chaos."
+          }
+        }
       }
     }
   },
