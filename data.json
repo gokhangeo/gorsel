@@ -1,6 +1,23 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Bahar Foto",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "en_boy_orani": "Görsel Boyutu",
+        "kimlik_kilidi": "Yüz Referans Görüntüsü Doğruluğu",
+        "aydinlatma_stil": "Parlak Bahar Fotoğrafı Stili",
+        "cevre": "Kiraz Çiçeği Ağaçları Zemin",
+        "efekt": "Düşen Yapraklar Efekti",
+        "prompt_base": "Kameraya gülümseyen bir kişi. Kiraz çiçeği ağaçları altında duruyor, etrafına açık pembe yapraklar dökülüyor."
+      }
+    },
+    "id": 1766241590904
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Ronaldo Selfie",
     "hasImageUpload": true,
     "json": {
