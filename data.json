@@ -1,6 +1,56 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Portre",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "project_title": "Corporate Headshot Transformation",
+        "output_specifications": {
+          "resolution": "8K",
+          "orientation": "Portrait",
+          "final_usage": "High-end LinkedIn-ready studio portrait",
+          "realism_level": "Ultra-realistic"
+        },
+        "subject_transformation": {
+          "identity_preservation": "Strict",
+          "preserved_attributes": [
+            "Exact face",
+            "Identity",
+            "Age",
+            "Gender",
+            "Ethnicity",
+            "Hairstyle",
+            "Expression",
+            "Unique facial features"
+          ],
+          "clothing_replacement": "Tailored navy blue wool business suit and crisp white shirt"
+        },
+        "environment_and_composition": {
+          "backdrop": "Clean dark gray studio backdrop",
+          "effects": "Soft center-light gradient and subtle vignette",
+          "objects": "None"
+        },
+        "photography_and_lighting": {
+          "style_reference": "Sony A7III studio portrait",
+          "lens_settings": "85mm f/1.4",
+          "depth_of_field": "Shallow (bokeh): subject sharp, background softly blurred",
+          "lighting_setup": "Soft three-point lighting",
+          "shadows": "Gentle",
+          "rim_light": "Subtle, on hair and shoulders",
+          "eyes": "Bright, natural catchlights"
+        },
+        "rendering_details": {
+          "skin_texture_handling": "Preserve natural skin texture, pores, and fine details.",
+          "post_processing_constraint": "No plastic smoothing or artificial texture alteration."
+        }
+      }
+    },
+    "id": 1766240071197
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Telefondan fırlama",
     "hasImageUpload": true,
     "json": {
