@@ -1,6 +1,93 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Telefondan fırlama",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt": "A hyper-realistic optical illusion photograph (POV, macro lens). A young Caucasian woman (20s, defined European features, natural glam makeup) appears to be stepping out of a smartphone screen held in a foreground hand (with gold rings). Her torso and head emerge vertically from the phone, while her legs and brown leather boots remain visible INSIDE the screen display. The phone screen clearly shows the active, detailed iOS Camera App Interface (white circular shutter button, 'PHOTO' mode text) and features white handwritten-style text overlays with arrows pointing to the outfit elements. The woman has dark brown, voluminous, wind-blown, long loose waves. She is looking directly at the viewer with an alluring, confident gaze and is blowing a kiss or pouting. She is wearing a turtleneck and a dark grey mini skirt (the skirt and boots are visible on the screen). Ultra-realistic skin texture (visible pores, natural imperfections, fair Caucasian skin) captured under soft daylight. The background is a blurred Parisian Park in Autumn, featuring a green bench with the text 'Le silence' and autumn leaves. DSLR composite photography style. Sharp screen pixels and realistic fabric texture.",
+        "style": [
+          "photorealistic texture",
+          "DSLR photography",
+          "composite photography",
+          "macro photography",
+          "OOTD breakdown",
+          "viral social media content",
+          "High-quality textile photography",
+          "Cinematic atmosphere"
+        ],
+        "camera": {
+          "angle": "POV, High angle looking down at the hand holding the phone",
+          "lighting": "Overcast soft natural light, soft daylight on subject",
+          "depth_of_field": "Shallow DOF, blurred background (Bokeh), Phone screen UI and subject sharp",
+          "texture": "Visible screen pixels, fingerprint smudges on screen, ultra-realistic skin and fabric texture"
+        },
+        "subject_details": {
+          "gender": "female",
+          "ethnicity": "Caucasian",
+          "age": "20s",
+          "expression": "Alluring, playful, confident, direct gaze, pouting or blowing a kiss",
+          "face_features": "High nose bridge, double eyelids, defined jawline, defined features",
+          "hair": "Long, loose waves, dark brown, voluminous, wind-blown, realistic shine",
+          "clothing": "Turtleneck (torso), Dark Grey Mini Skirt (in screen), Brown Leather Boots (in screen)",
+          "skin_tone": "Fair Caucasian skin",
+          "pose_effect": "Torso and head emerging from the phone screen (pop-out effect)"
+        },
+        "prop_details": {
+          "device": "Smartphone with burgundy case",
+          "screen_content": "Active iOS Camera App Interface (shutter button, mode text)",
+          "annotations": "White handwritten-style text overlays with arrows (legible, not mirrored)",
+          "accessories": "Gold rings on the foreground hand"
+        },
+        "background": {
+          "setting": "Parisian Park in Autumn",
+          "elements": [
+            "Green park bench with text 'Le silence'",
+            "Autumn leaves",
+            "Grey ground"
+          ],
+          "lighting": "Natural ambient light"
+        },
+        "constraints": {
+          "must_keep": [
+            "Caucasian ethnicity",
+            "Photorealistic skin texture",
+            "iOS Camera UI elements on screen (shutter button)",
+            "Handwritten text annotations on screen (legible, not mirrored)",
+            "Pop-out effect (Torso out, legs inside screen)"
+          ],
+          "avoid_styles": [
+            "3D render style",
+            "Cartoon",
+            "Anime",
+            "Illustration",
+            "Plastic skin"
+          ],
+          "image_format": {
+            "aspect_ratio": "3:4"
+          }
+        },
+        "negative_prompt": [
+          "transparent screen",
+          "blank screen",
+          "glass phone",
+          "3d",
+          "render",
+          "cartoon",
+          "anime",
+          "plastic",
+          "drawing",
+          "illustration",
+          "mirrored text",
+          "blurry annotations"
+        ]
+      }
+    },
+    "id": 1766237348778
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Mobil cocacola",
     "hasImageUpload": true,
     "json": {
