@@ -1,5 +1,19 @@
 [
   {
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Mobil cocacola",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt": "A photorealistic, highly detailed digital artwork featuring a modern smartphone screen resting on a rustic wooden table next to a notebook and a pen. The screen displays a snowy winter landscape scene with a man (with a warm smile, wearing a dark puffer jacket over a white turtleneck). Dramatic 3D pop-out effect: a hand originating from outside the screen pours Coca-Cola from a glass bottle directly into a glass held by the man inside the screen. This action creates a dynamic splash and realistic liquid movement. The glass and the high-realism splash dramatically pop out of the phone's bezel. Cinematic lighting, hyperrealism, 8k resolution, deep depth of field, sharp focus, high-contrast.",
+        "negative_prompt": "low quality, blur, noise, artifacts, distorted hands, bad anatomy, flat rendering, watermark, text, out of focus, poor composition, blurry phone display, poorly rendered liquid, man not smiling",
+        "style": "cinematic photography, hyperrealism"
+      }
+    },
+    "id": 1766225821756
+  },
+  {
     "id": 1766183860431,
     "category": "🚀 ÖZEL MODLARIM",
     "title": "3d Minari",
