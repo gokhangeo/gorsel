@@ -6,92 +6,27 @@
     "json": {
       "concept": "",
       "inputs": {
-        "image_prompt": {
-          "reference": {
-            "face_identity": "uploaded reference image",
-            "identity_lock": true,
-            "face_preservation": "100% identical facial structure, proportions, skin texture, eye shape, lips, nose, brows, moles, and natural expression"
-          },
-          "subjects": [
-            {
-              "type": "young woman",
-              "role": "foreground subject",
-              "expression": "soft confident smile",
-              "gaze": "looking directly at the camera",
-              "pose": {
-                "position": "standing very close to the male subject",
-                "interaction": "leaning slightly toward him in a casual selfie pose"
-              },
-              "hair": {
-                "color": "dark brown",
-                "style": "sleek high ponytail"
-              },
-              "makeup": {
-                "style": "natural glam",
-                "details": [
-                  "even glowing skin",
-                  "subtle contour",
-                  "soft blush",
-                  "defined brows",
-                  "natural pink lips"
-                ]
-              },
-              "outfit": {
-                "clothing": "black fitted short-sleeve top",
-                "style": "sporty casual"
-              }
-            },
-            {
-              "type": "Cristiano Ronaldo",
-              "role": "secondary subject",
-              "expression": "relaxed smile",
-              "gaze": "looking at the camera",
-              "hair": {
-                "color": "dark brown",
-                "style": "short, neatly styled"
-              },
-              "outfit": {
-                "clothing": "bright yellow football jersey",
-                "details": [
-                  "team logo visible",
-                  "athletic fit"
-                ]
-              }
-            }
-          ],
-          "environment": {
-            "location": "football stadium",
-            "background_elements": [
-              "large cheering crowd",
-              "stadium seating filled with fans",
-              "players and staff visible in the distance",
-              "night sky with stadium floodlights"
-            ]
-          },
-          "lighting": {
-            "type": "stadium lighting",
-            "characteristics": [
-              "bright overhead lights",
-              "even illumination on faces",
-              "slight highlights on skin",
-              "realistic night-time contrast"
-            ]
-          },
-          "photography_style": {
-            "style": "real-life selfie photography",
-            "camera_look": "smartphone camera",
-            "depth_of_field": "moderate depth of field with slightly blurred crowd",
-            "mood": "excited, celebratory, candid"
-          },
-          "render_quality": {
-            "realism": "ultra-photorealistic",
-            "detail_level": "high",
-            "Aspect Ratio": "4:5",
-            "skin_texture": "natural and realistic",
-            "resolution": "high resolution",
-            "color_grading": "true-to-life colors with stadium vibrancy"
-          }
-        }
+        "kisi_1_kimlik_kaynagi": "Yüz Kimliği Referansı",
+        "kimlik_kilidi": "Kimlik Koruma Açık/Kapalı",
+        "kisi_1_tipi": "Birinci Öznenin Tipi",
+        "kisi_1_ifade": "Birinci Öznenin Yüz İfadesi",
+        "kisi_1_pozu": "Öznenin Pozu ve Etkileşimi",
+        "kisi_1_sac_rengi": "Birinci Öznenin Saç Rengi",
+        "kisi_1_sac_stili": "Birinci Öznenin Saç Stili",
+        "kisi_1_makyaj_stili": "Birinci Öznenin Makyaj Stili",
+        "kisi_1_kiyafet": "Birinci Öznenin Kıyafeti",
+        "kisi_2_tipi": "İkinci Öznenin Adı/Tipi",
+        "kisi_2_ifade": "İkinci Öznenin Yüz İfadesi",
+        "kisi_2_kiyafet": "İkinci Öznenin Kıyafeti",
+        "ortam_konumu": "Çekim Yeri",
+        "arka_plan_detaylari": "Arka Plan Detayları",
+        "aydinlatma_tipi": "Aydınlatma Kaynağı",
+        "fotograf_stili": "Fotoğrafçılık Tarzı",
+        "kamera_tipi": "Kullanılan Kamera Görünümü",
+        "atmosfer_ruh_hali": "Görselin Hissiyatı/Ruh Hali",
+        "gerceklik_seviyesi": "Gerçekçilik Seviyesi",
+        "en_boy_orani": "Görüntü Oranı",
+        "prompt_base": "Ultra-fotogerçekçi, akıllı telefon kamerasıyla çekilmiş gerçek hayattan selfie fotoğrafı. Koyu kahverengi at kuyruklu, siyah kısa kollu tişört giyen genç bir kadın (yüz kimliği referans görselle eşleşmeli), yumuşak, kendinden emin bir gülümsemeyle, parlak sarı futbol forması giyen Cristiano Ronaldo'nun hemen yanında duruyor. Ortam: Futbol stadyumu, arkada tezahürat yapan büyük bir kalabalık, stadyum aydınlatması, heyecanlı ve içten ruh hali, 4:5 en boy oranı."
       }
     },
     "id": 1766241050356
