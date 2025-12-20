@@ -1,6 +1,26 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Cam Önünde",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "scene_type": "İç Mekan Fotoğraf Tarzı",
+        "reference_image": "Kişi Yüz Referansı (Upload)",
+        "face_fidelity": "Yüz Doğruluğu Ayarı",
+        "action": "Kafayı Pencereye Dayama",
+        "atmosphere": "Yağmurlu Pencere Detayı",
+        "lighting": "Arka Işıklandırma ve Sıcaklık",
+        "mood": "Yumuşak Gülümseme / Rahat",
+        "aspect_ratio": "En Boy Oranı",
+        "prompt_base": "A cozy {scene_type} shows the person resting their {action} on a {atmosphere} window. They smile softly. {lighting} glows behind them. Aspect ratio {aspect_ratio}"
+      }
+    },
+    "id": 1766241750207
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Bahar Foto",
     "hasImageUpload": true,
     "json": {
