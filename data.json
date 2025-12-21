@@ -1,5 +1,21 @@
 [
   {
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Ünlü Selfie",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "sinematik fotoğraf gerçekçi",
+        "yüksek_detay": "4k detay",
+        "tip": "selfie",
+        "referans_kalite": "referans kişi %100 aynı görünüm yüz hatları",
+        "en_boy_oranı": "1:1"
+      }
+    },
+    "id": 1766329543946.7256
+  },
+  {
     "category": "🚀 ÖZEL MODLARIM'",
     "title": "Geçmiş Kahraman",
     "hasImageUpload": true,
