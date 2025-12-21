@@ -1,6 +1,25 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kültürel Miras",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "kültürel_miras_adı": "Görselleştirilecek Kültürel Mirasın Adı",
+        "render_stili": "Temel Render Stili ve Perspektif",
+        "arka_plan": "Arka Plan Ortamı ve Doku",
+        "parşömen_detayları": "Parşömen Üzerindeki Hat ve Minyatür Stili",
+        "aydınlatma": "Sinematik Aydınlatma Tipi",
+        "atmosfer_detayları": "Parşömen Eskime ve Detay Unsurları",
+        "malzeme_dönüşümü": "2D Mürekkebin 3D Malzemeye Dönüşüm Tipi",
+        "prompt_base": "Hyper-realistic 3D isometric masterpiece, set against a magnificent, endless traditional ink-wash historical parchment scroll unfurling across the background. The scene visualizes the cultural memory, spiritual depth, and intangible heritage of {kültürel_miras_adı}, interpreted through symbolic imagery, ritual motion, and historically rooted aesthetics emerging directly from the parchment. Parchment contains Ottoman-style handwritten calligraphy, ink sketches, and miniature-style illustrations. Composition: The central cultural figure or action breaks free from the parchment. 2D black ink brushstrokes and miniature illustrations seamlessly transform into hyper-realistic 3D figures, fabrics, textures, and materials. Visual Effect: Ink lines morph into human skin, flowing fabric, leather, wood, metal. Flat manuscript drawings evolve into volumetric, ultra-detailed 3D forms with dynamic motion frozen at a symbolic peak moment. Details: Aged parchment texture, visible ink bleed, faded edges, floating Turkish calligraphy fragments, red wax or Ottoman-style seal stamps, subtle dust particles, mist. Lighting: Epic golden-hour cinematic lighting, dramatically contrasted against the monochrome background. 8K resolution, cinematic depth of field, Unreal Engine 5 render, museum-quality realism, ultra-detailed textures. --ar 16:9 --stylize 350 --no flat, simple, cartoon, borders, frame, table, modern buildings"
+      }
+    },
+    "id": 1766327419495
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Cam Önünde",
     "hasImageUpload": true,
     "json": {
