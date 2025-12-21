@@ -1,6 +1,25 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Kemal Sunal Selfie ",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "realistic behind-the-scenes selfie kibar feyzo set 1978.",
+        "sahne": "kibar feyzo (kemal sunal) ve character reference person yanyana, casual selfie pozunda, çekim arası doğal an.",
+        "karakter_feyzo": "ikonik yıpranmış şapka, koyu ceket, kirli çizgili gömlek, omuzda kürek, naif dişli gülücük.",
+        "karakter_ref": "character reference image'daki kişi (yüz, beden, oranlar korunacak), feyzo'ya yakın poz veriyor. hiçbir değişiklik/güzelleştirme yok.",
+        "yer": "otantik anadolu köy seti, kerpiç (mud-brick) evler, kuru saman balyaları, tozlu zemin.",
+        "arka_plan": "görünür film ekipmanları (vintage kamera, ışıklar, boom mikrofon), set ekibi üyeleri.",
+        "stil": "photorealistic, doğal 1970s film stok estetiği, sert parlak gün ışığı, gerçek bir set anı.",
+        "oran": "4:5"
+      }
+    },
+    "id": 1766335841416.6145
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Ünlü Selfie",
     "hasImageUpload": true,
     "json": {
