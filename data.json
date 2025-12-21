@@ -6,11 +6,14 @@
     "json": {
       "concept": "",
       "inputs": {
-        "prompt_base": "sinematik fotoğraf gerçekçi",
-        "yüksek_detay": "4k detay",
-        "tip": "selfie",
-        "referans_kalite": "referans kişi %100 aynı görünüm yüz hatları",
-        "en_boy_oranı": "1:1"
+        "prompt_base": "selfie, taking photo with neo, matrix set",
+        "co_star": "keanu reeves, neo outfit",
+        "action": "extreme close up selfie angle",
+        "setting": "the matrix location, sci-fi interior",
+        "fidelity": "reference subject preservation, photorealistic",
+        "user_face": "facial features, bone structure, skin color, expression, pose 100% identical",
+        "aspect_ratio": "1:1 square",
+        "resolution": "4k detail, ultra quality"
       }
     },
     "id": 1766329543946.7256
