@@ -1,6 +1,24 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Güzel Kız",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "full body, hyper realistic photography, cinematic, cinema, hyper detail, ultra hd, color correction, hdr, color grading, 8k, 4:5",
+        "subject": "young woman portrait, face consistent with uploaded image, no structural change, sleeveless textured light-colored dress, smartwatch on left wrist",
+        "setting": "in front of a window, red horizontal blinds, neutral background",
+        "lighting": "natural light, sunlight filters through blinds, creating striped shadows across face arm and shoulder, play of light and shadow",
+        "pose": "contemplative expression, gazing thoughtfully out of frame, right hand gently touching chin, left hand resting on forehead fingers lightly curled",
+        "camera": "canon eos r camera, 50mm f/1.8 lens, f/2.2 aperture, shutter speed 1/200s, iso 100",
+        "aesthetic": "professional artistic feel, focus on natural light and subject's serene expression"
+      }
+    },
+    "id": 1766336588584.9133
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Kemal Sunal Selfie ",
     "hasImageUpload": true,
     "json": {
