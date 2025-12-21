@@ -1,6 +1,29 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Güzel Kız-2",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "consistent face reference edit",
+        "subject": "young woman smiling portrait",
+        "setting": "indoor window horizontal blinds dark background",
+        "lighting": "dramatic sunlight shadows chiaroscuro",
+        "attire": "black white striped shirt",
+        "style": "cinematic moody contemplative hyperrealism",
+        "camera": "canon eos r",
+        "lens": "50mm f1.8",
+        "settings": "f2.2 1/200s iso100 natural light",
+        "composition": "full body portrait 4:5",
+        "post_process": "color correction color grading hdr",
+        "resolution": "ultra hd 8k hyper detail"
+      }
+    },
+    "id": 1766336805693.3972
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Güzel Kız",
     "hasImageUpload": true,
     "json": {
