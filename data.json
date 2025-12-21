@@ -1,5 +1,29 @@
 [
   {
+    "category": "🚀 ÖZEL MODLARIM'",
+    "title": "Geçmiş Kahraman",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "layout": "Görsel Düzen (4 Dikey Panel)",
+        "p1_era": "Panel 1: Dönem (Göktürk Savaşçısı)",
+        "p1_outfit": "Panel 1: Kıyafet ve Silah Detayı",
+        "p2_era": "Panel 2: Dönem (Klasik Osmanlı Figürü)",
+        "p2_outfit": "Panel 2: Kıyafet ve Arka Plan",
+        "p3_era": "Panel 3: Dönem (İstiklal Savaşı Kahramanı)",
+        "p3_outfit": "Panel 3: Kıyafet ve Şapka (Kalpak)",
+        "p4_era": "Panel 4: Dönem (Modern / Fütüristik Türkiye)",
+        "p4_outfit": "Panel 4: Karakter Tipi (Kızıl Elma stili)",
+        "character_identity": "Karakter Kimliği (Yüz Tutarlılığı)",
+        "image_style": "Görsel Stil ve Çözünürlük",
+        "aspect_ratio": "Görsel Oran",
+        "prompt_base": "A dynamic 4-panel vertical grid image showing the exact same character identity (face structure and eyes) adapted to four distinct historical eras of Türkiye, with subtle inter-panel interaction and cinematic lighting."
+      }
+    },
+    "id": 1766328290905
+  },
+  {
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Kültürel Miras",
     "hasImageUpload": true,
