@@ -1,6 +1,26 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Whatsapp Balonu",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "hyperrealism",
+        "photography": "macro top down 8k",
+        "lighting": "studio sharp focus",
+        "object": "whatsapp speech bubble table",
+        "figures": "two tiny real humans",
+        "detail": "realistic skin hair fabric",
+        "food": "freshly cooked real",
+        "ui": "timestamp text bubble ticks",
+        "background": "dense seamless whatsapp pattern"
+      }
+    },
+    "id": 1767044085072.769
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Fasulye Küçük Adam",
     "hasImageUpload": true,
     "json": {
