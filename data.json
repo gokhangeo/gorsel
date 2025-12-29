@@ -1,5 +1,24 @@
 [
   {
+    "category": "🚀 ÖZEL MODLARIM",
+    "title": "Fasulye Küçük Adam",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "surreal_macro_fantasy_scene",
+        "konu": "kucuk_adam_oturmus_fasulyeye_dayanmis",
+        "kiyafet": "pembe_tisort_siyah_sort",
+        "cevre": "makro_fantazi_toprak_kok_cakil_detayi",
+        "bitki": "uzun_fasulye_fidani_taze_yapraklar_tohum_parcalari",
+        "teknik": "hiper_realistik_sinematik_makro_stil_8k",
+        "kamera": "sig_alan_derinligi_yumusak_bokeh_net_on_plan",
+        "isiklandirma": "dogal_dis_mekan_isigi_canli_renkler"
+      }
+    },
+    "id": 1767021469594.68
+  },
+  {
     "category": "🍔 Yemek & Mutfak",
     "title": "Uçuşan yemek",
     "hasImageUpload": true,
