@@ -1,5 +1,23 @@
 [
   {
+    "category": "🍔 Yemek & Mutfak",
+    "title": "Uçuşan yemek",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "Perfectly styled [FOOD] centered in frame with raw ingredients orbiting around it, herbs, spices, and sauces floating mid-air, controlled chaos, studio lighting with soft highlights, dark background, modern food ad photography, hyper-detailed, ultra-real",
+        "stil": "modern reklam fotoğrafçılığı",
+        "konu": "merkezlenmiş yiyecek",
+        "kompozisyon": "kontrollü kaos, yüzen malzemeler",
+        "aydinlatma": "stüdyo, yumuşak vurgular",
+        "arka_plan": "koyu",
+        "kalite": "hiper detay, ultra gerçek"
+      }
+    },
+    "id": 1767016053058.9207
+  },
+  {
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Güzel Kız-2",
     "hasImageUpload": true,
