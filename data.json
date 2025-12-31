@@ -1,6 +1,30 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Çocukluk",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "moda cekimi",
+        "kalite": "yuksek moda, hiperrealist",
+        "orijinal_yuz": "evet",
+        "yuz_referansi": "erkek fotograf",
+        "giyim": "turuncu kazak, kahve pantolon, ayakkabi",
+        "poz": "velma'ya yaslanma",
+        "ifade": "oyuncu, kendinden emin",
+        "karakter_ad": "velma dinkley (scooby-doo)",
+        "karakter_tip": "3d cizgi film stili",
+        "etkilesim": "velma gulumseme, rahat durus",
+        "arka_plan": "scooby-doo cizgi film, duz renkler",
+        "aydinlatma": "yumusak studyo",
+        "atmosfer": "luks, oyuncu moda"
+      }
+    },
+    "id": 1767187168887.4482
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Whatsapp Balonu",
     "hasImageUpload": true,
     "json": {
