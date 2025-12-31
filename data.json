@@ -1,6 +1,22 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Tilki ve Tavşan",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "tren vagonu içi, karlı dağ manzarası, yumuşak kış gün ışığı, doğal aydınlatma, sığ alan derinliği",
+        "ana_konu": "iki animasyon karakteri (tilki, tavşan) sarılıyor, dostane etkileşim, gerçekçi gölge geçişi, kusursuz kompozisyon, film kalitesi",
+        "kamera": "sony a7, 50mm lens, gerçekçi cilt, pürüzsüz renk, net detay, yumuşak bokeh",
+        "atmosfer": "rahat, sinematik, iç ısıtan, kış tatili havası, profesyonel fotoğrafçılık",
+        "parametreler": "ar 2:3, v 6, stil sinematik, yukarıdan aydınlatma"
+      }
+    },
+    "id": 1767187400729.7869
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Çocukluk",
     "hasImageUpload": true,
     "json": {
