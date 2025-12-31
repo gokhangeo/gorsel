@@ -1,6 +1,32 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Şehrin GEÇMİŞİ",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "buyuk, ekspresif, kalin yagliboya fircasi darbesi, tek, genis yay seklinde, zaman cizelgesi formunda. [city_name] tarihi bu darbenin icinden doguyor.",
+        "arkaplan": "gercek ressam tuvali, gorunur doku, dogal krem ton, bos negatif alan.",
+        "firca_darbesi": "alt sol baslangic, yukari kavis, sag ust bitis. surekli, akiskan, kronolojik hareket.",
+        "kronoloji_yay": "antik donem kalin/agir/toprak pigment; modern donem kontrollu/incelmis boya. surekli akis.",
+        "mimari_dogus": "tum yapilar firca darbesinden olusmus, impasto yukseliyor, heykelsi hacim, yagliboya koku.",
+        "doku_malzeme": "ultra detayli impasto, gorunur firca izi, kalin pigment katmanlari, 3d bas-rolyef derinligi.",
+        "konumlandirma_yay": {
+          "baslangic_sol_alt": "erken yerlesimler, ilkel yapilar, agir impasto.",
+          "orta_tepe": "onemli tarihi yapilar, ikonik binalar, net ama ressam isi formlar.",
+          "bitis_sag_ust": "gunumuz [city_name], modern siluet, en temiz heykelsi yapi."
+        },
+        "yazi_dil": "tum gorunur metin turkce. minimal, yapilara demirli, yapi adi/tarih/olay etiketi.",
+        "city_adi_stili": "[city_name] ismi kalin impasto yagliboya harfleriyle tuvalde, yay ile uyumlu.",
+        "isik_mod": "sinematik altin saat isigi, boya kabartmasina vurgu. antikte mat, modern parlak.",
+        "kompozisyon": "firca ucu gorunur, temiz bitis. her sey yalnizca yay icinde. muze kalitesinde denge."
+      }
+    },
+    "id": 1767195698121.5146
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Tilki ve Tavşan",
     "hasImageUpload": true,
     "json": {
