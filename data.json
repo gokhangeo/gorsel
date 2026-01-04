@@ -1,6 +1,27 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Cam Şehir",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "subject": "molten glass city sculpture",
+        "material": "venetian hot glass",
+        "form": "viscous diagonal flow",
+        "style": "macro cinematic luxury art",
+        "technique": "internal refraction subsurface glow",
+        "palette": "amber fiery orange honey cyan",
+        "background": "plain deep matte black",
+        "details": "liquid crystalline hyperrealistic 8k",
+        "typography": "molten glass title",
+        "prompt_base": "TARİF: \"Input variable: [buraya şehir adını yaz]\n\nA macro-medium stream of freshly molten Venetian glass, glowing with internal heat, captured mid-motion as it flows in a smooth diagonal arc from the lower left to the upper right.\nThe glass is semi-transparent, viscous, and alive with heat flowing like liquid fire, with subtle ripples, internal currents, and glowing gradients.\n\nSuspended inside the molten glass exists a miniature city of [city name], entirely sculpted from the same hot glass material as if the city itself is being born inside the melt.\n\nInside the molten glass:\nIconic landmarks of [city name], such as its most recognizable architectural symbols, bridges, skyline elements, domes, towers, or monuments, all rendered as intricate glass sculptures.\nCanals, streets, or waterways (if relevant to the city) flow naturally with the curvature of the molten glass.\nSmall contextual elements (boats, arches, rooftops, terraces) are fused seamlessly into the glass mass no separate materials.\n\nAll forms appear liquid, glowing, crystalline, and heat-softened, strictly obeying the physics of molten glass  softened edges, internal refractions, light bending, trapped bubbles, and subtle imperfections.\n\nStyle:\nMacro cinematic product photography fused with luxury glass art / Murano glass craftsmanship.\nExtreme emphasis on:\n\ninternal refraction\nsubsurface glow\nglass thickness variation\nheat gradients (amber, honey, molten orange, subtle cyan highlights)\n\nColor palette:\nNaturally derived from hot glass:\nmolten amber\nfiery orange\ngolden honey\ntranslucent teal / cyan edges\nsubtle white-hot highlights\n\nView & background:\nPlain, matte deep black background for maximum contrast.\nMinimalist, gallery-grade composition.\nStrong negative space around the glass form.\n\nTypography (mandatory, glass-based):\nTitle: “[city name]”\nThe title text itself is formed from molten Venetian glass  glowing, semi-transparent, and heat-softened, as if freshly blown and still hot.\nThe letters appear sculpted from the same glass material as the city, with visible thickness, internal refraction, trapped bubbles, and molten glow.\nThe text sits in the negative space, never overlapping the main glass flow, but visually consistent with the molten material language.\n\nComposition rules:\nThe molten glass creates a clear physical boundary.\nAll city details exist strictly inside the glass flow.\nNothing leaks into the background.\nNo additional materials (no metal, stone, water outside glass).\nUltra-detailed, hyper-realistic texture.\n8K resolution.\nCinematic studio lighting with soft rim light and strong internal glow.\""
+      }
+    },
+    "id": 1767554070267.8645
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Selfie",
     "hasImageUpload": true,
     "json": {
