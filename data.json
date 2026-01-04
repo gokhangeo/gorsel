@@ -1,6 +1,27 @@
 [
   {
     "category": "🚀 ÖZEL MODLARIM",
+    "title": "Selfie",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "prompt_base": "photorealistic selfie image",
+        "identity": "preserved consistent",
+        "appearance": "healthy well rested fresh",
+        "facial_volume": "natural full balanced",
+        "makeup": "preserved consistent",
+        "framing": "shoulders up soft angle",
+        "lighting": "soft natural face filling",
+        "camera": "smartphone front facing",
+        "style": "realistic subtle flattering minimal edit",
+        "negatives": "sunken hollow tired gaunt overly thin harsh shadows mirror phone visible"
+      }
+    },
+    "id": 1767553772745.6516
+  },
+  {
+    "category": "🚀 ÖZEL MODLARIM",
     "title": "Şehrin GEÇMİŞİ",
     "hasImageUpload": true,
     "json": {
