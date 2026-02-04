@@ -1,5 +1,34 @@
 [
   {
+    "category": "⭐ Özel Çözüm",
+    "title": "Yemeğin Anatomisi",
+    "hasImageUpload": true,
+    "json": {
+      "concept": "",
+      "inputs": {
+        "type": "hyperrealistic food infographic",
+        "cuisine": "turkish",
+        "base": "etli nohut bowl",
+        "float": "chickpeas, beef cubes, tomato sauce, butter, onion, garlic, red pepper, bay leaf",
+        "layout": "clean vertical",
+        "arrange": "gravity-defying elements",
+        "bg": "rustic wood surface",
+        "anchor": "bowl bottom, ingredients rise",
+        "labels": "clear turkish text",
+        "lines": "thin white pointers",
+        "style": "editorial magazine layout",
+        "light": "cinematic studio",
+        "color": "warm tones",
+        "effects": "dramatic steam, frozen motion",
+        "camera": "shallow dof, dslr look",
+        "detail": "ultra detailed textures",
+        "resolution": "ultrarealistic",
+        "prompt_base": "etli nohut"
+      }
+    },
+    "id": 1770240113887.831
+  },
+  {
     "category": "🚀 ÖZEL MODLARIM",
     "title": "Cam Şehir",
     "hasImageUpload": true,
